@@ -1,5 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
+include_once(APPPATH.'models/member.php');
+
 class Index extends CI_Controller {
 
 	public function __construct() {
@@ -33,6 +35,36 @@ class Index extends CI_Controller {
 		$id = $this->input->post('userID');
 		$password = $this->input->post('password');
 		$nickname = $this->input->post('nickname');
+
+		$member = new Member();
+		$member->setUserID($id);
+		$member->setPassword($password);
+		$member->setNickname($nickname);
+
+		$this->load->model('MemberDAO');
+		$result = $this->MemberDAO->insertUser($member);
+		if($result==1) echo 'true';
+		else echo 'false';
+	}
+
+	function isExistID(){
+		$id = $this->input->post('userID');
+
+		$this->load->model('MemberDAO');
+		$member = $this->MemberDAO->getUser($id);
+
+		if($member->getUserID()) echo 'false';
+		else echo 'true';
+	}
+
+	function isExistNickname(){
+		$nickname = $this->input->post('nickname');
+
+		$this->load->model('MemberDAO');
+		$member = $this->MemberDAO->getUserByNickname($nickname);
+
+		if($member->getUserID()) echo 'false';
+		else echo 'true';
 	}
 }
 

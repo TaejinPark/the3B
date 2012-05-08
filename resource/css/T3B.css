@@ -23,4 +23,4 @@
 .select_field_month		{width:100px; margin:5px 5px 5px 0px; font-size:10px; float:left;}
 .select_field_day		{width:100px; margin:5px 5px 5px 0px; font-size:10px; float:left;}
 
-#statistics	,td,th		{border:solid 1px;}
+#statistics	,td ,th		{border:solid 1px;}

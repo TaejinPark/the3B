@@ -9,6 +9,11 @@
 		<script src ="/resource/js/jquery/jquery.mobile-1.1.0.min.js"></script>
 		<script src ="/resource/js/T3B.js"></script>
 		<link 	rel="stylesheet" href="/resource/css/T3B.css">
+		<script>
+		$("div[data-role='page']").live("pageshow",function(event){
+			$('#join input').blur(vaildForm);
+		});
+		</script>
 	</head>
 	
 	<body id="body" width="100%" onload="load()">
@@ -23,7 +28,7 @@
 		</div><!-- /header -->
 		
 		<div id="login" class="ui-body ui-body-d" >
-			<form method="POST" action="room_list.html">
+			<form method="POST" action="." onsubmit="doLogin(this); return false;">
 				<div class="input_field_div">
 					<input type="text" 		name="id" value="" placeholder="사용자 ID" class="input_field_login"/>
 				</div>
@@ -37,20 +42,21 @@
 		</div><!--/login-->	
 		
 		<div id="join" class="ui-body ui-body-d">
-			<form method="POST" action="room_list.html">
+			<form method="POST" action="." onsubmit="doJoin(this); return false;">
 				<div class="input_field_div">
 					<input type="text" 		name="id" 		 value="" placeholder="사용자 ID"		class="input_field_join" maxlength="100"/>
-					<span>가능</span>
+					<span></span>
 				</div>
 				<div class="input_field_div">
 					<input type="password" 	name="pw" 		 value="" placeholder="비밀번호" 		class="input_field_join" maxlength="32"/>
 				</div>
 				<div class="input_field_div">
-					<input type="password" 	name="pw_varify" value="" placeholder="비밀번호 확인"  class="input_field_join" maxlength="32"/>
-					<span>불가</span>
+					<input type="password" 	name="pw_verify" value="" placeholder="비밀번호 확인"  class="input_field_join" maxlength="32"/>
+					<span></span>
 				</div>
 				<div class="input_field_div">
 					<input type="text" 		name="nick_name" value="" placeholder="사용자 별칭"	class="input_field_join" maxlength="100"/>
+					<span></span>
 				</div>
 <!--				<div>생년월일</div>
 				<div name="birth_year" class="select_field_year">

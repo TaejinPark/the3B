@@ -24,7 +24,7 @@ function resizeContent()
 var buttonFlag = false;	
 
 function load(){
-	birth_option();
+	//birth_option();
 	setInterval(formPosition,1);
 }
 
@@ -104,15 +104,77 @@ function init(){
 	obj.width(obj.children("span").width());
 }
 
-function view_room_stat(element){
+function view_room_list(element){
 	var obj = document.getElementById("roomlist");
 	obj.style.display = "none";
 	obj = document.getElementById("status");
 	obj.style.display = "none";
+	obj = document.getElementById("makeroom");
+	obj.style.display = "none";
 	obj = document.getElementById(element);
+	
 	if(obj.style.display == "none")
 		obj.style.display = "block";
 	else
 		obj.style.display = "none";
 	buttonFlag = true;
+}
+
+// url: /index/
+
+function doLogin(form){
+	var obj = $(form);
+	$.ajax({type:'POST',url:"/index/doLogin/",data:{userID:obj.find('input[name=id]').val(),password:obj.find('input[name=pw]').val()}})
+	.done(function(data){
+		if(data=="false")
+			alert("사용자 ID가 잘못되었거나, 비밀번호가 잘못되었습니다.");
+		else if(data=="true")
+			location.href="/list/";
+	});
+}
+
+function vaildForm(){
+	var obj = $(this);
+	var spanobj = obj.next('span');
+	if(!obj.val()){
+		spanobj.text('불가능');
+		return;
+	}
+	switch(obj.attr('name')){
+		case 'id':
+			$.ajax({type:"POST",url:"/index/isExistID/",data:{userID:obj.val()}})
+			.done(function(data){
+				if(data=="false") spanobj.text('불가능');
+				else if(data=="true") spanobj.text('가능');
+			});
+		break;
+		case 'pw_verify':
+			if($('#join input[name=pw]').val() != obj.val() ) spanobj.text('불가능');
+			else spanobj.text('가능');
+		break;
+		case 'nick_name':
+			$.ajax({type:"POST",url:"/index/isExistNickname/",data:{nickname:obj.val()}})
+			.done(function(data){
+				if(data=="false") spanobj.text('불가능');
+				else if(data=="true") spanobj.text('가능');
+			});
+		break;
+	}
+}
+
+function doJoin(form){
+	var obj = $(form);
+	var id = obj.find('input[name=id]').val();
+	var pw = obj.find('input[name=pw]').val();
+	var nickname = obj.find('input[name=nick_name]').val();
+	$.ajax({type:"POST",url:"/index/doJoin/",data:{userID:id,password:pw,nickname:nickname}})
+	.done(function(data){
+		if(data=="false")
+			alert("정보가 잘못 입력되었습니다.\n입력 한 정보를 다시 입력해 주세요.");
+		else if(data=="true") {
+			alert("가입이 완료 되었습니다.\n로그인 버튼을 눌러 로그인 해 주세요.");
+			view_clear();
+			view('login');
+		}
+	});
 }
