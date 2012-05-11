@@ -10,7 +10,6 @@ $("div[data-role='page']").live( "pageshow", function( event )
     load();
 });
 
-
 function resizeContent()
 {
     var headerHeight = parseInt( $("div[data-role='header']").css( "height" ) );

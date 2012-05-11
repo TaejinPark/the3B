@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The BokBulBok</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">	
+		<meta name="viewport" content="width=device-width, initial-scale=1">	
+		<link   href="resource/js/jquery/jquery.mobile-1.1.0.css" rel="stylesheet"/>
+		<script src ="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+		<script src ="resource/js/jquery/jquery.mobile-1.1.0.min.js"></script>
+		<script src ="resource/js/T3B.js"></script>
+		<link 	rel="stylesheet" href="/resource/css/T3B.css">
+		<style type=text/css>
+			
+			#header	div			{margin:0px;}
+			#header_cofing		{margin:0px;}
+			#header_config h3	{margin:0px 1px;}
+			#header_config h3 a {width:99.5%;}
+			#header_config div	{margin:0px 1px;}
+			
+			#content			{margin:0px; padding:5px;}
+			
+			hr					{margin:5px;}
+			
+			#chat					{padding:5px; height:100px;}
+			
+			#chat_input_form		{width:100%; clear:both;}
+			#chat_input_form div	{margin:5px;}
+			
+			#chat_input_form div a	{margin:0px;}
+			#chat_input_form div a span	{margin:0px; padding:7px;}
+			
+			#chat_input				{float:left;}
+			#chat_input	input		{margin:0px 0px; width:100%;}
+			#chat_send				{float:right;}
+			
+			#participant			{margin:5px 10px; float:left;}
+			#play					{margin:5px 10px; float:right;}
+			
+			#divider				{clear:both;}
+			
+			#participant_list		{margin:0px; padding:0px;}
+			#participant_list a	span{padding:2px;}
+		</style>
+		<script type="text/javascript">
+			$(document).ready(function(){
+				var browserHeight = document.documentElement.clientHeight;
+				var formHeight = $("#chat_input").height();
+				var headerHeight = parseInt( $("div[data-role='header']").css( "height" ) );
+				var footerHeight = parseInt( $("div[data-role='footer']").height());
+				var height = browserHeight - headerHeight - footerHeight + 20;
+				
+				$("#chat").css("height" , height);
+			});
+		</script>
+	</head>
+	
+	<body id="body">
+		
+	<div data-role="page" class="type-interior">
+	
+		<!-- /header -->
+		<div id="header" data-role="header" data-position="fixed" data-theme="a">
+			<div id="header_config" data-role="collapsible" data-theme="a" data-content-theme="a">
+				<h3>이거슨 방 이름</h3>
+				<p>
+					<div>
+						게임 설정 내용
+					</div>
+					<div align="right">
+						<a type="button">설정 변경</a>
+					</div>
+				</p>
+			</div>
+		</div><!-- /header -->
+		
+		<!-- /content -->
+		<div id="content" data-role="content" data-theme="a">
+		<div>
+			<hr>
+			<div id="chat">
+				대화 내용
+			</div>
+			<hr>
+		</div>
+		<div id="participant_list">
+			<a type="button">참가자1</a>
+			<a type="button">참가자2</a>
+			<a type="button">참가자3</a>
+			<a type="button">참가자4</a>
+			<a type="button">참가자5</a>
+			<a type="button">참가자6</a>
+			<a type="button">참가자7</a>
+			<a type="button">참가자8</a>
+		</div>
+
+		</div><!-- /content -->
+		<!-- /footer -->	
+		<div id="footer" data-role="footer" data-position="fixed" data-theme="a">
+			<div id="chat_input_form">
+				<div id="chat_input"><input type="text"></div>
+				<div id="chat_send" ><a type="button">전송</a></div>
+			</div>
+			<div id="divider"></div>
+			<div>
+				<div id="participant"><a type="button">참가자</a></div>
+				<div id="play"><a type="button">Play</a></div>
+			</div>
+		</div><!-- /footer -->
+	</div><!-- /page -->
+	</body>
+	
+</html>
+
+        
