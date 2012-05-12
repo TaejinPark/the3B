@@ -4,16 +4,22 @@ include_once(APPPATH.'models/member.php');
 
 class Index extends CI_Controller {
 
-	public function __construct() {
+	function __construct() {
 		parent::__construct();
 	}
 
-	public function index() {
+	function index() {
 		//load MainPage
 		$this->load->view('index');
 	}
 
 	function doLogin(){
+		$data = $this->session->userdata('member');
+		if($data){
+			echo 'existslogin';
+			return;
+		}
+
 		$id = $this->input->post('userID');
 		$password = $this->input->post('password');
 
@@ -32,6 +38,12 @@ class Index extends CI_Controller {
 	}
 
 	function doJoin(){
+		$data = $this->session->userdata('member');
+		if($data){
+			echo 'existslogin';
+			return;
+		}
+
 		$id = $this->input->post('userID');
 		$password = $this->input->post('password');
 		$nickname = $this->input->post('nickname');
@@ -65,6 +77,20 @@ class Index extends CI_Controller {
 
 		if($member->getUserID()) echo 'false';
 		else echo 'true';
+	}
+
+	function doGuestLogin(){
+		$data = $this->session->userdata('member');
+		if($data){
+			echo 'existslogin';
+			return;
+		}
+
+		$member = new Member();
+		$member->setUserID('__Guest'.strtoupper(substr(md5(rand()),0,6)));
+		$member->setNickname($member->getUserID());
+		$this->session->set_userdata('member',$member);
+		echo 'true';
 	}
 }
 

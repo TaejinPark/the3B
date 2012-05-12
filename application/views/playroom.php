@@ -5,15 +5,18 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">	
 		<meta name="viewport" content="width=device-width, initial-scale=1">	
-		<link   href="resource/js/jquery/jquery.mobile-1.1.0.css" rel="stylesheet"/>
+		<link   href="/resource/js/jquery/jquery.mobile-1.1.0.css" rel="stylesheet"/>
 		<script src ="http://code.jquery.com/jquery-1.6.4.min.js"></script>
-		<script src ="resource/js/jquery/jquery.mobile-1.1.0.min.js"></script>
-		<script src ="resource/js/playroom.js"></script>
-		<link 	href="resource/css/playroom.css" rel="stylesheet" >
+		<script src ="/resource/js/jquery/jquery.mobile-1.1.0.min.js"></script>
+		<script src ="/resource/js/playroom.js"></script>
+		<link 	href="/resource/css/playroom.css" rel="stylesheet" >
 		<style type="text/css">
-			#room_config		{}
-			#participant_num	{margin:0px 10px;}
+
+			
 		</style>
+		<script type="text/javascript">
+
+		</script>
 	</head>
 	
 	<body id="body">
@@ -22,12 +25,10 @@
 	
 		<!-- /header -->
 		<div id="header" data-role="header" data-position="fixed" data-theme="a">
-			<div id="header_config" data-role="collapsible" data-theme="a" data-content-theme="a">
-				<h3>방 이름</h3>
-				<div align="right">
-					<a type="button">설정 변경</a>
-				</div>
-			</div>
+				<h3 data-inline="true">방 이름</h3>
+				<div id="unfold"><a onclick="view_config('room_info'); view_folding('fold');"data-role="button" data-icon="arrow-d" data-iconpos="notext" data-theme="a">unfold</a></div>
+				<div id="fold"><a onclick="view_config('none'); view_folding('unfold');" data-role="button" data-icon="arrow-u" data-iconpos="notext" data-theme="a">fold</a></div>
+
 		</div><!-- /header -->
 		
 		<!-- /content -->
@@ -44,21 +45,32 @@
 					승리 빙고 : 
 					<span>3줄</span>
 				</div>
+				<a id="config_change" onclick="view_config('room_config');" type="button" data-inline="true;">설정 변경</a>
 			</div><!-- /room inform -->
 			
-
 			<div id="room_config"><!-- /room config-->
-					<div id="participant_num">
-						<div data-role="fieldcontain">
-							<label for="slider-a">참가자 : </label>
-						 	<input type="range" name="slider" id="slider-a" value="2" min="2" max="8" data-theme="e"/>
-						</div>
+				<div>
+					<div id="participant_num" data-role="fieldcontain">
+						<div>참가자</div>
+					 	<input type="range" name="slider" id="slider-a" value="2" min="2" max="8" data-theme="e"/>
 					</div>
-					<div>게임 종류 : 
+					<div id="select_game_type">
+						<div>게임 종류</div>
+						<select name="select_game_type" data-native-menu="false">
+							<option value="bingo">빙고</option>
+							<option value="dice">주사위</option>
+							<option value="ladder">사다리</option>
+							<option value="pirate">해적</option>
+						</select>
 					</div>
-					<div>-Option-<br>
+					<div id="bingo_option_line"data-role="fieldcontain">
+						<div>빙고 라인 갯수</div>
+					 	<input type="range" name="slider" id="slider-a" value="2" min="2" max="8" data-theme="e"/>
 					</div>
-				</div><!-- /room config -->
+					<a id="config_confirm" type="button" data-inline="true;">적용</a>
+				</div>
+			</div><!-- /room config -->
+				
 			<div id="chat">
 					대화 내용
 			</div>
@@ -98,7 +110,9 @@
 			</div>
 			
 			<div id="gamedisplay">
-				요깅
+				<div>
+					
+				</div>
 			</div>
 			
 		</div><!-- /content -->

@@ -1,7 +1,7 @@
 <?php
 include_once(APPPATH.'models/roomuser.php');
 
-class ResultDAO extends CI_Model {
+class RoomUserDAO extends CI_Model {
 
 	function __construct(){
 		parent::__construct();

@@ -7,7 +7,6 @@ $("div[data-role='page']").live( "pageshow", function( event )
 {   
     resizeContent();
     init();
-    load();
 });
 
 function resizeContent()
@@ -15,7 +14,7 @@ function resizeContent()
     var headerHeight = parseInt( $("div[data-role='header']").css( "height" ) );
     var footerHeight = parseInt( $("div[data-role='footer']").height());
     var contentHeight = $("#content").css.height - headerHeight - footerHeight;
-    $("div[data-role='content']").css( "height", contentHeight );
+    $("#content]").css( "height", contentHeight );
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////

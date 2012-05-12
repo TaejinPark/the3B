@@ -1,14 +1,15 @@
 <?php
 class Room {
-	private $room_seq;
-	private $name;
-	private $maxuser;
-	private $private;
-	private $password;
-	private $gmaetype;
-	private $gameoption;
-	private $roomtype;
-	private $owner;
+	public $room_seq;
+	public $name;
+	public $maxuser;
+	public $private;
+	public $password;
+	public $gametype;
+	public $gameoption;
+	public $roomtype;
+	public $owner;
+	public $currentuser;
 
 	function getRoomSeq(){
 		return $this->room_seq;
@@ -51,11 +52,11 @@ class Room {
 	}
 
 	function getGameType(){
-		return $this->gmaetype;
+		return $this->gametype;
 	}
 
-	function setGameType($gmaetype){
-		$this->gmaetype = $gmaetype;
+	function setGameType($gametype){
+		$this->gametype = $gametype;
 	}
 
 	function getGameOption(){
@@ -80,6 +81,14 @@ class Room {
 
 	function setOwner($owner){
 		$this->owner = $owner;
+	}
+
+	function getCurrentUser(){
+		return $this->currentuser;
+	}
+
+	function setCurrentUser($currentuser){
+		$this->currentuser = $currentuser;
 	}
 }
 ?>

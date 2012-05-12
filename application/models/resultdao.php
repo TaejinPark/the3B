@@ -9,7 +9,7 @@ class ResultDAO extends CI_Model {
 	}
 
 	function getResultList($userID, $type=0){
-		$result = $this->db->where("userID",$userID)->get("result");
+		$result = $this->db->where("userID",$userID)->where("type",$type)->get("result");
 
 		$dataList = array();
 		foreach($result->result() as $data){
@@ -37,6 +37,16 @@ class ResultDAO extends CI_Model {
 
 		if($this->db->affected_rows()>0) return 1;
 		else return 0;
+	}
+
+	function getResult($userID, $type=0){
+		$result = $this->db->select("(select count(*) from `result` where `result`=1 and `gametype`={$type} and `userID`='{$userID}' group by `result` ) as `win`",false)
+			 ->select("(select count(*) from `result` where `userID`='{$userID}' and `gametype`={$type} group by `userID` ) as `total`",false)->get();
+		$data = array();
+		foreach( $result->result() as $row){
+			$data[] = $row;
+		}
+		return $data;
 	}
 }
 ?>

@@ -35,10 +35,11 @@ class RoomDAO extends CI_Model{
 
 		if($room->getName()=="" || !$room->getName()) return -1;
 		
+		unset($room->currentuser);
 		$this->db->set($room);
 		$this->db->insert('room');
 
-		if($this->db->affected_rows()>0) return 1;
+		if($this->db->affected_rows()>0) return $this->db->insert_id();
 		else return 0;
 	}
 
@@ -60,18 +61,26 @@ class RoomDAO extends CI_Model{
 
 		$result = $this->db->get('room',$limit,$start);
 		$data = array();
-		foreach($result->result() as $row){
+		foreach( $result->result() as $row){
 			$tmp = new Room();
 			$tmp->setRoomSeq($row->room_seq);
 			$tmp->setName($row->name);
 			$tmp->setMaxUser($row->maxuser);
 			$tmp->setPrivate($row->private);
 			$tmp->setPassword($row->password);
-			$tmp->setGameType($row->gmaetype);
+			$tmp->setGameType($row->gametype);
 			$tmp->setGameOption($row->gameoption);
 			$tmp->setRoomType($row->roomtype);
 			$tmp->setOwner($row->owner);
 			$data[] = $tmp;
+		}
+		for($a=0,$loopa=sizeof($data); $a<$loopa; $a++){
+			$tmp2 = $this->db->select('count(*) as `cnt`',false)->where('room_seq',$data[$a]->getRoomSeq())->group_by('room_seq')->get('room_user');
+			if($tmp2->num_rows()>0){
+				$tmp = $tmp2->row();
+				$data[$a]->setCurrentUser($tmp->cnt);
+			} else
+				$data[$a]->SetCurrentUser(0);
 		}
 		return $data;
 	}

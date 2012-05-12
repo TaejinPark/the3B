@@ -1,16 +1,31 @@
+
 #header	div			{margin:0px;}
 #header_cofing		{margin:0px; padding:0px;}
 #header_config h3	{margin:0px 1px; padding:0px;}
 #header_config h3 a {width:99.5%;}
 
-#room_info			{display: none;}
+#room_info				{display: none; border-bottom:solid 4px; margin:10px;}
+#room_info	> div		{margin:10px;}
+#room_config > div		{border-bottom:solid 4px; margin:10px;}
+#room_config			{display:none;}
+#select_game_type		{margin:10px 20px;}
+#participant_num		{margin:0px 20px;}
+#participant_num input	{width:40px;}
+#bingo_option_line		{margin:0px 20px;}
+#bingo_option_line input{width:40px;}
+
+#unfold					{position:absolute; top:0px; right:0px; margin-right:10px;}
+#fold					{display:none; position:absolute; top:0px; right:0px; margin-right:10px;}
+
+#config_change			{margin:10px 20px;}
+#config_confirm			{margin:10px 20px;}
 
 
 #content			{margin:0px; padding:0px;}
 
-#chat					{ positioin:absolute; }
-#participant_list		{margin:0px; padding:10px 0px; positioin:absolute; display:none;}
-#gamedisplay			{display:none;  positioin:absolute; }
+#chat					{margin:10px 20px 10px 10px;}
+#participant_list		{margin:0px; padding:10px 0px; display:none;}
+#gamedisplay			{display:none; }
 
 #chat_input_form		{width:100%; clear:both;}
 #chat_input_form div	{margin:5px;}

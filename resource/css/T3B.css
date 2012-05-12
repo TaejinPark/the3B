@@ -1,26 +1,33 @@
-* 					{margin:0px; padding:0px;}
+* {margin:0px; padding:0px;}
 
 
 
-#login				{position:absolute; top; right:10%; display:none; border-radius:15px;}
-#join				{position:absolute; top; right:2%;  display:none; border-radius:15px;}
+#login {position:absolute; top; right:10%; display:none; border-radius:15px;}
+#join {position:absolute; top; right:2%;  display:none; border-radius:15px;}
 
 
 
 
 
-.padding				{padding:1% 0% 1% 0%; margin-right:10px;}
+.padding {padding:1% 0% 1% 0%; margin-right:10px;}
+#topbtm a {padding:5px; margin:0px 10px 15px 10px;}
 
-.submit					{font-size:10px; clear:both;}
+.submit {font-size:10px; clear:both;}
 
-.input_field_div		{margin:5px 0px 5px 0px; width:200px; padding-right: 7px; clear:both;}
-.input_field_div input 	{font-size: 10px; display:inline;}
-.input_field_div span 	{font-size: 10px; }
-.input_field_login		{width:140px;}
-.input_field_join		{width:150px !important;}
+.input_field_div {margin:5px 0px 5px 0px; width:200px; padding-right: 7px; clear:both;}
+.input_field_div input {font-size: 10px; display:inline;}
+.input_field_div span {font-size: 10px; }
+#login input {width:180px;}
+#join input {width:150px !important;}
 
-.select_field_year		{margin:5px 5px 5px 0px;font-size:10px; clear:both;}
-.select_field_month		{width:100px; margin:5px 5px 5px 0px; font-size:10px; float:left;}
-.select_field_day		{width:100px; margin:5px 5px 5px 0px; font-size:10px; float:left;}
+.select_field_year {margin:5px 5px 5px 0px;font-size:10px; clear:both;}
+.select_field_month {width:100px; margin:5px 5px 5px 0px; font-size:10px; float:left;}
+.select_field_day {width:100px; margin:5px 5px 5px 0px; font-size:10px; float:left;}
 
-#statistics	,td ,th		{border:solid 1px;}
+#statistics ,td ,th {border:solid 1px;}
+
+
+.menu { float: right; }
+#footer div { width: 150px; margin: 0 auto; }
+
+#makeroom {margin-right:10px;}

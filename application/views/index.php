@@ -12,28 +12,41 @@
 		<script>
 		$("div[data-role='page']").live("pageshow",function(event){
 			$('#join input').blur(vaildForm);
+			load();
+			$(".login").click(function(){view('login');});
+			$(".join").click(function(){view('join');});
+			$(".guest").click(function(){doGuestLogin();});
+			$('#login form').submit(function(){
+				doLogin($(this));
+				return false;
+			});
+			$('#join form').submit(function(){
+				doJoin($(this));
+				return false;
+			});
+			$("#content").click(function(){view_clear();});
 		});
 		</script>
 	</head>
 	
-	<body id="body" width="100%" onload="load()">
+	<body id="body" onload="load()">
 	<div data-role="page" class="type-interior">
 		
 		<div id ="header" data-role="header" data-position="fixed" data-theme="b">
-			<div class="padding" align="right">
-					<span onclick="view('login')">Login</span><span> | </span>
-					<span onclick="view('join')" >Join </span><span> | </span>
-					<span onclick="view('guest')">Guest</span>
+			<div class="padding menu">
+				<span class="login">Login</span><span> | </span>
+				<span class="join">Join </span><span> | </span>
+				<span class="guest">Guest</span>
 			</div>
 		</div><!-- /header -->
 		
 		<div id="login" class="ui-body ui-body-d" >
-			<form method="POST" action="." onsubmit="doLogin(this); return false;">
+			<form method="POST" action=".">
 				<div class="input_field_div">
-					<input type="text" 		name="id" value="" placeholder="사용자 ID" class="input_field_login"/>
+					<input type="text" name="id" value="" placeholder="사용자 ID"/>
 				</div>
 				<div class="input_field_div">
-					<input type="password" 	name="pw" value="" placeholder="비밀번호"  class="input_field_login"/>
+					<input type="password" name="pw" value="" placeholder="비밀번호" />
 				</div>
 				<div class="input_field_div">
 					<input type="submit" value="확인">
@@ -42,20 +55,20 @@
 		</div><!--/login-->	
 		
 		<div id="join" class="ui-body ui-body-d">
-			<form method="POST" action="." onsubmit="doJoin(this); return false;">
+			<form method="POST" action=".">
 				<div class="input_field_div">
-					<input type="text" 		name="id" 		 value="" placeholder="사용자 ID"		class="input_field_join" maxlength="100"/>
+					<input type="text" name="id" value="" placeholder="사용자 ID" maxlength="100"/>
 					<span></span>
 				</div>
 				<div class="input_field_div">
-					<input type="password" 	name="pw" 		 value="" placeholder="비밀번호" 		class="input_field_join" maxlength="32"/>
+					<input type="password" name="pw" value="" placeholder="비밀번호" maxlength="32"/>
 				</div>
 				<div class="input_field_div">
-					<input type="password" 	name="pw_verify" value="" placeholder="비밀번호 확인"  class="input_field_join" maxlength="32"/>
+					<input type="password" name="pw_verify" value="" placeholder="비밀번호 확인"  maxlength="32"/>
 					<span></span>
 				</div>
 				<div class="input_field_div">
-					<input type="text" 		name="nick_name" value="" placeholder="사용자 별칭"	class="input_field_join" maxlength="100"/>
+					<input type="text" name="nick_name" value="" placeholder="사용자 별칭" maxlength="100"/>
 					<span></span>
 				</div>
 <!--				<div>생년월일</div>
@@ -80,12 +93,12 @@
 			</form>
 		</div><!--/join-->	
 				
-		<div data-role="content" data-theme="b" onclick="view_clear()">
+		<div data-role="content" data-theme="b" id="content">
 			<img src="/resource/img/main.jpg" width="100%" height="100%"/>
 		</div><!-- /content -->
 				
-		<div data-role="footer" data-position="fixed" data-theme="b" class="padding">
-			<center>The BokBulBok</center>
+		<div data-role="footer" data-position="fixed" data-theme="b" class="padding" id="footer">
+			<div>The BokBulBok</div>
 		</div><!-- /footer -->
 		
 	</div><!-- /page -->
