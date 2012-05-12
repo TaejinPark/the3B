@@ -1,0 +1,40 @@
+#header	div			{margin:0px;}
+#header_cofing		{margin:0px; padding:0px;}
+#header_config h3	{margin:0px 1px; padding:0px;}
+#header_config h3 a {width:99.5%;}
+
+#room_info			{display: none;}
+
+
+#content			{margin:0px; padding:0px;}
+
+#chat					{ positioin:absolute; }
+#participant_list		{margin:0px; padding:10px 0px; positioin:absolute; display:none;}
+#gamedisplay			{display:none;  positioin:absolute; }
+
+#chat_input_form		{width:100%; clear:both;}
+#chat_input_form div	{margin:5px;}
+
+#chat_input_form div a	{margin:0px;}
+#chat_input_form div a span	{margin:0px; padding:7px;}
+
+#chat_input				{float:left;}
+#chat_input	input		{margin:0px 0px; width:100%;}
+#chat_send				{float:right;}
+
+
+#participant_button		{margin:5px 5px;}
+#chat_list_button		{margin:5px 5px;}
+#play_button			{margin:5px 5px;float:right;}
+#exit_button			{margin:5px 5px;float:right;}
+#divider				{clear:both;}
+
+#participant_list a		{padding:0px; margin:5px;}
+#participant_list spand	{padding:0px; margin:5px;}
+#participant_list a	span{padding:2px;}
+
+#button_list			{padding:0px 0px 5px 5px; margin:0px;}
+#button_list	div		{margin:0px; padding:0px;}
+#participant_button		{float:left;}
+#chat_list_button		{float:left;}
+

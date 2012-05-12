@@ -8,51 +8,12 @@
 		<link   href="resource/js/jquery/jquery.mobile-1.1.0.css" rel="stylesheet"/>
 		<script src ="http://code.jquery.com/jquery-1.6.4.min.js"></script>
 		<script src ="resource/js/jquery/jquery.mobile-1.1.0.min.js"></script>
-		<script src ="resource/js/T3B.js"></script>
-		<link 	rel="stylesheet" href="/resource/css/T3B.css">
-		<style type=text/css>
-			
-			#header	div			{margin:0px;}
-			#header_cofing		{margin:0px;}
-			#header_config h3	{margin:0px 1px;}
-			#header_config h3 a {width:99.5%;}
-			#header_config div	{margin:0px 1px;}
-			
-			#content			{margin:0px; padding:5px;}
-			
-			hr					{margin:5px;}
-			
-			#chat					{padding:5px; height:100px;}
-			
-			#chat_input_form		{width:100%; clear:both;}
-			#chat_input_form div	{margin:5px;}
-			
-			#chat_input_form div a	{margin:0px;}
-			#chat_input_form div a span	{margin:0px; padding:7px;}
-			
-			#chat_input				{float:left;}
-			#chat_input	input		{margin:0px 0px; width:100%;}
-			#chat_send				{float:right;}
-			
-			#participant			{margin:5px 10px; float:left;}
-			#play					{margin:5px 10px; float:right;}
-			
-			#divider				{clear:both;}
-			
-			#participant_list		{margin:0px; padding:0px;}
-			#participant_list a	span{padding:2px;}
+		<script src ="resource/js/playroom.js"></script>
+		<link 	href="resource/css/playroom.css" rel="stylesheet" >
+		<style type="text/css">
+			#room_config		{}
+			#participant_num	{margin:0px 10px;}
 		</style>
-		<script type="text/javascript">
-			$(document).ready(function(){
-				var browserHeight = document.documentElement.clientHeight;
-				var formHeight = $("#chat_input").height();
-				var headerHeight = parseInt( $("div[data-role='header']").css( "height" ) );
-				var footerHeight = parseInt( $("div[data-role='footer']").height());
-				var height = browserHeight - headerHeight - footerHeight + 20;
-				
-				$("#chat").css("height" , height);
-			});
-		</script>
 	</head>
 	
 	<body id="body">
@@ -62,38 +23,84 @@
 		<!-- /header -->
 		<div id="header" data-role="header" data-position="fixed" data-theme="a">
 			<div id="header_config" data-role="collapsible" data-theme="a" data-content-theme="a">
-				<h3>이거슨 방 이름</h3>
-				<p>
-					<div>
-						게임 설정 내용
-					</div>
-					<div align="right">
-						<a type="button">설정 변경</a>
-					</div>
-				</p>
+				<h3>방 이름</h3>
+				<div align="right">
+					<a type="button">설정 변경</a>
+				</div>
 			</div>
 		</div><!-- /header -->
 		
 		<!-- /content -->
 		<div id="content" data-role="content" data-theme="a">
-		<div>
-			<hr>
-			<div id="chat">
-				대화 내용
-			</div>
-			<hr>
-		</div>
-		<div id="participant_list">
-			<a type="button">참가자1</a>
-			<a type="button">참가자2</a>
-			<a type="button">참가자3</a>
-			<a type="button">참가자4</a>
-			<a type="button">참가자5</a>
-			<a type="button">참가자6</a>
-			<a type="button">참가자7</a>
-			<a type="button">참가자8</a>
-		</div>
+			<div id="room_info"><!-- /room inform-->
+				<div>참가자 : 
+					<span>6</span> / 
+					<span>8</span>
+				</div>
+				<div>게임 종류 : 
+					<span>빙고</span>
+				</div>
+				<div>-Option-<br>
+					승리 빙고 : 
+					<span>3줄</span>
+				</div>
+			</div><!-- /room inform -->
+			
 
+			<div id="room_config"><!-- /room config-->
+					<div id="participant_num">
+						<div data-role="fieldcontain">
+							<label for="slider-a">참가자 : </label>
+						 	<input type="range" name="slider" id="slider-a" value="2" min="2" max="8" data-theme="e"/>
+						</div>
+					</div>
+					<div>게임 종류 : 
+					</div>
+					<div>-Option-<br>
+					</div>
+				</div><!-- /room config -->
+			<div id="chat">
+					대화 내용
+			</div>
+			
+			<div id="participant_list">
+				<a type="button" data-inline="true">방장</a>
+				<a id="ready3" type="button" data-inline="true">시작 요청</a>
+				<span id="host">사용자1</span>
+				<br>
+				<a id="kick2" type="button" data-inline="true">강퇴</a>
+				<a id="ready2" type="button" data-inline="true">준비 요청</a>
+				<span id="user2" >사용자2</span><br>
+				
+				<a id="kick3" type="button" data-inline="true">강퇴</a>
+				<a id="ready3" type="button" data-inline="true">준비 요청</a>
+				<span id="user3" >사용자3</span><br>
+				
+				<a id="kick4" type="button" data-inline="true">강퇴</a>
+				<a id="ready4" type="button" data-inline="true">준비 요청</a>
+				<span id="user4" >사용자4</span><br>
+				
+				<a id="kick5" type="button" data-inline="true">강퇴</a>
+				<a id="ready5" type="button" data-inline="true">준비 요청</a>
+				<span id="user5" >사용자5</span><br>
+				
+				<a id="kick6" type="button" data-inline="true">강퇴</a>
+				<a id="ready6" type="button" data-inline="true">준비 요청</a>
+				<span id="user6" >사용자6</span><br>
+				
+				<a id="kick7" type="button" data-inline="true">강퇴</a>
+				<a id="ready7" type="button" data-inline="true">준비 요청</a>
+				<span id="user7" >사용자7</span><br>
+				
+				<a id="kick8" type="button" data-inline="true">강퇴</a>
+				<a id="ready8" type="button" data-inline="true">준비 요청</a>
+				<span id="user8" >사용자8</span><br>
+			</div>
+			
+			<div id="gamedisplay">
+				요깅
+			</div>
+			
 		</div><!-- /content -->
 		<!-- /footer -->	
 		<div id="footer" data-role="footer" data-position="fixed" data-theme="a">
@@ -103,8 +110,14 @@
 			</div>
 			<div id="divider"></div>
 			<div>
-				<div id="participant"><a type="button">참가자</a></div>
-				<div id="play"><a type="button">Play</a></div>
+				<div id="chat_list_button"><a type="button" onclick="view('chat')">채팅창</a></div>
+				<div id="participant_button"><a type="button" onclick="view('participant_list')">참가자</a></div>
+				<div id="play_button">
+					<a type="button" href="askplay.html" data-rel="dialog">Play</a>
+				</div>
+				<div id="exit_button">
+					<a type="button" href="askexit.html" data-rel="dialog">Exit</a>
+				</div>
 			</div>
 		</div><!-- /footer -->
 	</div><!-- /page -->
@@ -112,4 +125,4 @@
 	
 </html>
 
-        
+		
