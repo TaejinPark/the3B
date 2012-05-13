@@ -215,18 +215,19 @@ function loadRoomList(start){
 	.done(function(data){
 		if(!data) return;
 		var list = eval(data);
-		if(list.length==0) $('#morerooms').css('display','none');
+		if(list.length==0) $('#roomlist > a').css('display','none');
 		var str = '';
 		for(var a=0,loopa=list.length; a<loopa; a++){
 			str +='<div data-role="collapsible" data-collapsed="true" data-content-theme="e">'+
+				'<span class="roomnumber">'+list[a].room_seq+'</span>'+
 				'<h3>'+
 					'<span>'+list[a].name+'</span>'+
-					'<img src="/resource/img/'+(list[a]["private"]?'lock':'unlock')+'_icon.png" width="24px" height="24px" style="float:right; margin:0px 5px;">'+
-					'<span style="float:right; margin:0px 5px;"> '+
+					'<img src="/resource/img/'+(list[a]["private"]?'lock':'unlock')+'_icon.png" />'+
+					'<span class="user"> '+
 							'[<span>'+list[a].currentuser+'</span>/'+
 							'<span>'+list[a].maxuser+'</span>]'+
 					'</span>'+
-					'<span style="float:right; margin:0px 5px;">'+list[a].gametype+'</span>'+
+					'<span class="gametype">'+list[a].gametype+'</span>'+
 				'</h3>'+
 				'<p>'+
 					'<div>참가자 : '+
@@ -241,7 +242,7 @@ function loadRoomList(start){
 						'<span>'+list[a].gameoption+'줄</span>'+
 					'</div>'+
 					'<div>'+
-						'<span data-role="button" data-theme="a" data-icon="star" style="padding:0px;margin:0px;">'+
+						'<span class="join" data-role="button" data-theme="a" data-icon="star">'+
 						'방 참가'+
 						'</span>'+
 					'</div>'
@@ -250,8 +251,11 @@ function loadRoomList(start){
 		}
 		if(start==0) {
 			$('#RoomList').html(str).parent().trigger("create");
-			$('#morerooms').css('display','block');
+			$('#roomlist > a').css('display','block');
 		} else $('#RoomList').append(str).parent().trigger("create");
+		$('#RoomList .join').unbind('click').click(function(){
+			location.href="/room/"+$(this).parent().parent().find('.roomnumber').text()+'/';
+		});
 	});
 }
 

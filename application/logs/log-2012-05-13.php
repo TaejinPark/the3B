@@ -3405,3 +3405,2374 @@ DEBUG - 2012-05-13 20:55:46 --> Model Class Initialized
 DEBUG - 2012-05-13 20:55:46 --> Model Class Initialized
 DEBUG - 2012-05-13 20:55:46 --> Final output sent to browser
 DEBUG - 2012-05-13 20:55:46 --> Total execution time: 0.0217
+DEBUG - 2012-05-13 21:02:48 --> Config Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:02:48 --> URI Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> Router Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> Output Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> Security Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> Input Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:02:48 --> Language Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> Session Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:02:48 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> Session routines successfully run
+DEBUG - 2012-05-13 21:02:48 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:02:48 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:02:48 --> Final output sent to browser
+DEBUG - 2012-05-13 21:02:48 --> Total execution time: 0.0288
+DEBUG - 2012-05-13 21:02:49 --> Config Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:02:49 --> URI Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Router Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Output Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Security Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Input Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:49 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:49 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:49 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:02:49 --> Language Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Session Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:02:49 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Session routines successfully run
+DEBUG - 2012-05-13 21:02:49 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Model Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Model Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Final output sent to browser
+DEBUG - 2012-05-13 21:02:49 --> Total execution time: 0.0303
+DEBUG - 2012-05-13 21:02:49 --> Config Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:02:49 --> URI Class Initialized
+DEBUG - 2012-05-13 21:02:49 --> Router Class Initialized
+ERROR - 2012-05-13 21:02:49 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:02:50 --> Config Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:02:50 --> URI Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Router Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Output Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Security Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Input Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:50 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:50 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:50 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:02:50 --> Language Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Session Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:02:50 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Session routines successfully run
+DEBUG - 2012-05-13 21:02:50 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Model Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Model Class Initialized
+DEBUG - 2012-05-13 21:02:50 --> Final output sent to browser
+DEBUG - 2012-05-13 21:02:50 --> Total execution time: 0.0229
+DEBUG - 2012-05-13 21:02:51 --> Config Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:02:51 --> URI Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Router Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Output Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Security Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Input Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:02:51 --> Language Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Session Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:02:51 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Session routines successfully run
+DEBUG - 2012-05-13 21:02:51 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:02:51 --> Final output sent to browser
+DEBUG - 2012-05-13 21:02:51 --> Total execution time: 0.0197
+DEBUG - 2012-05-13 21:02:51 --> Config Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:02:51 --> URI Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Router Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Output Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Security Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Input Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:51 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:51 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:51 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:02:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:02:51 --> Language Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Session Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:02:51 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Session routines successfully run
+DEBUG - 2012-05-13 21:02:51 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Model Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Model Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Final output sent to browser
+DEBUG - 2012-05-13 21:02:51 --> Total execution time: 0.0274
+DEBUG - 2012-05-13 21:02:51 --> Config Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:02:51 --> URI Class Initialized
+DEBUG - 2012-05-13 21:02:51 --> Router Class Initialized
+ERROR - 2012-05-13 21:02:51 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:03:57 --> Config Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:03:57 --> URI Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Router Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Output Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Security Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Input Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:03:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:03:57 --> Language Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Session Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:03:57 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Session routines successfully run
+DEBUG - 2012-05-13 21:03:57 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:03:57 --> Final output sent to browser
+DEBUG - 2012-05-13 21:03:57 --> Total execution time: 0.0274
+DEBUG - 2012-05-13 21:03:57 --> Config Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:03:57 --> URI Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Router Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Output Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Security Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Input Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:03:57 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:03:57 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:03:57 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:03:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:03:57 --> Language Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Session Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:03:57 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Session routines successfully run
+DEBUG - 2012-05-13 21:03:57 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Model Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Model Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Final output sent to browser
+DEBUG - 2012-05-13 21:03:57 --> Total execution time: 0.0308
+DEBUG - 2012-05-13 21:03:57 --> Config Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:03:57 --> URI Class Initialized
+DEBUG - 2012-05-13 21:03:57 --> Router Class Initialized
+ERROR - 2012-05-13 21:03:57 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:04:00 --> Config Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:04:00 --> URI Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Router Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Output Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Security Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Input Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:04:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:04:00 --> Language Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Session Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:04:00 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Session routines successfully run
+DEBUG - 2012-05-13 21:04:00 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:04:00 --> Final output sent to browser
+DEBUG - 2012-05-13 21:04:00 --> Total execution time: 0.0202
+DEBUG - 2012-05-13 21:04:00 --> Config Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:04:00 --> URI Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Router Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Output Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Security Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Input Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:04:00 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:04:00 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:04:00 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:04:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:04:00 --> Language Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Session Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:04:00 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Session routines successfully run
+DEBUG - 2012-05-13 21:04:00 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Model Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Model Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Final output sent to browser
+DEBUG - 2012-05-13 21:04:00 --> Total execution time: 0.0307
+DEBUG - 2012-05-13 21:04:00 --> Config Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:04:00 --> URI Class Initialized
+DEBUG - 2012-05-13 21:04:00 --> Router Class Initialized
+ERROR - 2012-05-13 21:04:00 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:04:16 --> Config Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:04:16 --> URI Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Router Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Output Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Security Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Input Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:04:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:04:16 --> Language Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Session Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:04:16 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Session routines successfully run
+DEBUG - 2012-05-13 21:04:16 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:04:16 --> Final output sent to browser
+DEBUG - 2012-05-13 21:04:16 --> Total execution time: 0.0517
+DEBUG - 2012-05-13 21:04:16 --> Config Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:04:16 --> URI Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Router Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Output Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Security Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Input Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:04:16 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:04:16 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:04:16 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:04:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:04:16 --> Language Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Session Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:04:16 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Session routines successfully run
+DEBUG - 2012-05-13 21:04:16 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Model Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Model Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Final output sent to browser
+DEBUG - 2012-05-13 21:04:16 --> Total execution time: 0.0305
+DEBUG - 2012-05-13 21:04:16 --> Config Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:04:16 --> URI Class Initialized
+DEBUG - 2012-05-13 21:04:16 --> Router Class Initialized
+ERROR - 2012-05-13 21:04:16 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:05:55 --> Config Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:05:55 --> URI Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> Router Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> Output Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> Security Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> Input Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:05:55 --> Language Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> Session Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:05:55 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> Session routines successfully run
+DEBUG - 2012-05-13 21:05:55 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:05:55 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:05:55 --> Final output sent to browser
+DEBUG - 2012-05-13 21:05:55 --> Total execution time: 0.0276
+DEBUG - 2012-05-13 21:05:56 --> Config Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:05:56 --> URI Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Router Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Output Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Security Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Input Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:56 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:56 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:56 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:05:56 --> Language Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Session Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:05:56 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Session routines successfully run
+DEBUG - 2012-05-13 21:05:56 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Model Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Model Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Final output sent to browser
+DEBUG - 2012-05-13 21:05:56 --> Total execution time: 0.0313
+DEBUG - 2012-05-13 21:05:56 --> Config Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:05:56 --> URI Class Initialized
+DEBUG - 2012-05-13 21:05:56 --> Router Class Initialized
+ERROR - 2012-05-13 21:05:56 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:05:57 --> Config Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:05:57 --> URI Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Router Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Output Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Security Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Input Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:57 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:57 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:57 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:05:57 --> Language Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Session Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:05:57 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Session routines successfully run
+DEBUG - 2012-05-13 21:05:57 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Model Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Model Class Initialized
+DEBUG - 2012-05-13 21:05:57 --> Final output sent to browser
+DEBUG - 2012-05-13 21:05:57 --> Total execution time: 0.0230
+DEBUG - 2012-05-13 21:05:58 --> Config Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:05:58 --> URI Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Router Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Output Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Security Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Input Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:05:58 --> Language Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Session Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:05:58 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Session routines successfully run
+DEBUG - 2012-05-13 21:05:58 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Model Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Model Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Final output sent to browser
+DEBUG - 2012-05-13 21:05:58 --> Total execution time: 0.0223
+DEBUG - 2012-05-13 21:05:58 --> Config Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:05:58 --> URI Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Router Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Output Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Security Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Input Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:05:58 --> Language Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Session Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:05:58 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Session routines successfully run
+DEBUG - 2012-05-13 21:05:58 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Model Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Model Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Final output sent to browser
+DEBUG - 2012-05-13 21:05:58 --> Total execution time: 0.0220
+DEBUG - 2012-05-13 21:05:58 --> Config Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:05:58 --> URI Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Router Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Output Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Security Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Input Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:05:58 --> Language Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Session Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:05:58 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Session routines successfully run
+DEBUG - 2012-05-13 21:05:58 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Model Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Model Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Final output sent to browser
+DEBUG - 2012-05-13 21:05:58 --> Total execution time: 0.0225
+DEBUG - 2012-05-13 21:05:58 --> Config Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:05:58 --> URI Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Router Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Output Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Security Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Input Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:05:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:05:58 --> Language Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Session Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:05:58 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Session routines successfully run
+DEBUG - 2012-05-13 21:05:58 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Model Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Model Class Initialized
+DEBUG - 2012-05-13 21:05:58 --> Final output sent to browser
+DEBUG - 2012-05-13 21:05:58 --> Total execution time: 0.0224
+DEBUG - 2012-05-13 21:06:34 --> Config Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:06:34 --> URI Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> Router Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> Output Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> Security Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> Input Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:06:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:06:34 --> Language Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> Session Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:06:34 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> Session routines successfully run
+DEBUG - 2012-05-13 21:06:34 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:06:34 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:06:34 --> Final output sent to browser
+DEBUG - 2012-05-13 21:06:34 --> Total execution time: 0.0276
+DEBUG - 2012-05-13 21:06:35 --> Config Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:06:35 --> URI Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Router Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Output Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Security Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Input Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:06:35 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:06:35 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:06:35 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:06:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:06:35 --> Language Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Session Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:06:35 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Session routines successfully run
+DEBUG - 2012-05-13 21:06:35 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Model Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Model Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Final output sent to browser
+DEBUG - 2012-05-13 21:06:35 --> Total execution time: 0.0302
+DEBUG - 2012-05-13 21:06:35 --> Config Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:06:35 --> URI Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Router Class Initialized
+ERROR - 2012-05-13 21:06:35 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:06:35 --> Config Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:06:35 --> URI Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Router Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Output Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Security Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Input Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:06:35 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:06:35 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:06:35 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:06:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:06:35 --> Language Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Session Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:06:35 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Session routines successfully run
+DEBUG - 2012-05-13 21:06:35 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Model Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Model Class Initialized
+DEBUG - 2012-05-13 21:06:35 --> Final output sent to browser
+DEBUG - 2012-05-13 21:06:35 --> Total execution time: 0.0223
+DEBUG - 2012-05-13 21:13:06 --> Config Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:13:06 --> URI Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> Router Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> Output Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> Security Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> Input Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:13:06 --> Language Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> Session Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:13:06 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> Session routines successfully run
+DEBUG - 2012-05-13 21:13:06 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:13:06 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:13:06 --> Final output sent to browser
+DEBUG - 2012-05-13 21:13:06 --> Total execution time: 0.0282
+DEBUG - 2012-05-13 21:13:07 --> Config Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:13:07 --> URI Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Router Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Output Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Security Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Input Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:07 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:07 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:07 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:13:07 --> Language Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Session Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:13:07 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Session routines successfully run
+DEBUG - 2012-05-13 21:13:07 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Model Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Model Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Final output sent to browser
+DEBUG - 2012-05-13 21:13:07 --> Total execution time: 0.0307
+DEBUG - 2012-05-13 21:13:07 --> Config Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:13:07 --> URI Class Initialized
+DEBUG - 2012-05-13 21:13:07 --> Router Class Initialized
+ERROR - 2012-05-13 21:13:07 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:13:33 --> Config Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:13:33 --> URI Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> Router Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> Output Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> Security Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> Input Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:13:33 --> Language Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> Session Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:13:33 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> Session routines successfully run
+DEBUG - 2012-05-13 21:13:33 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:13:33 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:13:33 --> Final output sent to browser
+DEBUG - 2012-05-13 21:13:33 --> Total execution time: 0.0279
+DEBUG - 2012-05-13 21:13:34 --> Config Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:13:34 --> URI Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Router Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Output Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Security Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Input Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:34 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:34 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:34 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:13:34 --> Language Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Session Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:13:34 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Session routines successfully run
+DEBUG - 2012-05-13 21:13:34 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Model Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Model Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Final output sent to browser
+DEBUG - 2012-05-13 21:13:34 --> Total execution time: 0.0304
+DEBUG - 2012-05-13 21:13:34 --> Config Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:13:34 --> URI Class Initialized
+DEBUG - 2012-05-13 21:13:34 --> Router Class Initialized
+ERROR - 2012-05-13 21:13:34 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:13:49 --> Config Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:13:49 --> URI Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Router Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Output Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Security Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Input Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:13:49 --> Language Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Session Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:13:49 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Session routines successfully run
+DEBUG - 2012-05-13 21:13:49 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:13:49 --> Final output sent to browser
+DEBUG - 2012-05-13 21:13:49 --> Total execution time: 0.0273
+DEBUG - 2012-05-13 21:13:49 --> Config Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:13:49 --> URI Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Router Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Output Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Security Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Input Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:49 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:49 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:49 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:13:49 --> Language Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Session Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:13:49 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Session routines successfully run
+DEBUG - 2012-05-13 21:13:49 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Model Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Model Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Final output sent to browser
+DEBUG - 2012-05-13 21:13:49 --> Total execution time: 0.0304
+DEBUG - 2012-05-13 21:13:49 --> Config Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:13:49 --> URI Class Initialized
+DEBUG - 2012-05-13 21:13:49 --> Router Class Initialized
+ERROR - 2012-05-13 21:13:49 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:13:50 --> Config Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:13:50 --> URI Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Router Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Output Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Security Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Input Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:13:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:13:50 --> Language Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Session Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:13:50 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Session routines successfully run
+DEBUG - 2012-05-13 21:13:50 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Model Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Model Class Initialized
+DEBUG - 2012-05-13 21:13:50 --> Final output sent to browser
+DEBUG - 2012-05-13 21:13:50 --> Total execution time: 0.0209
+DEBUG - 2012-05-13 21:14:55 --> Config Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:14:55 --> URI Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Router Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Output Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Security Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Input Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:14:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:14:55 --> Language Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Session Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:14:55 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Session routines successfully run
+DEBUG - 2012-05-13 21:14:55 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:14:55 --> Final output sent to browser
+DEBUG - 2012-05-13 21:14:55 --> Total execution time: 0.0275
+DEBUG - 2012-05-13 21:14:55 --> Config Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:14:55 --> URI Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Router Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Output Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Security Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Input Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:14:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:14:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:14:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:14:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:14:55 --> Language Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Session Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:14:55 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Session routines successfully run
+DEBUG - 2012-05-13 21:14:55 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Model Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Model Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Final output sent to browser
+DEBUG - 2012-05-13 21:14:55 --> Total execution time: 0.0311
+DEBUG - 2012-05-13 21:14:55 --> Config Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:14:55 --> URI Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Router Class Initialized
+ERROR - 2012-05-13 21:14:55 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:14:55 --> Config Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:14:55 --> URI Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Router Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Output Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Security Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Input Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:14:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:14:55 --> Language Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Session Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:14:55 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Session routines successfully run
+DEBUG - 2012-05-13 21:14:55 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Model Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Model Class Initialized
+DEBUG - 2012-05-13 21:14:55 --> Final output sent to browser
+DEBUG - 2012-05-13 21:14:55 --> Total execution time: 0.0215
+DEBUG - 2012-05-13 21:15:37 --> Config Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:15:37 --> URI Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Router Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Output Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Security Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Input Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:15:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:15:37 --> Language Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Session Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:15:37 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Session routines successfully run
+DEBUG - 2012-05-13 21:15:37 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:15:37 --> Final output sent to browser
+DEBUG - 2012-05-13 21:15:37 --> Total execution time: 0.0277
+DEBUG - 2012-05-13 21:15:37 --> Config Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:15:37 --> URI Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Router Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Output Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Security Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Input Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:15:37 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:15:37 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:15:37 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:15:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:15:37 --> Language Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Session Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:15:37 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Session routines successfully run
+DEBUG - 2012-05-13 21:15:37 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Model Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Model Class Initialized
+DEBUG - 2012-05-13 21:15:37 --> Final output sent to browser
+DEBUG - 2012-05-13 21:15:37 --> Total execution time: 0.0317
+DEBUG - 2012-05-13 21:17:09 --> Config Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:17:09 --> URI Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> Router Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> Output Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> Security Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> Input Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:17:09 --> Language Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> Session Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:17:09 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> Session routines successfully run
+DEBUG - 2012-05-13 21:17:09 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:17:09 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:17:09 --> Final output sent to browser
+DEBUG - 2012-05-13 21:17:09 --> Total execution time: 0.0284
+DEBUG - 2012-05-13 21:17:10 --> Config Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:17:10 --> URI Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Router Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Output Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Security Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Input Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:10 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:10 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:10 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:17:10 --> Language Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Session Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:17:10 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Session routines successfully run
+DEBUG - 2012-05-13 21:17:10 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Model Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Model Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Final output sent to browser
+DEBUG - 2012-05-13 21:17:10 --> Total execution time: 0.0302
+DEBUG - 2012-05-13 21:17:10 --> Config Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:17:10 --> URI Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Router Class Initialized
+ERROR - 2012-05-13 21:17:10 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:17:10 --> Config Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:17:10 --> URI Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Router Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Output Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Security Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Input Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:17:10 --> Language Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Session Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:17:10 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Session routines successfully run
+DEBUG - 2012-05-13 21:17:10 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Model Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Model Class Initialized
+DEBUG - 2012-05-13 21:17:10 --> Final output sent to browser
+DEBUG - 2012-05-13 21:17:10 --> Total execution time: 0.0212
+DEBUG - 2012-05-13 21:17:21 --> Config Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:17:21 --> URI Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> Router Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> Output Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> Security Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> Input Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:17:21 --> Language Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> Session Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:17:21 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> Session routines successfully run
+DEBUG - 2012-05-13 21:17:21 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:17:21 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:17:21 --> Final output sent to browser
+DEBUG - 2012-05-13 21:17:21 --> Total execution time: 0.0200
+DEBUG - 2012-05-13 21:17:22 --> Config Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:17:22 --> URI Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Router Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Output Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Security Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Input Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:22 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:22 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:22 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:17:22 --> Language Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Session Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:17:22 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Session routines successfully run
+DEBUG - 2012-05-13 21:17:22 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Model Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Model Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Final output sent to browser
+DEBUG - 2012-05-13 21:17:22 --> Total execution time: 0.0228
+DEBUG - 2012-05-13 21:17:22 --> Config Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:17:22 --> URI Class Initialized
+DEBUG - 2012-05-13 21:17:22 --> Router Class Initialized
+ERROR - 2012-05-13 21:17:22 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:17:24 --> Config Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:17:24 --> URI Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Router Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Output Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Security Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Input Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:17:24 --> Language Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Session Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:17:24 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Session routines successfully run
+DEBUG - 2012-05-13 21:17:24 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Model Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Model Class Initialized
+DEBUG - 2012-05-13 21:17:24 --> Final output sent to browser
+DEBUG - 2012-05-13 21:17:24 --> Total execution time: 0.0223
+DEBUG - 2012-05-13 21:17:46 --> Config Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:17:46 --> URI Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Router Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Output Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Security Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Input Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:17:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:17:46 --> Language Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Session Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:17:46 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Session routines successfully run
+DEBUG - 2012-05-13 21:17:46 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Model Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Model Class Initialized
+DEBUG - 2012-05-13 21:17:46 --> Final output sent to browser
+DEBUG - 2012-05-13 21:17:46 --> Total execution time: 0.0296
+DEBUG - 2012-05-13 21:22:58 --> Config Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:22:58 --> URI Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Router Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Output Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Security Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Input Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:22:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:22:58 --> Language Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Session Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:22:58 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Session routines successfully run
+DEBUG - 2012-05-13 21:22:58 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:22:58 --> Final output sent to browser
+DEBUG - 2012-05-13 21:22:58 --> Total execution time: 0.0277
+DEBUG - 2012-05-13 21:22:58 --> Config Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:22:58 --> URI Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Router Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Output Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Security Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Input Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:22:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:22:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:22:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:22:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:22:58 --> Language Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Session Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:22:58 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Session routines successfully run
+DEBUG - 2012-05-13 21:22:58 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Model Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Model Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Final output sent to browser
+DEBUG - 2012-05-13 21:22:58 --> Total execution time: 0.0303
+DEBUG - 2012-05-13 21:22:58 --> Config Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:22:58 --> URI Class Initialized
+DEBUG - 2012-05-13 21:22:58 --> Router Class Initialized
+ERROR - 2012-05-13 21:22:58 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:23:18 --> Config Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:23:18 --> URI Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Router Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Output Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Security Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Input Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:23:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:23:18 --> Language Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Session Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:23:18 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Session routines successfully run
+DEBUG - 2012-05-13 21:23:18 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:23:18 --> Final output sent to browser
+DEBUG - 2012-05-13 21:23:18 --> Total execution time: 0.0308
+DEBUG - 2012-05-13 21:23:18 --> Config Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:23:18 --> URI Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Router Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Output Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Security Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Input Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:23:18 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:23:18 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:23:18 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:23:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:23:18 --> Language Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Session Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:23:18 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Session routines successfully run
+DEBUG - 2012-05-13 21:23:18 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Model Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Model Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Final output sent to browser
+DEBUG - 2012-05-13 21:23:18 --> Total execution time: 0.0314
+DEBUG - 2012-05-13 21:23:18 --> Config Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:23:18 --> URI Class Initialized
+DEBUG - 2012-05-13 21:23:18 --> Router Class Initialized
+ERROR - 2012-05-13 21:23:18 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:23:57 --> Config Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:23:57 --> URI Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> Router Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> Output Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> Security Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> Input Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:23:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:23:57 --> Language Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> Session Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:23:57 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> Session routines successfully run
+DEBUG - 2012-05-13 21:23:57 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:23:57 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:23:57 --> Final output sent to browser
+DEBUG - 2012-05-13 21:23:57 --> Total execution time: 0.0278
+DEBUG - 2012-05-13 21:23:58 --> Config Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:23:58 --> URI Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Router Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Output Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Security Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Input Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:23:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:23:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:23:58 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:23:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:23:58 --> Language Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Session Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:23:58 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Session routines successfully run
+DEBUG - 2012-05-13 21:23:58 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Model Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Model Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Final output sent to browser
+DEBUG - 2012-05-13 21:23:58 --> Total execution time: 0.0304
+DEBUG - 2012-05-13 21:23:58 --> Config Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:23:58 --> URI Class Initialized
+DEBUG - 2012-05-13 21:23:58 --> Router Class Initialized
+ERROR - 2012-05-13 21:23:58 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:24:02 --> Config Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:24:02 --> URI Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Router Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Output Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Security Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Input Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:24:02 --> Language Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Session Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:24:02 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Session routines successfully run
+DEBUG - 2012-05-13 21:24:02 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:24:02 --> Final output sent to browser
+DEBUG - 2012-05-13 21:24:02 --> Total execution time: 0.0245
+DEBUG - 2012-05-13 21:24:02 --> Config Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:24:02 --> URI Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Router Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Output Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Security Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Input Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:02 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:02 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:02 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:24:02 --> Language Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Session Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:24:02 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Session routines successfully run
+DEBUG - 2012-05-13 21:24:02 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Final output sent to browser
+DEBUG - 2012-05-13 21:24:02 --> Total execution time: 0.0235
+DEBUG - 2012-05-13 21:24:02 --> Config Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:24:02 --> URI Class Initialized
+DEBUG - 2012-05-13 21:24:02 --> Router Class Initialized
+ERROR - 2012-05-13 21:24:02 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:24:23 --> Config Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:24:23 --> URI Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Router Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Output Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Security Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Input Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:23 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:23 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:23 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:24:23 --> Language Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Session Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:24:23 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Session routines successfully run
+DEBUG - 2012-05-13 21:24:23 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:23 --> Final output sent to browser
+DEBUG - 2012-05-13 21:24:23 --> Total execution time: 0.0310
+DEBUG - 2012-05-13 21:24:24 --> Config Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:24:24 --> URI Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Router Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Output Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Security Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Input Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:24:24 --> Language Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Session Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:24:24 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Session routines successfully run
+DEBUG - 2012-05-13 21:24:24 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Final output sent to browser
+DEBUG - 2012-05-13 21:24:24 --> Total execution time: 0.0234
+DEBUG - 2012-05-13 21:24:24 --> Config Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:24:24 --> URI Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Router Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Output Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Security Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Input Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:24:24 --> Language Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Session Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:24:24 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Session routines successfully run
+DEBUG - 2012-05-13 21:24:24 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Final output sent to browser
+DEBUG - 2012-05-13 21:24:24 --> Total execution time: 0.0223
+DEBUG - 2012-05-13 21:24:24 --> Config Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:24:24 --> URI Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Router Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Output Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Security Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Input Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:24:24 --> Language Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Session Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:24:24 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Session routines successfully run
+DEBUG - 2012-05-13 21:24:24 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:24 --> Final output sent to browser
+DEBUG - 2012-05-13 21:24:24 --> Total execution time: 0.0226
+DEBUG - 2012-05-13 21:24:25 --> Config Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:24:25 --> URI Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Router Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Output Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Security Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Input Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:25 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:25 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:25 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:24:25 --> Language Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Session Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:24:25 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Session routines successfully run
+DEBUG - 2012-05-13 21:24:25 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Final output sent to browser
+DEBUG - 2012-05-13 21:24:25 --> Total execution time: 0.0223
+DEBUG - 2012-05-13 21:24:25 --> Config Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:24:25 --> URI Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Router Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Output Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Security Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Input Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:25 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:25 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:25 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:24:25 --> Language Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Session Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:24:25 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Session routines successfully run
+DEBUG - 2012-05-13 21:24:25 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:25 --> Final output sent to browser
+DEBUG - 2012-05-13 21:24:25 --> Total execution time: 0.0224
+DEBUG - 2012-05-13 21:24:30 --> Config Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:24:30 --> URI Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Router Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Output Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Security Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Input Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:30 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:30 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:30 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:24:30 --> Language Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Session Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:24:30 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Session routines successfully run
+DEBUG - 2012-05-13 21:24:30 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:30 --> Final output sent to browser
+DEBUG - 2012-05-13 21:24:30 --> Total execution time: 0.0226
+DEBUG - 2012-05-13 21:24:50 --> Config Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:24:50 --> URI Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Router Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Output Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Security Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Input Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:50 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:50 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:50 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:24:50 --> Language Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Session Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:24:50 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Session routines successfully run
+DEBUG - 2012-05-13 21:24:50 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:50 --> Final output sent to browser
+DEBUG - 2012-05-13 21:24:50 --> Total execution time: 0.0304
+DEBUG - 2012-05-13 21:24:51 --> Config Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:24:51 --> URI Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Router Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Output Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Security Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Input Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:51 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:51 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:51 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:24:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:24:51 --> Language Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Session Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:24:51 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Session routines successfully run
+DEBUG - 2012-05-13 21:24:51 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Model Class Initialized
+DEBUG - 2012-05-13 21:24:51 --> Final output sent to browser
+DEBUG - 2012-05-13 21:24:51 --> Total execution time: 0.0233
+DEBUG - 2012-05-13 21:25:21 --> Config Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:25:21 --> URI Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> Router Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> Output Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> Security Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> Input Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:25:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:25:21 --> Language Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> Session Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:25:21 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> Session routines successfully run
+DEBUG - 2012-05-13 21:25:21 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:25:21 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:25:21 --> Final output sent to browser
+DEBUG - 2012-05-13 21:25:21 --> Total execution time: 0.0278
+DEBUG - 2012-05-13 21:25:22 --> Config Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:25:22 --> URI Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Router Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Output Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Security Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Input Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:25:22 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:25:22 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:25:22 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:25:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:25:22 --> Language Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Session Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:25:22 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Session routines successfully run
+DEBUG - 2012-05-13 21:25:22 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Model Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Model Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Final output sent to browser
+DEBUG - 2012-05-13 21:25:22 --> Total execution time: 0.0303
+DEBUG - 2012-05-13 21:25:22 --> Config Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:25:22 --> URI Class Initialized
+DEBUG - 2012-05-13 21:25:22 --> Router Class Initialized
+ERROR - 2012-05-13 21:25:22 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:26:04 --> Config Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:26:04 --> URI Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Router Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Output Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Security Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Input Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:26:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:26:04 --> Language Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Session Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:26:04 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Session routines successfully run
+DEBUG - 2012-05-13 21:26:04 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:26:04 --> Final output sent to browser
+DEBUG - 2012-05-13 21:26:04 --> Total execution time: 0.0277
+DEBUG - 2012-05-13 21:26:04 --> Config Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:26:04 --> URI Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Router Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Output Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Security Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Input Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:26:04 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:26:04 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:26:04 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:26:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:26:04 --> Language Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Session Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:26:04 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Session routines successfully run
+DEBUG - 2012-05-13 21:26:04 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Model Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Model Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Final output sent to browser
+DEBUG - 2012-05-13 21:26:04 --> Total execution time: 0.0310
+DEBUG - 2012-05-13 21:26:04 --> Config Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:26:04 --> URI Class Initialized
+DEBUG - 2012-05-13 21:26:04 --> Router Class Initialized
+ERROR - 2012-05-13 21:26:04 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:27:41 --> Config Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:27:41 --> URI Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> Router Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> Output Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> Security Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> Input Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:27:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:27:41 --> Language Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> Session Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:27:41 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> Session routines successfully run
+DEBUG - 2012-05-13 21:27:41 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:27:41 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:27:41 --> Final output sent to browser
+DEBUG - 2012-05-13 21:27:41 --> Total execution time: 0.0280
+DEBUG - 2012-05-13 21:27:42 --> Config Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:27:42 --> URI Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Router Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Output Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Security Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Input Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:27:42 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:27:42 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:27:42 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:27:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:27:42 --> Language Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Session Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:27:42 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Session routines successfully run
+DEBUG - 2012-05-13 21:27:42 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Model Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Model Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Final output sent to browser
+DEBUG - 2012-05-13 21:27:42 --> Total execution time: 0.0307
+DEBUG - 2012-05-13 21:27:42 --> Config Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:27:42 --> URI Class Initialized
+DEBUG - 2012-05-13 21:27:42 --> Router Class Initialized
+ERROR - 2012-05-13 21:27:42 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:27:53 --> Config Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:27:53 --> URI Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Router Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Output Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Security Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Input Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:27:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:27:53 --> Language Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Session Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:27:53 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Session routines successfully run
+DEBUG - 2012-05-13 21:27:53 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:27:53 --> Final output sent to browser
+DEBUG - 2012-05-13 21:27:53 --> Total execution time: 0.0201
+DEBUG - 2012-05-13 21:27:53 --> Config Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:27:53 --> URI Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Router Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Output Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Security Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Input Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:27:53 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:27:53 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:27:53 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:27:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:27:53 --> Language Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Session Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:27:53 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Session routines successfully run
+DEBUG - 2012-05-13 21:27:53 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Model Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Model Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Final output sent to browser
+DEBUG - 2012-05-13 21:27:53 --> Total execution time: 0.0278
+DEBUG - 2012-05-13 21:27:53 --> Config Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:27:53 --> URI Class Initialized
+DEBUG - 2012-05-13 21:27:53 --> Router Class Initialized
+ERROR - 2012-05-13 21:27:53 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:28:13 --> Config Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:28:13 --> URI Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> Router Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> Output Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> Security Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> Input Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:28:13 --> Language Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> Session Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:28:13 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> Session routines successfully run
+DEBUG - 2012-05-13 21:28:13 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:28:13 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:28:13 --> Final output sent to browser
+DEBUG - 2012-05-13 21:28:13 --> Total execution time: 0.0287
+DEBUG - 2012-05-13 21:28:14 --> Config Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:28:14 --> URI Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Router Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Output Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Security Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Input Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:14 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:14 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:14 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:28:14 --> Language Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Session Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:28:14 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Session routines successfully run
+DEBUG - 2012-05-13 21:28:14 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Model Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Model Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Final output sent to browser
+DEBUG - 2012-05-13 21:28:14 --> Total execution time: 0.0318
+DEBUG - 2012-05-13 21:28:14 --> Config Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:28:14 --> URI Class Initialized
+DEBUG - 2012-05-13 21:28:14 --> Router Class Initialized
+ERROR - 2012-05-13 21:28:14 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:28:29 --> Config Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:28:29 --> URI Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> Router Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> Output Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> Security Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> Input Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:28:29 --> Language Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> Session Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:28:29 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> Session routines successfully run
+DEBUG - 2012-05-13 21:28:29 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:28:29 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:28:29 --> Final output sent to browser
+DEBUG - 2012-05-13 21:28:29 --> Total execution time: 0.0244
+DEBUG - 2012-05-13 21:28:30 --> Config Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:28:30 --> URI Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Router Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Output Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Security Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Input Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:30 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:30 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:30 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:28:30 --> Language Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Session Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:28:30 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Session routines successfully run
+DEBUG - 2012-05-13 21:28:30 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Model Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Model Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Final output sent to browser
+DEBUG - 2012-05-13 21:28:30 --> Total execution time: 0.0309
+DEBUG - 2012-05-13 21:28:30 --> Config Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:28:30 --> URI Class Initialized
+DEBUG - 2012-05-13 21:28:30 --> Router Class Initialized
+ERROR - 2012-05-13 21:28:30 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:28:54 --> Config Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:28:54 --> URI Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Router Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Output Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Security Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Input Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:28:54 --> Language Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Session Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:28:54 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Session routines successfully run
+DEBUG - 2012-05-13 21:28:54 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:28:54 --> Final output sent to browser
+DEBUG - 2012-05-13 21:28:54 --> Total execution time: 0.0273
+DEBUG - 2012-05-13 21:28:54 --> Config Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:28:54 --> URI Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Router Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Output Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Security Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Input Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:54 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:54 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:54 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:28:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:28:54 --> Language Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Session Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:28:54 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Session routines successfully run
+DEBUG - 2012-05-13 21:28:54 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Model Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Model Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Final output sent to browser
+DEBUG - 2012-05-13 21:28:54 --> Total execution time: 0.0276
+DEBUG - 2012-05-13 21:28:54 --> Config Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:28:54 --> URI Class Initialized
+DEBUG - 2012-05-13 21:28:54 --> Router Class Initialized
+ERROR - 2012-05-13 21:28:54 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:36:55 --> Config Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:36:55 --> URI Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Router Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Output Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Security Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Input Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:36:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:36:55 --> Language Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Session Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:36:55 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Session routines successfully run
+DEBUG - 2012-05-13 21:36:55 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:36:55 --> Final output sent to browser
+DEBUG - 2012-05-13 21:36:55 --> Total execution time: 0.0286
+DEBUG - 2012-05-13 21:36:55 --> Config Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:36:55 --> URI Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Router Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Output Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Security Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Input Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:36:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:36:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:36:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:36:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:36:55 --> Language Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Session Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:36:55 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Session routines successfully run
+DEBUG - 2012-05-13 21:36:55 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Model Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Model Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Final output sent to browser
+DEBUG - 2012-05-13 21:36:55 --> Total execution time: 0.0306
+DEBUG - 2012-05-13 21:36:55 --> Config Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:36:55 --> URI Class Initialized
+DEBUG - 2012-05-13 21:36:55 --> Router Class Initialized
+ERROR - 2012-05-13 21:36:55 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:37:24 --> Config Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:37:24 --> URI Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Router Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Output Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Security Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Input Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:37:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:37:24 --> Language Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Session Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:37:24 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Session routines successfully run
+DEBUG - 2012-05-13 21:37:24 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:37:24 --> Final output sent to browser
+DEBUG - 2012-05-13 21:37:24 --> Total execution time: 0.0277
+DEBUG - 2012-05-13 21:37:24 --> Config Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:37:24 --> URI Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Router Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Output Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Security Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Input Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:37:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:37:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:37:24 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:37:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:37:24 --> Language Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Session Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:37:24 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Session routines successfully run
+DEBUG - 2012-05-13 21:37:24 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Model Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Model Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Final output sent to browser
+DEBUG - 2012-05-13 21:37:24 --> Total execution time: 0.0316
+DEBUG - 2012-05-13 21:37:24 --> Config Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:37:24 --> URI Class Initialized
+DEBUG - 2012-05-13 21:37:24 --> Router Class Initialized
+ERROR - 2012-05-13 21:37:24 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:38:18 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:18 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Router Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Output Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Security Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Input Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:38:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:38:18 --> Language Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Session Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:38:18 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Session routines successfully run
+DEBUG - 2012-05-13 21:38:18 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:38:18 --> Final output sent to browser
+DEBUG - 2012-05-13 21:38:18 --> Total execution time: 0.0275
+DEBUG - 2012-05-13 21:38:18 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:18 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Router Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Output Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Security Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Input Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:38:18 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:38:18 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:38:18 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:38:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:38:18 --> Language Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Session Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:38:18 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Session routines successfully run
+DEBUG - 2012-05-13 21:38:18 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Model Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Model Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Final output sent to browser
+DEBUG - 2012-05-13 21:38:18 --> Total execution time: 0.0308
+DEBUG - 2012-05-13 21:38:18 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:18 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:18 --> Router Class Initialized
+ERROR - 2012-05-13 21:38:18 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:38:28 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:28 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Router Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Output Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Security Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Input Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:38:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:38:28 --> Language Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Session Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:38:28 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Session routines successfully run
+DEBUG - 2012-05-13 21:38:28 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:38:28 --> Final output sent to browser
+DEBUG - 2012-05-13 21:38:28 --> Total execution time: 0.0215
+DEBUG - 2012-05-13 21:38:28 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:28 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Router Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Output Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Security Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Input Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:38:28 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:38:28 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:38:28 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:38:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:38:28 --> Language Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Session Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:38:28 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Session routines successfully run
+DEBUG - 2012-05-13 21:38:28 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Model Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Model Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Final output sent to browser
+DEBUG - 2012-05-13 21:38:28 --> Total execution time: 0.0243
+DEBUG - 2012-05-13 21:38:28 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:28 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:28 --> Router Class Initialized
+ERROR - 2012-05-13 21:38:28 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:38:29 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:29 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Router Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Output Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Security Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Input Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:38:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:38:29 --> Language Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Session Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:38:29 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Session routines successfully run
+DEBUG - 2012-05-13 21:38:29 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Model Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:29 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:29 --> Router Class Initialized
+ERROR - 2012-05-13 21:38:29 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:38:31 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:31 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:31 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:31 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:31 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:31 --> Router Class Initialized
+ERROR - 2012-05-13 21:38:31 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:38:50 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:50 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Router Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Output Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Security Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Input Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:38:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:38:50 --> Language Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Session Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:38:50 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Session routines successfully run
+DEBUG - 2012-05-13 21:38:50 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:38:50 --> Final output sent to browser
+DEBUG - 2012-05-13 21:38:50 --> Total execution time: 0.0275
+DEBUG - 2012-05-13 21:38:50 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:50 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:50 --> Router Class Initialized
+ERROR - 2012-05-13 21:38:50 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:38:51 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:51 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Router Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Output Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Security Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Input Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:38:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:38:51 --> Language Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Session Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:38:51 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Session routines successfully run
+DEBUG - 2012-05-13 21:38:51 --> Controller Class Initialized
+ERROR - 2012-05-13 21:38:51 --> 404 Page Not Found --> room/3
+DEBUG - 2012-05-13 21:38:51 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:51 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:51 --> Router Class Initialized
+ERROR - 2012-05-13 21:38:51 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:38:58 --> Config Class Initialized
+DEBUG - 2012-05-13 21:38:58 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:38:58 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:38:58 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:38:58 --> URI Class Initialized
+DEBUG - 2012-05-13 21:38:58 --> Router Class Initialized
+ERROR - 2012-05-13 21:38:58 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:39:25 --> Config Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:39:25 --> URI Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> Router Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> Output Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> Security Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> Input Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:39:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:39:25 --> Language Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> Session Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:39:25 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> Session routines successfully run
+DEBUG - 2012-05-13 21:39:25 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:39:25 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:39:25 --> Final output sent to browser
+DEBUG - 2012-05-13 21:39:25 --> Total execution time: 0.0278
+DEBUG - 2012-05-13 21:39:26 --> Config Class Initialized
+DEBUG - 2012-05-13 21:39:26 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:39:26 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:39:26 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:39:26 --> URI Class Initialized
+DEBUG - 2012-05-13 21:39:26 --> Router Class Initialized
+ERROR - 2012-05-13 21:39:26 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:39:27 --> Config Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:39:27 --> URI Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Router Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Output Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Security Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Input Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:39:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:39:27 --> Language Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Session Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:39:27 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Session routines successfully run
+DEBUG - 2012-05-13 21:39:27 --> Controller Class Initialized
+ERROR - 2012-05-13 21:39:27 --> 404 Page Not Found --> room/3
+DEBUG - 2012-05-13 21:39:27 --> Config Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:39:27 --> URI Class Initialized
+DEBUG - 2012-05-13 21:39:27 --> Router Class Initialized
+ERROR - 2012-05-13 21:39:27 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:39:28 --> Config Class Initialized
+DEBUG - 2012-05-13 21:39:28 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:39:28 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:39:28 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:39:28 --> URI Class Initialized
+DEBUG - 2012-05-13 21:39:28 --> Router Class Initialized
+ERROR - 2012-05-13 21:39:28 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:39:45 --> Config Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:39:45 --> URI Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Router Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Output Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Security Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Input Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:39:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:39:45 --> Language Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Session Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:39:45 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Session routines successfully run
+DEBUG - 2012-05-13 21:39:45 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> File loaded: application/views/room_list.php
+DEBUG - 2012-05-13 21:39:45 --> Final output sent to browser
+DEBUG - 2012-05-13 21:39:45 --> Total execution time: 0.0283
+DEBUG - 2012-05-13 21:39:45 --> Config Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:39:45 --> URI Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Router Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Output Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Security Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Input Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:39:45 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:39:45 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:39:45 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:39:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:39:45 --> Language Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Session Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:39:45 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Session routines successfully run
+DEBUG - 2012-05-13 21:39:45 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Model Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Model Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Final output sent to browser
+DEBUG - 2012-05-13 21:39:45 --> Total execution time: 0.0339
+DEBUG - 2012-05-13 21:39:45 --> Config Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:39:45 --> URI Class Initialized
+DEBUG - 2012-05-13 21:39:45 --> Router Class Initialized
+ERROR - 2012-05-13 21:39:45 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:40:22 --> Config Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:40:22 --> URI Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Router Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Output Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Security Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Input Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:40:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:40:22 --> Language Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Session Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:40:22 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Session routines successfully run
+DEBUG - 2012-05-13 21:40:22 --> Controller Class Initialized
+ERROR - 2012-05-13 21:40:22 --> 404 Page Not Found --> room/3
+DEBUG - 2012-05-13 21:40:22 --> Config Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:40:22 --> URI Class Initialized
+DEBUG - 2012-05-13 21:40:22 --> Router Class Initialized
+ERROR - 2012-05-13 21:40:22 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:40:23 --> Config Class Initialized
+DEBUG - 2012-05-13 21:40:23 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:40:23 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:40:23 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:40:23 --> URI Class Initialized
+DEBUG - 2012-05-13 21:40:23 --> Router Class Initialized
+ERROR - 2012-05-13 21:40:23 --> 404 Page Not Found --> favicon.ico
