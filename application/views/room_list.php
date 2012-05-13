@@ -11,11 +11,14 @@
 		<script src ="/resource/js/T3B.js"></script>
 		<link 	rel="stylesheet" href="/resource/css/T3B.css">
 		<script>
+		var currentStart = 0;
 		$(document).ready(function(){
 			loadRoomList(0);
-			$('select[name=select_game_type]').change(function(){loadRoomList(0);});
-			$('span.reload').click(function(){loadRoomList(0);});
+			$('select[name=select_game_type]').change(function(){currentStart=0;loadRoomList(0);});
+			$('span.reload').click(function(){currentStart=0;loadRoomList(0);});
 			$('#makeroom').click(function(){makeRoom($(this).parent());});
+			$('#morerooms').click(function(){currentStart+=15;loadRoomList(currentStart);});
+			$('#topbtm a').eq(0).click(function(){$(document).scrollTop(0);}).end().eq(1).click(function(){$(document).scrollTop($('#roomlist').height()-40);});
 		});
 		</script>
 	</head>
@@ -25,7 +28,7 @@
 	<div data-role="page" class="type-interior">
 	
 		<!-- /header -->
-		<div data-role="header" data-position="fixed" data-theme="a" >
+		<div data-role="header" data-position="fixed" data-theme="a" id="head">
 			<div data-role="navbar" data-iconpos="right">
 				<ul class="ui-body ui-body-b">
 					<li><a data-theme="a" data-icon="search" class="ui-btn-active" onclick="view_room_list('roomlist')">Rooms</a></li>
@@ -163,7 +166,7 @@
 		</div><!-- /content -->
 		
 		<!-- /footer -->	
-		<div data-role="footer" data-position="fixed" data-theme="a">
+		<div data-role="footer" data-position="fixed" data-theme="a" id="footer">
 			<center id="topbtm">
 				<a type="button" data-icon="arrow-u" data-iconpos="notext">Top</a>
 				<a type="button" data-icon="arrow-d" data-iconpos="notext">Bottom</a>

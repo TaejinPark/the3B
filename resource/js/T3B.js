@@ -25,10 +25,10 @@ function resizeContent()
 //////////////////////////////////////////////////////////////////////////////////////////
 
 var buttonFlag = false;	
-
+var interval;
 function load(){
 	//birth_option();
-	setInterval(formPosition,1);
+	interval = setInterval(formPosition,1);
 }
 
 function birth_option(){
@@ -52,10 +52,14 @@ function birth_option(){
 function formPosition(){
 	var Y = getNowScroll().Y;
 	var height;
-	var obj;	
+	var obj;
 	obj = document.getElementById("header");
-	height = $(obj).height()
+	height = $(obj).height();
 	obj = document.getElementById("join");
+	if(!obj){
+		clearInterval(interval);
+		return;
+	}
 	obj.style.top = Y+height+'px';
 	obj = document.getElementById("login");
 	obj.style.top = Y+height+'px';
@@ -211,6 +215,7 @@ function loadRoomList(start){
 	.done(function(data){
 		if(!data) return;
 		var list = eval(data);
+		if(list.length==0) $('#morerooms').css('display','none');
 		var str = '';
 		for(var a=0,loopa=list.length; a<loopa; a++){
 			str +='<div data-role="collapsible" data-collapsed="true" data-content-theme="e">'+
@@ -243,7 +248,10 @@ function loadRoomList(start){
 				'</p>'+
 			'</div>';
 		}
-		$('#RoomList').html(str).parent().trigger( "create" );
+		if(start==0) {
+			$('#RoomList').html(str).parent().trigger("create");
+			$('#morerooms').css('display','block');
+		} else $('#RoomList').append(str).parent().trigger("create");
 	});
 }
 
