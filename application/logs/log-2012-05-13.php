@@ -5776,3 +5776,36 @@ DEBUG - 2012-05-13 21:40:23 --> UTF-8 Support Enabled
 DEBUG - 2012-05-13 21:40:23 --> URI Class Initialized
 DEBUG - 2012-05-13 21:40:23 --> Router Class Initialized
 ERROR - 2012-05-13 21:40:23 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 21:42:32 --> Config Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Hooks Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 21:42:32 --> URI Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Router Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Output Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Security Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Input Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:42:32 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:42:32 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:42:32 --> XSS Filtering completed
+DEBUG - 2012-05-13 21:42:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 21:42:32 --> Language Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Loader Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Session Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 21:42:32 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Session routines successfully run
+DEBUG - 2012-05-13 21:42:32 --> Controller Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Model Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Model Class Initialized
+DEBUG - 2012-05-13 21:42:32 --> Final output sent to browser
+DEBUG - 2012-05-13 21:42:32 --> Total execution time: 0.0311
+DEBUG - 2012-05-13 22:43:17 --> Config Class Initialized
+DEBUG - 2012-05-13 22:43:17 --> Hooks Class Initialized
+DEBUG - 2012-05-13 22:43:17 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 22:43:17 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 22:43:17 --> URI Class Initialized
+DEBUG - 2012-05-13 22:43:17 --> Router Class Initialized
+ERROR - 2012-05-13 22:43:17 --> 404 Page Not Found --> playroom.html
