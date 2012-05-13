@@ -2,25 +2,12 @@
 
 class Room extends CI_Controller {
 
-	public function index()
-	{
-		//load RoomList
-		$room = $this->_getRoomList();
+	public function __construct() {
+		parent::__construct();
 	}
 
-	function getRoomListToJson(){
-		$start = $this->input->get('start');
-		$limit = $this->input->get('limit');
-		$keyword = $this->input->get('keyword');
-		$type = $this->input->get('type');
-
-		$list = $this->_getRoomList($start, $limit, $keyword, $type);
-		return json_encode($list);
-	}
-
-	function _getRoomList($start=0, $limit=15, $keyword="",$type=0){
-		$this->load->model('RoomDAO');
-		return $this->RoomDAO->getRoomList($start, $limit, $keyword, $type);
+	public function index($room_seq) {
+		$this->load->view('playroom');
 	}
 }
 

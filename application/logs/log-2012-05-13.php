@@ -5809,3 +5809,2052 @@ DEBUG - 2012-05-13 22:43:17 --> UTF-8 Support Enabled
 DEBUG - 2012-05-13 22:43:17 --> URI Class Initialized
 DEBUG - 2012-05-13 22:43:17 --> Router Class Initialized
 ERROR - 2012-05-13 22:43:17 --> 404 Page Not Found --> playroom.html
+DEBUG - 2012-05-13 23:11:56 --> Config Class Initialized
+DEBUG - 2012-05-13 23:11:56 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:11:56 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:11:56 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:11:56 --> URI Class Initialized
+DEBUG - 2012-05-13 23:11:56 --> Router Class Initialized
+ERROR - 2012-05-13 23:11:56 --> 404 Page Not Found --> playroom
+DEBUG - 2012-05-13 23:14:01 --> Config Class Initialized
+DEBUG - 2012-05-13 23:14:01 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:14:01 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:14:01 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:14:01 --> URI Class Initialized
+DEBUG - 2012-05-13 23:14:01 --> Router Class Initialized
+ERROR - 2012-05-13 23:14:01 --> 404 Page Not Found --> playroom
+DEBUG - 2012-05-13 23:14:02 --> Config Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:14:02 --> URI Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Router Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Output Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Security Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Input Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:14:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:14:02 --> Language Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Session Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:14:02 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Session routines successfully run
+DEBUG - 2012-05-13 23:14:02 --> Controller Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:14:02 --> Final output sent to browser
+DEBUG - 2012-05-13 23:14:02 --> Total execution time: 0.0321
+DEBUG - 2012-05-13 23:14:02 --> Config Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:14:02 --> URI Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Router Class Initialized
+ERROR - 2012-05-13 23:14:02 --> 404 Page Not Found --> playroom
+DEBUG - 2012-05-13 23:14:02 --> Config Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:14:02 --> URI Class Initialized
+DEBUG - 2012-05-13 23:14:02 --> Router Class Initialized
+ERROR - 2012-05-13 23:14:02 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:14:04 --> Config Class Initialized
+DEBUG - 2012-05-13 23:14:04 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:14:04 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:14:04 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:14:04 --> URI Class Initialized
+DEBUG - 2012-05-13 23:14:04 --> Router Class Initialized
+ERROR - 2012-05-13 23:14:04 --> 404 Page Not Found --> playroom
+DEBUG - 2012-05-13 23:14:05 --> Config Class Initialized
+DEBUG - 2012-05-13 23:14:05 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:14:05 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:14:05 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:14:05 --> URI Class Initialized
+DEBUG - 2012-05-13 23:14:05 --> Router Class Initialized
+ERROR - 2012-05-13 23:14:05 --> 404 Page Not Found --> playroom
+DEBUG - 2012-05-13 23:14:08 --> Config Class Initialized
+DEBUG - 2012-05-13 23:14:08 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:14:08 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:14:08 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:14:08 --> URI Class Initialized
+DEBUG - 2012-05-13 23:14:08 --> Router Class Initialized
+ERROR - 2012-05-13 23:14:08 --> 404 Page Not Found --> playroom
+DEBUG - 2012-05-13 23:14:10 --> Config Class Initialized
+DEBUG - 2012-05-13 23:14:10 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:14:10 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:14:10 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:14:10 --> URI Class Initialized
+DEBUG - 2012-05-13 23:14:10 --> Router Class Initialized
+ERROR - 2012-05-13 23:14:10 --> 404 Page Not Found --> playroom
+DEBUG - 2012-05-13 23:14:12 --> Config Class Initialized
+DEBUG - 2012-05-13 23:14:12 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:14:12 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:14:12 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:14:12 --> URI Class Initialized
+DEBUG - 2012-05-13 23:14:12 --> Router Class Initialized
+ERROR - 2012-05-13 23:14:12 --> 404 Page Not Found --> playroom
+DEBUG - 2012-05-13 23:14:21 --> Config Class Initialized
+DEBUG - 2012-05-13 23:14:21 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:14:21 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:14:21 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:14:21 --> URI Class Initialized
+DEBUG - 2012-05-13 23:14:21 --> Router Class Initialized
+DEBUG - 2012-05-13 23:14:21 --> Output Class Initialized
+DEBUG - 2012-05-13 23:14:21 --> Security Class Initialized
+DEBUG - 2012-05-13 23:14:21 --> Input Class Initialized
+DEBUG - 2012-05-13 23:14:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:14:21 --> Language Class Initialized
+DEBUG - 2012-05-13 23:14:21 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:14:21 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:14:21 --> Session Class Initialized
+DEBUG - 2012-05-13 23:14:21 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:14:21 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:14:21 --> A session cookie was not found.
+DEBUG - 2012-05-13 23:14:21 --> Session routines successfully run
+DEBUG - 2012-05-13 23:14:21 --> Controller Class Initialized
+ERROR - 2012-05-13 23:14:21 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:14:21 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:14:21 --> Final output sent to browser
+DEBUG - 2012-05-13 23:14:21 --> Total execution time: 0.0273
+DEBUG - 2012-05-13 23:15:01 --> Config Class Initialized
+DEBUG - 2012-05-13 23:15:01 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:15:01 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:15:01 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:15:01 --> URI Class Initialized
+DEBUG - 2012-05-13 23:15:01 --> Router Class Initialized
+DEBUG - 2012-05-13 23:15:01 --> Output Class Initialized
+DEBUG - 2012-05-13 23:15:01 --> Security Class Initialized
+DEBUG - 2012-05-13 23:15:01 --> Input Class Initialized
+DEBUG - 2012-05-13 23:15:01 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:15:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:15:01 --> Language Class Initialized
+DEBUG - 2012-05-13 23:15:01 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:15:01 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:15:01 --> Session Class Initialized
+DEBUG - 2012-05-13 23:15:01 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:15:01 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:15:01 --> Session routines successfully run
+DEBUG - 2012-05-13 23:15:01 --> Controller Class Initialized
+ERROR - 2012-05-13 23:15:01 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:15:01 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:15:01 --> Final output sent to browser
+DEBUG - 2012-05-13 23:15:01 --> Total execution time: 0.0271
+DEBUG - 2012-05-13 23:16:07 --> Config Class Initialized
+DEBUG - 2012-05-13 23:16:07 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:16:07 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:16:07 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:16:07 --> URI Class Initialized
+DEBUG - 2012-05-13 23:16:07 --> Router Class Initialized
+DEBUG - 2012-05-13 23:16:07 --> Output Class Initialized
+DEBUG - 2012-05-13 23:16:07 --> Security Class Initialized
+DEBUG - 2012-05-13 23:16:07 --> Input Class Initialized
+DEBUG - 2012-05-13 23:16:07 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:16:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:16:07 --> Language Class Initialized
+DEBUG - 2012-05-13 23:16:07 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:16:07 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:16:07 --> Session Class Initialized
+DEBUG - 2012-05-13 23:16:07 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:16:07 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:16:07 --> Session routines successfully run
+DEBUG - 2012-05-13 23:16:07 --> Controller Class Initialized
+ERROR - 2012-05-13 23:16:07 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:16:07 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:16:07 --> Final output sent to browser
+DEBUG - 2012-05-13 23:16:07 --> Total execution time: 0.0277
+DEBUG - 2012-05-13 23:16:38 --> Config Class Initialized
+DEBUG - 2012-05-13 23:16:38 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:16:38 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:16:38 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:16:38 --> URI Class Initialized
+DEBUG - 2012-05-13 23:16:38 --> Router Class Initialized
+DEBUG - 2012-05-13 23:16:38 --> Output Class Initialized
+DEBUG - 2012-05-13 23:16:38 --> Security Class Initialized
+DEBUG - 2012-05-13 23:16:38 --> Input Class Initialized
+DEBUG - 2012-05-13 23:16:38 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:16:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:16:38 --> Language Class Initialized
+DEBUG - 2012-05-13 23:16:38 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:16:38 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:16:38 --> Session Class Initialized
+DEBUG - 2012-05-13 23:16:38 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:16:38 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:16:38 --> Session routines successfully run
+DEBUG - 2012-05-13 23:16:38 --> Controller Class Initialized
+ERROR - 2012-05-13 23:16:38 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:16:38 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:16:38 --> Final output sent to browser
+DEBUG - 2012-05-13 23:16:38 --> Total execution time: 0.0244
+DEBUG - 2012-05-13 23:16:47 --> Config Class Initialized
+DEBUG - 2012-05-13 23:16:47 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:16:47 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:16:47 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:16:47 --> URI Class Initialized
+DEBUG - 2012-05-13 23:16:47 --> Router Class Initialized
+DEBUG - 2012-05-13 23:16:47 --> Output Class Initialized
+DEBUG - 2012-05-13 23:16:47 --> Security Class Initialized
+DEBUG - 2012-05-13 23:16:47 --> Input Class Initialized
+DEBUG - 2012-05-13 23:16:47 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:16:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:16:47 --> Language Class Initialized
+DEBUG - 2012-05-13 23:16:47 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:16:47 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:16:47 --> Session Class Initialized
+DEBUG - 2012-05-13 23:16:47 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:16:47 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:16:47 --> Session routines successfully run
+DEBUG - 2012-05-13 23:16:47 --> Controller Class Initialized
+ERROR - 2012-05-13 23:16:47 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:16:47 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:16:47 --> Final output sent to browser
+DEBUG - 2012-05-13 23:16:47 --> Total execution time: 0.0210
+DEBUG - 2012-05-13 23:18:36 --> Config Class Initialized
+DEBUG - 2012-05-13 23:18:36 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:18:36 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:18:36 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:18:36 --> URI Class Initialized
+DEBUG - 2012-05-13 23:18:36 --> Router Class Initialized
+DEBUG - 2012-05-13 23:18:36 --> Output Class Initialized
+DEBUG - 2012-05-13 23:18:36 --> Security Class Initialized
+DEBUG - 2012-05-13 23:18:36 --> Input Class Initialized
+DEBUG - 2012-05-13 23:18:36 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:18:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:18:36 --> Language Class Initialized
+DEBUG - 2012-05-13 23:18:36 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:18:36 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:18:36 --> Session Class Initialized
+DEBUG - 2012-05-13 23:18:36 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:18:36 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:18:36 --> Session routines successfully run
+DEBUG - 2012-05-13 23:18:36 --> Controller Class Initialized
+ERROR - 2012-05-13 23:18:36 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:18:36 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:18:36 --> Final output sent to browser
+DEBUG - 2012-05-13 23:18:36 --> Total execution time: 0.0270
+DEBUG - 2012-05-13 23:18:54 --> Config Class Initialized
+DEBUG - 2012-05-13 23:18:54 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:18:54 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:18:54 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:18:54 --> URI Class Initialized
+DEBUG - 2012-05-13 23:18:54 --> Router Class Initialized
+DEBUG - 2012-05-13 23:18:54 --> Output Class Initialized
+DEBUG - 2012-05-13 23:18:54 --> Security Class Initialized
+DEBUG - 2012-05-13 23:18:54 --> Input Class Initialized
+DEBUG - 2012-05-13 23:18:54 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:18:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:18:54 --> Language Class Initialized
+DEBUG - 2012-05-13 23:18:54 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:18:54 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:18:54 --> Session Class Initialized
+DEBUG - 2012-05-13 23:18:54 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:18:54 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:18:54 --> Session routines successfully run
+DEBUG - 2012-05-13 23:18:54 --> Controller Class Initialized
+ERROR - 2012-05-13 23:18:54 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:18:54 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:18:54 --> Final output sent to browser
+DEBUG - 2012-05-13 23:18:54 --> Total execution time: 0.0275
+DEBUG - 2012-05-13 23:20:06 --> Config Class Initialized
+DEBUG - 2012-05-13 23:20:06 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:20:06 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:20:06 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:20:06 --> URI Class Initialized
+DEBUG - 2012-05-13 23:20:06 --> Router Class Initialized
+DEBUG - 2012-05-13 23:20:06 --> Output Class Initialized
+DEBUG - 2012-05-13 23:20:06 --> Security Class Initialized
+DEBUG - 2012-05-13 23:20:06 --> Input Class Initialized
+DEBUG - 2012-05-13 23:20:06 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:20:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:20:06 --> Language Class Initialized
+DEBUG - 2012-05-13 23:20:06 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:20:06 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:20:06 --> Session Class Initialized
+DEBUG - 2012-05-13 23:20:06 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:20:06 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:20:06 --> Session routines successfully run
+DEBUG - 2012-05-13 23:20:06 --> Controller Class Initialized
+ERROR - 2012-05-13 23:20:06 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:20:06 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:20:06 --> Final output sent to browser
+DEBUG - 2012-05-13 23:20:06 --> Total execution time: 0.0277
+DEBUG - 2012-05-13 23:20:22 --> Config Class Initialized
+DEBUG - 2012-05-13 23:20:22 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:20:22 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:20:22 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:20:22 --> URI Class Initialized
+DEBUG - 2012-05-13 23:20:22 --> Router Class Initialized
+DEBUG - 2012-05-13 23:20:22 --> Output Class Initialized
+DEBUG - 2012-05-13 23:20:22 --> Security Class Initialized
+DEBUG - 2012-05-13 23:20:22 --> Input Class Initialized
+DEBUG - 2012-05-13 23:20:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:20:22 --> Language Class Initialized
+DEBUG - 2012-05-13 23:20:22 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:20:22 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:20:22 --> Session Class Initialized
+DEBUG - 2012-05-13 23:20:22 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:20:22 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:20:22 --> A session cookie was not found.
+DEBUG - 2012-05-13 23:20:22 --> Session routines successfully run
+DEBUG - 2012-05-13 23:20:22 --> Controller Class Initialized
+ERROR - 2012-05-13 23:20:22 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:20:22 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:20:22 --> Final output sent to browser
+DEBUG - 2012-05-13 23:20:22 --> Total execution time: 0.0263
+DEBUG - 2012-05-13 23:20:23 --> Config Class Initialized
+DEBUG - 2012-05-13 23:20:23 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:20:23 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:20:23 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:20:23 --> URI Class Initialized
+DEBUG - 2012-05-13 23:20:23 --> Router Class Initialized
+ERROR - 2012-05-13 23:20:23 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:22:11 --> Config Class Initialized
+DEBUG - 2012-05-13 23:22:11 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:22:11 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:22:11 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:22:11 --> URI Class Initialized
+DEBUG - 2012-05-13 23:22:11 --> Router Class Initialized
+DEBUG - 2012-05-13 23:22:11 --> Output Class Initialized
+DEBUG - 2012-05-13 23:22:11 --> Security Class Initialized
+DEBUG - 2012-05-13 23:22:11 --> Input Class Initialized
+DEBUG - 2012-05-13 23:22:11 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:22:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:22:11 --> Language Class Initialized
+DEBUG - 2012-05-13 23:22:11 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:22:11 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:22:11 --> Session Class Initialized
+DEBUG - 2012-05-13 23:22:11 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:22:11 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:22:11 --> Session routines successfully run
+DEBUG - 2012-05-13 23:22:11 --> Controller Class Initialized
+ERROR - 2012-05-13 23:22:11 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:22:11 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:22:11 --> Final output sent to browser
+DEBUG - 2012-05-13 23:22:11 --> Total execution time: 0.0273
+DEBUG - 2012-05-13 23:22:12 --> Config Class Initialized
+DEBUG - 2012-05-13 23:22:12 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:22:12 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:22:12 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:22:12 --> URI Class Initialized
+DEBUG - 2012-05-13 23:22:12 --> Router Class Initialized
+ERROR - 2012-05-13 23:22:12 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:22:18 --> Config Class Initialized
+DEBUG - 2012-05-13 23:22:18 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:22:18 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:22:18 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:22:18 --> URI Class Initialized
+DEBUG - 2012-05-13 23:22:18 --> Router Class Initialized
+DEBUG - 2012-05-13 23:22:18 --> Output Class Initialized
+DEBUG - 2012-05-13 23:22:18 --> Security Class Initialized
+DEBUG - 2012-05-13 23:22:18 --> Input Class Initialized
+DEBUG - 2012-05-13 23:22:18 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:22:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:22:18 --> Language Class Initialized
+DEBUG - 2012-05-13 23:22:18 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:22:18 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:22:18 --> Session Class Initialized
+DEBUG - 2012-05-13 23:22:18 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:22:18 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:22:18 --> Session routines successfully run
+DEBUG - 2012-05-13 23:22:18 --> Controller Class Initialized
+ERROR - 2012-05-13 23:22:18 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:22:18 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:22:18 --> Final output sent to browser
+DEBUG - 2012-05-13 23:22:18 --> Total execution time: 0.0201
+DEBUG - 2012-05-13 23:22:20 --> Config Class Initialized
+DEBUG - 2012-05-13 23:22:20 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:22:20 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:22:20 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:22:20 --> URI Class Initialized
+DEBUG - 2012-05-13 23:22:20 --> Router Class Initialized
+ERROR - 2012-05-13 23:22:20 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:23:12 --> Config Class Initialized
+DEBUG - 2012-05-13 23:23:12 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:23:12 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:23:12 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:23:12 --> URI Class Initialized
+DEBUG - 2012-05-13 23:23:12 --> Router Class Initialized
+DEBUG - 2012-05-13 23:23:12 --> Output Class Initialized
+DEBUG - 2012-05-13 23:23:12 --> Security Class Initialized
+DEBUG - 2012-05-13 23:23:12 --> Input Class Initialized
+DEBUG - 2012-05-13 23:23:12 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:23:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:23:12 --> Language Class Initialized
+DEBUG - 2012-05-13 23:23:12 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:23:12 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:23:12 --> Session Class Initialized
+DEBUG - 2012-05-13 23:23:12 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:23:12 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:23:12 --> Session routines successfully run
+DEBUG - 2012-05-13 23:23:12 --> Controller Class Initialized
+ERROR - 2012-05-13 23:23:12 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:23:12 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:23:12 --> Final output sent to browser
+DEBUG - 2012-05-13 23:23:12 --> Total execution time: 0.0273
+DEBUG - 2012-05-13 23:23:13 --> Config Class Initialized
+DEBUG - 2012-05-13 23:23:13 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:23:13 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:23:13 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:23:13 --> URI Class Initialized
+DEBUG - 2012-05-13 23:23:13 --> Router Class Initialized
+ERROR - 2012-05-13 23:23:13 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:23:18 --> Config Class Initialized
+DEBUG - 2012-05-13 23:23:18 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:23:18 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:23:18 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:23:18 --> URI Class Initialized
+DEBUG - 2012-05-13 23:23:18 --> Router Class Initialized
+DEBUG - 2012-05-13 23:23:18 --> Output Class Initialized
+DEBUG - 2012-05-13 23:23:18 --> Security Class Initialized
+DEBUG - 2012-05-13 23:23:18 --> Input Class Initialized
+DEBUG - 2012-05-13 23:23:18 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:23:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:23:18 --> Language Class Initialized
+DEBUG - 2012-05-13 23:23:18 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:23:18 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:23:18 --> Session Class Initialized
+DEBUG - 2012-05-13 23:23:18 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:23:18 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:23:18 --> Session routines successfully run
+DEBUG - 2012-05-13 23:23:18 --> Controller Class Initialized
+ERROR - 2012-05-13 23:23:18 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:23:18 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:23:18 --> Final output sent to browser
+DEBUG - 2012-05-13 23:23:18 --> Total execution time: 0.0207
+DEBUG - 2012-05-13 23:23:19 --> Config Class Initialized
+DEBUG - 2012-05-13 23:23:19 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:23:19 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:23:19 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:23:19 --> URI Class Initialized
+DEBUG - 2012-05-13 23:23:19 --> Router Class Initialized
+ERROR - 2012-05-13 23:23:19 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:23:25 --> Config Class Initialized
+DEBUG - 2012-05-13 23:23:25 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:23:25 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:23:25 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:23:25 --> URI Class Initialized
+DEBUG - 2012-05-13 23:23:25 --> Router Class Initialized
+DEBUG - 2012-05-13 23:23:25 --> Output Class Initialized
+DEBUG - 2012-05-13 23:23:25 --> Security Class Initialized
+DEBUG - 2012-05-13 23:23:25 --> Input Class Initialized
+DEBUG - 2012-05-13 23:23:25 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:23:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:23:25 --> Language Class Initialized
+DEBUG - 2012-05-13 23:23:25 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:23:25 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:23:25 --> Session Class Initialized
+DEBUG - 2012-05-13 23:23:25 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:23:25 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:23:25 --> Session routines successfully run
+DEBUG - 2012-05-13 23:23:25 --> Controller Class Initialized
+ERROR - 2012-05-13 23:23:25 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:23:25 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:23:25 --> Final output sent to browser
+DEBUG - 2012-05-13 23:23:25 --> Total execution time: 0.0206
+DEBUG - 2012-05-13 23:23:26 --> Config Class Initialized
+DEBUG - 2012-05-13 23:23:26 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:23:26 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:23:26 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:23:26 --> URI Class Initialized
+DEBUG - 2012-05-13 23:23:26 --> Router Class Initialized
+ERROR - 2012-05-13 23:23:26 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:23:32 --> Config Class Initialized
+DEBUG - 2012-05-13 23:23:32 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:23:32 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:23:32 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:23:32 --> URI Class Initialized
+DEBUG - 2012-05-13 23:23:32 --> Router Class Initialized
+DEBUG - 2012-05-13 23:23:32 --> Output Class Initialized
+DEBUG - 2012-05-13 23:23:32 --> Security Class Initialized
+DEBUG - 2012-05-13 23:23:32 --> Input Class Initialized
+DEBUG - 2012-05-13 23:23:32 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:23:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:23:32 --> Language Class Initialized
+DEBUG - 2012-05-13 23:23:32 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:23:32 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:23:32 --> Session Class Initialized
+DEBUG - 2012-05-13 23:23:32 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:23:32 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:23:32 --> Session routines successfully run
+DEBUG - 2012-05-13 23:23:32 --> Controller Class Initialized
+ERROR - 2012-05-13 23:23:32 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:23:32 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:23:32 --> Final output sent to browser
+DEBUG - 2012-05-13 23:23:32 --> Total execution time: 0.0261
+DEBUG - 2012-05-13 23:23:33 --> Config Class Initialized
+DEBUG - 2012-05-13 23:23:33 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:23:33 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:23:33 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:23:33 --> URI Class Initialized
+DEBUG - 2012-05-13 23:23:33 --> Router Class Initialized
+ERROR - 2012-05-13 23:23:33 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:23:39 --> Config Class Initialized
+DEBUG - 2012-05-13 23:23:39 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:23:39 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:23:39 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:23:39 --> URI Class Initialized
+DEBUG - 2012-05-13 23:23:39 --> Router Class Initialized
+DEBUG - 2012-05-13 23:23:39 --> Output Class Initialized
+DEBUG - 2012-05-13 23:23:39 --> Security Class Initialized
+DEBUG - 2012-05-13 23:23:39 --> Input Class Initialized
+DEBUG - 2012-05-13 23:23:39 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:23:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:23:39 --> Language Class Initialized
+DEBUG - 2012-05-13 23:23:39 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:23:39 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:23:39 --> Session Class Initialized
+DEBUG - 2012-05-13 23:23:39 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:23:39 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:23:39 --> Session routines successfully run
+DEBUG - 2012-05-13 23:23:39 --> Controller Class Initialized
+ERROR - 2012-05-13 23:23:39 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:23:39 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:23:39 --> Final output sent to browser
+DEBUG - 2012-05-13 23:23:39 --> Total execution time: 0.0240
+DEBUG - 2012-05-13 23:23:40 --> Config Class Initialized
+DEBUG - 2012-05-13 23:23:40 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:23:40 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:23:40 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:23:40 --> URI Class Initialized
+DEBUG - 2012-05-13 23:23:40 --> Router Class Initialized
+ERROR - 2012-05-13 23:23:40 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:23:45 --> Config Class Initialized
+DEBUG - 2012-05-13 23:23:45 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:23:45 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:23:45 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:23:45 --> URI Class Initialized
+DEBUG - 2012-05-13 23:23:45 --> Router Class Initialized
+DEBUG - 2012-05-13 23:23:45 --> Output Class Initialized
+DEBUG - 2012-05-13 23:23:45 --> Security Class Initialized
+DEBUG - 2012-05-13 23:23:45 --> Input Class Initialized
+DEBUG - 2012-05-13 23:23:45 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:23:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:23:45 --> Language Class Initialized
+DEBUG - 2012-05-13 23:23:45 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:23:45 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:23:45 --> Session Class Initialized
+DEBUG - 2012-05-13 23:23:45 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:23:45 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:23:45 --> Session routines successfully run
+DEBUG - 2012-05-13 23:23:45 --> Controller Class Initialized
+ERROR - 2012-05-13 23:23:45 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:23:45 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:23:45 --> Final output sent to browser
+DEBUG - 2012-05-13 23:23:45 --> Total execution time: 0.0276
+DEBUG - 2012-05-13 23:27:04 --> Config Class Initialized
+DEBUG - 2012-05-13 23:27:04 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:27:04 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:27:04 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:27:04 --> URI Class Initialized
+DEBUG - 2012-05-13 23:27:04 --> Router Class Initialized
+DEBUG - 2012-05-13 23:27:04 --> Output Class Initialized
+DEBUG - 2012-05-13 23:27:04 --> Security Class Initialized
+DEBUG - 2012-05-13 23:27:04 --> Input Class Initialized
+DEBUG - 2012-05-13 23:27:04 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:27:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:27:04 --> Language Class Initialized
+DEBUG - 2012-05-13 23:27:04 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:27:04 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:27:04 --> Session Class Initialized
+DEBUG - 2012-05-13 23:27:04 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:27:04 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:27:04 --> Session routines successfully run
+DEBUG - 2012-05-13 23:27:04 --> Controller Class Initialized
+ERROR - 2012-05-13 23:27:04 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:27:04 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:27:04 --> Final output sent to browser
+DEBUG - 2012-05-13 23:27:04 --> Total execution time: 0.0281
+DEBUG - 2012-05-13 23:27:05 --> Config Class Initialized
+DEBUG - 2012-05-13 23:27:05 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:27:05 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:27:05 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:27:05 --> URI Class Initialized
+DEBUG - 2012-05-13 23:27:05 --> Router Class Initialized
+ERROR - 2012-05-13 23:27:05 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:27:35 --> Config Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:27:35 --> URI Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Router Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Output Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Security Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Input Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:27:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:27:35 --> Language Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Session Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:27:35 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Session routines successfully run
+DEBUG - 2012-05-13 23:27:35 --> Controller Class Initialized
+ERROR - 2012-05-13 23:27:35 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:27:35 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:27:35 --> Final output sent to browser
+DEBUG - 2012-05-13 23:27:35 --> Total execution time: 0.0278
+DEBUG - 2012-05-13 23:27:35 --> Config Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:27:35 --> URI Class Initialized
+DEBUG - 2012-05-13 23:27:35 --> Router Class Initialized
+ERROR - 2012-05-13 23:27:35 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:28:59 --> Config Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:28:59 --> URI Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Router Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Output Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Security Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Input Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:28:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:28:59 --> Language Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Session Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:28:59 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Session routines successfully run
+DEBUG - 2012-05-13 23:28:59 --> Controller Class Initialized
+ERROR - 2012-05-13 23:28:59 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:28:59 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:28:59 --> Final output sent to browser
+DEBUG - 2012-05-13 23:28:59 --> Total execution time: 0.0281
+DEBUG - 2012-05-13 23:28:59 --> Config Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:28:59 --> URI Class Initialized
+DEBUG - 2012-05-13 23:28:59 --> Router Class Initialized
+ERROR - 2012-05-13 23:28:59 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:29:46 --> Config Class Initialized
+DEBUG - 2012-05-13 23:29:46 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:29:46 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:29:46 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:29:46 --> URI Class Initialized
+DEBUG - 2012-05-13 23:29:46 --> Router Class Initialized
+DEBUG - 2012-05-13 23:29:46 --> Output Class Initialized
+DEBUG - 2012-05-13 23:29:46 --> Security Class Initialized
+DEBUG - 2012-05-13 23:29:46 --> Input Class Initialized
+DEBUG - 2012-05-13 23:29:46 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:29:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:29:46 --> Language Class Initialized
+DEBUG - 2012-05-13 23:29:46 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:29:46 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:29:46 --> Session Class Initialized
+DEBUG - 2012-05-13 23:29:46 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:29:46 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:29:46 --> Session routines successfully run
+DEBUG - 2012-05-13 23:29:46 --> Controller Class Initialized
+ERROR - 2012-05-13 23:29:46 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:29:46 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:29:46 --> Final output sent to browser
+DEBUG - 2012-05-13 23:29:46 --> Total execution time: 0.0274
+DEBUG - 2012-05-13 23:29:47 --> Config Class Initialized
+DEBUG - 2012-05-13 23:29:47 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:29:47 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:29:47 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:29:47 --> URI Class Initialized
+DEBUG - 2012-05-13 23:29:47 --> Router Class Initialized
+ERROR - 2012-05-13 23:29:47 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:32:14 --> Config Class Initialized
+DEBUG - 2012-05-13 23:32:14 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:32:14 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:32:14 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:32:14 --> URI Class Initialized
+DEBUG - 2012-05-13 23:32:14 --> Router Class Initialized
+DEBUG - 2012-05-13 23:32:14 --> Output Class Initialized
+DEBUG - 2012-05-13 23:32:14 --> Security Class Initialized
+DEBUG - 2012-05-13 23:32:14 --> Input Class Initialized
+DEBUG - 2012-05-13 23:32:14 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:32:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:32:14 --> Language Class Initialized
+DEBUG - 2012-05-13 23:32:14 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:32:14 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:32:14 --> Session Class Initialized
+DEBUG - 2012-05-13 23:32:14 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:32:14 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:32:14 --> Session routines successfully run
+DEBUG - 2012-05-13 23:32:14 --> Controller Class Initialized
+ERROR - 2012-05-13 23:32:14 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:32:14 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:32:14 --> Final output sent to browser
+DEBUG - 2012-05-13 23:32:14 --> Total execution time: 0.0277
+DEBUG - 2012-05-13 23:32:49 --> Config Class Initialized
+DEBUG - 2012-05-13 23:32:49 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:32:49 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:32:49 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:32:49 --> URI Class Initialized
+DEBUG - 2012-05-13 23:32:49 --> Router Class Initialized
+DEBUG - 2012-05-13 23:32:49 --> Output Class Initialized
+DEBUG - 2012-05-13 23:32:49 --> Security Class Initialized
+DEBUG - 2012-05-13 23:32:49 --> Input Class Initialized
+DEBUG - 2012-05-13 23:32:49 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:32:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:32:49 --> Language Class Initialized
+DEBUG - 2012-05-13 23:32:49 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:32:49 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:32:49 --> Session Class Initialized
+DEBUG - 2012-05-13 23:32:49 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:32:49 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:32:49 --> Session routines successfully run
+DEBUG - 2012-05-13 23:32:49 --> Controller Class Initialized
+ERROR - 2012-05-13 23:32:49 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:32:49 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:32:49 --> Final output sent to browser
+DEBUG - 2012-05-13 23:32:49 --> Total execution time: 0.0318
+DEBUG - 2012-05-13 23:34:25 --> Config Class Initialized
+DEBUG - 2012-05-13 23:34:25 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:34:25 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:34:25 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:34:25 --> URI Class Initialized
+DEBUG - 2012-05-13 23:34:25 --> Router Class Initialized
+DEBUG - 2012-05-13 23:34:25 --> Output Class Initialized
+DEBUG - 2012-05-13 23:34:25 --> Security Class Initialized
+DEBUG - 2012-05-13 23:34:25 --> Input Class Initialized
+DEBUG - 2012-05-13 23:34:25 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:34:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:34:25 --> Language Class Initialized
+DEBUG - 2012-05-13 23:34:25 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:34:25 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:34:25 --> Session Class Initialized
+DEBUG - 2012-05-13 23:34:25 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:34:25 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:34:25 --> Session routines successfully run
+DEBUG - 2012-05-13 23:34:25 --> Controller Class Initialized
+ERROR - 2012-05-13 23:34:25 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:34:25 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:34:25 --> Final output sent to browser
+DEBUG - 2012-05-13 23:34:25 --> Total execution time: 0.0269
+DEBUG - 2012-05-13 23:34:44 --> Config Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:34:44 --> URI Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Router Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Output Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Security Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Input Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:34:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:34:44 --> Language Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Session Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:34:44 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Session routines successfully run
+DEBUG - 2012-05-13 23:34:44 --> Controller Class Initialized
+ERROR - 2012-05-13 23:34:44 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:34:44 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:34:44 --> Final output sent to browser
+DEBUG - 2012-05-13 23:34:44 --> Total execution time: 0.0296
+DEBUG - 2012-05-13 23:34:44 --> Config Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:34:44 --> URI Class Initialized
+DEBUG - 2012-05-13 23:34:44 --> Router Class Initialized
+ERROR - 2012-05-13 23:34:44 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:34:49 --> Config Class Initialized
+DEBUG - 2012-05-13 23:34:49 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:34:49 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:34:49 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:34:49 --> URI Class Initialized
+DEBUG - 2012-05-13 23:34:49 --> Router Class Initialized
+DEBUG - 2012-05-13 23:34:49 --> Output Class Initialized
+DEBUG - 2012-05-13 23:34:49 --> Security Class Initialized
+DEBUG - 2012-05-13 23:34:49 --> Input Class Initialized
+DEBUG - 2012-05-13 23:34:49 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:34:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:34:49 --> Language Class Initialized
+DEBUG - 2012-05-13 23:34:49 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:34:49 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:34:49 --> Session Class Initialized
+DEBUG - 2012-05-13 23:34:49 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:34:49 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:34:49 --> Session routines successfully run
+DEBUG - 2012-05-13 23:34:49 --> Controller Class Initialized
+ERROR - 2012-05-13 23:34:49 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:34:49 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:34:49 --> Final output sent to browser
+DEBUG - 2012-05-13 23:34:49 --> Total execution time: 0.0280
+DEBUG - 2012-05-13 23:35:38 --> Config Class Initialized
+DEBUG - 2012-05-13 23:35:38 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:35:38 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:35:38 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:35:38 --> URI Class Initialized
+DEBUG - 2012-05-13 23:35:38 --> Router Class Initialized
+DEBUG - 2012-05-13 23:35:38 --> Output Class Initialized
+DEBUG - 2012-05-13 23:35:38 --> Security Class Initialized
+DEBUG - 2012-05-13 23:35:38 --> Input Class Initialized
+DEBUG - 2012-05-13 23:35:38 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:35:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:35:38 --> Language Class Initialized
+DEBUG - 2012-05-13 23:35:38 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:35:38 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:35:38 --> Session Class Initialized
+DEBUG - 2012-05-13 23:35:38 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:35:38 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:35:38 --> Session routines successfully run
+DEBUG - 2012-05-13 23:35:38 --> Controller Class Initialized
+ERROR - 2012-05-13 23:35:38 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:35:38 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:35:38 --> Final output sent to browser
+DEBUG - 2012-05-13 23:35:38 --> Total execution time: 0.0350
+DEBUG - 2012-05-13 23:35:39 --> Config Class Initialized
+DEBUG - 2012-05-13 23:35:39 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:35:39 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:35:39 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:35:39 --> URI Class Initialized
+DEBUG - 2012-05-13 23:35:39 --> Router Class Initialized
+ERROR - 2012-05-13 23:35:39 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:35:43 --> Config Class Initialized
+DEBUG - 2012-05-13 23:35:43 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:35:43 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:35:43 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:35:43 --> URI Class Initialized
+DEBUG - 2012-05-13 23:35:43 --> Router Class Initialized
+DEBUG - 2012-05-13 23:35:43 --> Output Class Initialized
+DEBUG - 2012-05-13 23:35:43 --> Security Class Initialized
+DEBUG - 2012-05-13 23:35:43 --> Input Class Initialized
+DEBUG - 2012-05-13 23:35:43 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:35:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:35:43 --> Language Class Initialized
+DEBUG - 2012-05-13 23:35:43 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:35:43 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:35:43 --> Session Class Initialized
+DEBUG - 2012-05-13 23:35:43 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:35:43 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:35:43 --> Session routines successfully run
+DEBUG - 2012-05-13 23:35:43 --> Controller Class Initialized
+ERROR - 2012-05-13 23:35:43 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:35:43 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:35:43 --> Final output sent to browser
+DEBUG - 2012-05-13 23:35:43 --> Total execution time: 0.0276
+DEBUG - 2012-05-13 23:36:23 --> Config Class Initialized
+DEBUG - 2012-05-13 23:36:23 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:36:23 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:36:23 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:36:23 --> URI Class Initialized
+DEBUG - 2012-05-13 23:36:23 --> Router Class Initialized
+DEBUG - 2012-05-13 23:36:23 --> Output Class Initialized
+DEBUG - 2012-05-13 23:36:23 --> Security Class Initialized
+DEBUG - 2012-05-13 23:36:23 --> Input Class Initialized
+DEBUG - 2012-05-13 23:36:23 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:36:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:36:23 --> Language Class Initialized
+DEBUG - 2012-05-13 23:36:23 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:36:23 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:36:23 --> Session Class Initialized
+DEBUG - 2012-05-13 23:36:23 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:36:23 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:36:23 --> Session routines successfully run
+DEBUG - 2012-05-13 23:36:23 --> Controller Class Initialized
+ERROR - 2012-05-13 23:36:23 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:36:23 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:36:23 --> Final output sent to browser
+DEBUG - 2012-05-13 23:36:23 --> Total execution time: 0.0271
+DEBUG - 2012-05-13 23:36:24 --> Config Class Initialized
+DEBUG - 2012-05-13 23:36:24 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:36:24 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:36:24 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:36:24 --> URI Class Initialized
+DEBUG - 2012-05-13 23:36:24 --> Router Class Initialized
+ERROR - 2012-05-13 23:36:24 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:36:34 --> Config Class Initialized
+DEBUG - 2012-05-13 23:36:34 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:36:34 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:36:34 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:36:34 --> URI Class Initialized
+DEBUG - 2012-05-13 23:36:34 --> Router Class Initialized
+DEBUG - 2012-05-13 23:36:34 --> Output Class Initialized
+DEBUG - 2012-05-13 23:36:34 --> Security Class Initialized
+DEBUG - 2012-05-13 23:36:34 --> Input Class Initialized
+DEBUG - 2012-05-13 23:36:34 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:36:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:36:34 --> Language Class Initialized
+DEBUG - 2012-05-13 23:36:34 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:36:34 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:36:34 --> Session Class Initialized
+DEBUG - 2012-05-13 23:36:34 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:36:34 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:36:34 --> Session routines successfully run
+DEBUG - 2012-05-13 23:36:34 --> Controller Class Initialized
+ERROR - 2012-05-13 23:36:34 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:36:34 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:36:34 --> Final output sent to browser
+DEBUG - 2012-05-13 23:36:34 --> Total execution time: 0.0201
+DEBUG - 2012-05-13 23:36:35 --> Config Class Initialized
+DEBUG - 2012-05-13 23:36:35 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:36:35 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:36:35 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:36:35 --> URI Class Initialized
+DEBUG - 2012-05-13 23:36:35 --> Router Class Initialized
+ERROR - 2012-05-13 23:36:35 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:36:55 --> Config Class Initialized
+DEBUG - 2012-05-13 23:36:55 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:36:55 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:36:55 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:36:55 --> URI Class Initialized
+DEBUG - 2012-05-13 23:36:55 --> Router Class Initialized
+DEBUG - 2012-05-13 23:36:55 --> Output Class Initialized
+DEBUG - 2012-05-13 23:36:55 --> Security Class Initialized
+DEBUG - 2012-05-13 23:36:55 --> Input Class Initialized
+DEBUG - 2012-05-13 23:36:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:36:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:36:55 --> Language Class Initialized
+DEBUG - 2012-05-13 23:36:55 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:36:55 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:36:55 --> Session Class Initialized
+DEBUG - 2012-05-13 23:36:55 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:36:55 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:36:55 --> Session routines successfully run
+DEBUG - 2012-05-13 23:36:55 --> Controller Class Initialized
+ERROR - 2012-05-13 23:36:55 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:36:55 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:36:55 --> Final output sent to browser
+DEBUG - 2012-05-13 23:36:55 --> Total execution time: 0.0275
+DEBUG - 2012-05-13 23:36:56 --> Config Class Initialized
+DEBUG - 2012-05-13 23:36:56 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:36:56 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:36:56 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:36:56 --> URI Class Initialized
+DEBUG - 2012-05-13 23:36:56 --> Router Class Initialized
+ERROR - 2012-05-13 23:36:56 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:37:01 --> Config Class Initialized
+DEBUG - 2012-05-13 23:37:01 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:37:01 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:37:01 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:37:01 --> URI Class Initialized
+DEBUG - 2012-05-13 23:37:01 --> Router Class Initialized
+DEBUG - 2012-05-13 23:37:01 --> Output Class Initialized
+DEBUG - 2012-05-13 23:37:01 --> Security Class Initialized
+DEBUG - 2012-05-13 23:37:01 --> Input Class Initialized
+DEBUG - 2012-05-13 23:37:01 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:37:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:37:01 --> Language Class Initialized
+DEBUG - 2012-05-13 23:37:01 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:37:01 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:37:01 --> Session Class Initialized
+DEBUG - 2012-05-13 23:37:01 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:37:01 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:37:01 --> Session routines successfully run
+DEBUG - 2012-05-13 23:37:01 --> Controller Class Initialized
+ERROR - 2012-05-13 23:37:01 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:37:01 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:37:01 --> Final output sent to browser
+DEBUG - 2012-05-13 23:37:01 --> Total execution time: 0.0276
+DEBUG - 2012-05-13 23:37:14 --> Config Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:37:14 --> URI Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Router Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Output Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Security Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Input Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:37:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:37:14 --> Language Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Session Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:37:14 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Session routines successfully run
+DEBUG - 2012-05-13 23:37:14 --> Controller Class Initialized
+ERROR - 2012-05-13 23:37:14 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:37:14 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:37:14 --> Final output sent to browser
+DEBUG - 2012-05-13 23:37:14 --> Total execution time: 0.0278
+DEBUG - 2012-05-13 23:37:14 --> Config Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:37:14 --> URI Class Initialized
+DEBUG - 2012-05-13 23:37:14 --> Router Class Initialized
+ERROR - 2012-05-13 23:37:14 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:37:19 --> Config Class Initialized
+DEBUG - 2012-05-13 23:37:19 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:37:19 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:37:19 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:37:19 --> URI Class Initialized
+DEBUG - 2012-05-13 23:37:19 --> Router Class Initialized
+DEBUG - 2012-05-13 23:37:19 --> Output Class Initialized
+DEBUG - 2012-05-13 23:37:19 --> Security Class Initialized
+DEBUG - 2012-05-13 23:37:19 --> Input Class Initialized
+DEBUG - 2012-05-13 23:37:19 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:37:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:37:19 --> Language Class Initialized
+DEBUG - 2012-05-13 23:37:19 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:37:19 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:37:19 --> Session Class Initialized
+DEBUG - 2012-05-13 23:37:19 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:37:19 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:37:19 --> Session routines successfully run
+DEBUG - 2012-05-13 23:37:19 --> Controller Class Initialized
+ERROR - 2012-05-13 23:37:19 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:37:19 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:37:19 --> Final output sent to browser
+DEBUG - 2012-05-13 23:37:19 --> Total execution time: 0.0276
+DEBUG - 2012-05-13 23:39:18 --> Config Class Initialized
+DEBUG - 2012-05-13 23:39:18 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:39:18 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:39:18 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:39:18 --> URI Class Initialized
+DEBUG - 2012-05-13 23:39:18 --> Router Class Initialized
+DEBUG - 2012-05-13 23:39:18 --> Output Class Initialized
+DEBUG - 2012-05-13 23:39:18 --> Security Class Initialized
+DEBUG - 2012-05-13 23:39:18 --> Input Class Initialized
+DEBUG - 2012-05-13 23:39:18 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:39:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:39:18 --> Language Class Initialized
+DEBUG - 2012-05-13 23:39:18 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:39:18 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:39:18 --> Session Class Initialized
+DEBUG - 2012-05-13 23:39:18 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:39:18 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:39:18 --> Session routines successfully run
+DEBUG - 2012-05-13 23:39:18 --> Controller Class Initialized
+ERROR - 2012-05-13 23:39:18 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:39:18 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:39:18 --> Final output sent to browser
+DEBUG - 2012-05-13 23:39:18 --> Total execution time: 0.0247
+DEBUG - 2012-05-13 23:39:19 --> Config Class Initialized
+DEBUG - 2012-05-13 23:39:19 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:39:19 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:39:19 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:39:19 --> URI Class Initialized
+DEBUG - 2012-05-13 23:39:19 --> Router Class Initialized
+ERROR - 2012-05-13 23:39:19 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:39:40 --> Config Class Initialized
+DEBUG - 2012-05-13 23:39:40 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:39:40 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:39:40 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:39:40 --> URI Class Initialized
+DEBUG - 2012-05-13 23:39:40 --> Router Class Initialized
+DEBUG - 2012-05-13 23:39:40 --> Output Class Initialized
+DEBUG - 2012-05-13 23:39:40 --> Security Class Initialized
+DEBUG - 2012-05-13 23:39:40 --> Input Class Initialized
+DEBUG - 2012-05-13 23:39:40 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:39:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:39:40 --> Language Class Initialized
+DEBUG - 2012-05-13 23:39:40 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:39:40 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:39:40 --> Session Class Initialized
+DEBUG - 2012-05-13 23:39:40 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:39:40 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:39:40 --> Session routines successfully run
+DEBUG - 2012-05-13 23:39:40 --> Controller Class Initialized
+ERROR - 2012-05-13 23:39:40 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:39:40 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:39:40 --> Final output sent to browser
+DEBUG - 2012-05-13 23:39:40 --> Total execution time: 0.0274
+DEBUG - 2012-05-13 23:39:44 --> Config Class Initialized
+DEBUG - 2012-05-13 23:39:44 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:39:44 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:39:44 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:39:44 --> URI Class Initialized
+DEBUG - 2012-05-13 23:39:44 --> Router Class Initialized
+ERROR - 2012-05-13 23:39:44 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:40:05 --> Config Class Initialized
+DEBUG - 2012-05-13 23:40:05 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:40:05 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:40:05 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:40:05 --> URI Class Initialized
+DEBUG - 2012-05-13 23:40:05 --> Router Class Initialized
+DEBUG - 2012-05-13 23:40:05 --> Output Class Initialized
+DEBUG - 2012-05-13 23:40:05 --> Security Class Initialized
+DEBUG - 2012-05-13 23:40:05 --> Input Class Initialized
+DEBUG - 2012-05-13 23:40:05 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:40:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:40:05 --> Language Class Initialized
+DEBUG - 2012-05-13 23:40:05 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:40:05 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:40:05 --> Session Class Initialized
+DEBUG - 2012-05-13 23:40:05 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:40:05 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:40:05 --> Session routines successfully run
+DEBUG - 2012-05-13 23:40:05 --> Controller Class Initialized
+ERROR - 2012-05-13 23:40:05 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:40:05 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:40:05 --> Final output sent to browser
+DEBUG - 2012-05-13 23:40:05 --> Total execution time: 0.0286
+DEBUG - 2012-05-13 23:40:06 --> Config Class Initialized
+DEBUG - 2012-05-13 23:40:06 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:40:06 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:40:06 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:40:06 --> URI Class Initialized
+DEBUG - 2012-05-13 23:40:06 --> Router Class Initialized
+ERROR - 2012-05-13 23:40:06 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:41:02 --> Config Class Initialized
+DEBUG - 2012-05-13 23:41:02 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:41:02 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:41:02 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:41:02 --> URI Class Initialized
+DEBUG - 2012-05-13 23:41:02 --> Router Class Initialized
+DEBUG - 2012-05-13 23:41:02 --> Output Class Initialized
+DEBUG - 2012-05-13 23:41:02 --> Security Class Initialized
+DEBUG - 2012-05-13 23:41:02 --> Input Class Initialized
+DEBUG - 2012-05-13 23:41:02 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:41:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:41:02 --> Language Class Initialized
+DEBUG - 2012-05-13 23:41:02 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:41:02 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:41:02 --> Session Class Initialized
+DEBUG - 2012-05-13 23:41:02 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:41:02 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:41:02 --> Session routines successfully run
+DEBUG - 2012-05-13 23:41:02 --> Controller Class Initialized
+ERROR - 2012-05-13 23:41:02 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:41:02 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:41:02 --> Final output sent to browser
+DEBUG - 2012-05-13 23:41:02 --> Total execution time: 0.0276
+DEBUG - 2012-05-13 23:41:04 --> Config Class Initialized
+DEBUG - 2012-05-13 23:41:04 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:41:04 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:41:04 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:41:04 --> URI Class Initialized
+DEBUG - 2012-05-13 23:41:04 --> Router Class Initialized
+ERROR - 2012-05-13 23:41:04 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:41:11 --> Config Class Initialized
+DEBUG - 2012-05-13 23:41:11 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:41:11 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:41:11 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:41:11 --> URI Class Initialized
+DEBUG - 2012-05-13 23:41:11 --> Router Class Initialized
+DEBUG - 2012-05-13 23:41:11 --> Output Class Initialized
+DEBUG - 2012-05-13 23:41:11 --> Security Class Initialized
+DEBUG - 2012-05-13 23:41:11 --> Input Class Initialized
+DEBUG - 2012-05-13 23:41:11 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:41:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:41:11 --> Language Class Initialized
+DEBUG - 2012-05-13 23:41:11 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:41:11 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:41:11 --> Session Class Initialized
+DEBUG - 2012-05-13 23:41:11 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:41:11 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:41:11 --> Session routines successfully run
+DEBUG - 2012-05-13 23:41:11 --> Controller Class Initialized
+ERROR - 2012-05-13 23:41:11 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:41:11 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:41:11 --> Final output sent to browser
+DEBUG - 2012-05-13 23:41:11 --> Total execution time: 0.0226
+DEBUG - 2012-05-13 23:41:12 --> Config Class Initialized
+DEBUG - 2012-05-13 23:41:12 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:41:12 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:41:12 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:41:12 --> URI Class Initialized
+DEBUG - 2012-05-13 23:41:12 --> Router Class Initialized
+ERROR - 2012-05-13 23:41:12 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:42:40 --> Config Class Initialized
+DEBUG - 2012-05-13 23:42:40 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:42:40 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:42:40 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:42:40 --> URI Class Initialized
+DEBUG - 2012-05-13 23:42:40 --> Router Class Initialized
+DEBUG - 2012-05-13 23:42:40 --> Output Class Initialized
+DEBUG - 2012-05-13 23:42:40 --> Security Class Initialized
+DEBUG - 2012-05-13 23:42:40 --> Input Class Initialized
+DEBUG - 2012-05-13 23:42:40 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:42:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:42:40 --> Language Class Initialized
+DEBUG - 2012-05-13 23:42:40 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:42:40 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:42:40 --> Session Class Initialized
+DEBUG - 2012-05-13 23:42:40 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:42:40 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:42:40 --> Session routines successfully run
+DEBUG - 2012-05-13 23:42:40 --> Controller Class Initialized
+ERROR - 2012-05-13 23:42:40 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:42:40 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:42:40 --> Final output sent to browser
+DEBUG - 2012-05-13 23:42:40 --> Total execution time: 0.0282
+DEBUG - 2012-05-13 23:42:41 --> Config Class Initialized
+DEBUG - 2012-05-13 23:42:41 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:42:41 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:42:41 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:42:41 --> URI Class Initialized
+DEBUG - 2012-05-13 23:42:41 --> Router Class Initialized
+ERROR - 2012-05-13 23:42:41 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:42:50 --> Config Class Initialized
+DEBUG - 2012-05-13 23:42:50 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:42:50 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:42:50 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:42:50 --> URI Class Initialized
+DEBUG - 2012-05-13 23:42:50 --> Router Class Initialized
+DEBUG - 2012-05-13 23:42:50 --> Output Class Initialized
+DEBUG - 2012-05-13 23:42:50 --> Security Class Initialized
+DEBUG - 2012-05-13 23:42:50 --> Input Class Initialized
+DEBUG - 2012-05-13 23:42:50 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:42:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:42:50 --> Language Class Initialized
+DEBUG - 2012-05-13 23:42:50 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:42:50 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:42:50 --> Session Class Initialized
+DEBUG - 2012-05-13 23:42:50 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:42:50 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:42:50 --> Session routines successfully run
+DEBUG - 2012-05-13 23:42:50 --> Controller Class Initialized
+ERROR - 2012-05-13 23:42:50 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:42:50 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:42:50 --> Final output sent to browser
+DEBUG - 2012-05-13 23:42:50 --> Total execution time: 0.0180
+DEBUG - 2012-05-13 23:42:51 --> Config Class Initialized
+DEBUG - 2012-05-13 23:42:51 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:42:51 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:42:51 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:42:51 --> URI Class Initialized
+DEBUG - 2012-05-13 23:42:51 --> Router Class Initialized
+ERROR - 2012-05-13 23:42:51 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:42:55 --> Config Class Initialized
+DEBUG - 2012-05-13 23:42:55 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:42:55 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:42:55 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:42:55 --> URI Class Initialized
+DEBUG - 2012-05-13 23:42:55 --> Router Class Initialized
+DEBUG - 2012-05-13 23:42:55 --> Output Class Initialized
+DEBUG - 2012-05-13 23:42:55 --> Security Class Initialized
+DEBUG - 2012-05-13 23:42:55 --> Input Class Initialized
+DEBUG - 2012-05-13 23:42:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:42:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:42:55 --> Language Class Initialized
+DEBUG - 2012-05-13 23:42:55 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:42:55 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:42:55 --> Session Class Initialized
+DEBUG - 2012-05-13 23:42:55 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:42:55 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:42:55 --> Session routines successfully run
+DEBUG - 2012-05-13 23:42:55 --> Controller Class Initialized
+ERROR - 2012-05-13 23:42:55 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:42:55 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:42:55 --> Final output sent to browser
+DEBUG - 2012-05-13 23:42:55 --> Total execution time: 0.0212
+DEBUG - 2012-05-13 23:42:56 --> Config Class Initialized
+DEBUG - 2012-05-13 23:42:56 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:42:56 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:42:56 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:42:56 --> URI Class Initialized
+DEBUG - 2012-05-13 23:42:56 --> Router Class Initialized
+ERROR - 2012-05-13 23:42:56 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:43:03 --> Config Class Initialized
+DEBUG - 2012-05-13 23:43:03 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:43:03 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:43:03 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:43:03 --> URI Class Initialized
+DEBUG - 2012-05-13 23:43:03 --> Router Class Initialized
+DEBUG - 2012-05-13 23:43:03 --> Output Class Initialized
+DEBUG - 2012-05-13 23:43:03 --> Security Class Initialized
+DEBUG - 2012-05-13 23:43:03 --> Input Class Initialized
+DEBUG - 2012-05-13 23:43:03 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:43:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:43:03 --> Language Class Initialized
+DEBUG - 2012-05-13 23:43:03 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:43:03 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:43:03 --> Session Class Initialized
+DEBUG - 2012-05-13 23:43:03 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:43:03 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:43:03 --> Session routines successfully run
+DEBUG - 2012-05-13 23:43:03 --> Controller Class Initialized
+ERROR - 2012-05-13 23:43:03 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:43:03 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:43:03 --> Final output sent to browser
+DEBUG - 2012-05-13 23:43:03 --> Total execution time: 0.0204
+DEBUG - 2012-05-13 23:43:04 --> Config Class Initialized
+DEBUG - 2012-05-13 23:43:04 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:43:04 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:43:04 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:43:04 --> URI Class Initialized
+DEBUG - 2012-05-13 23:43:04 --> Router Class Initialized
+ERROR - 2012-05-13 23:43:04 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:43:19 --> Config Class Initialized
+DEBUG - 2012-05-13 23:43:19 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:43:19 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:43:19 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:43:19 --> URI Class Initialized
+DEBUG - 2012-05-13 23:43:19 --> Router Class Initialized
+DEBUG - 2012-05-13 23:43:19 --> Output Class Initialized
+DEBUG - 2012-05-13 23:43:19 --> Security Class Initialized
+DEBUG - 2012-05-13 23:43:19 --> Input Class Initialized
+DEBUG - 2012-05-13 23:43:19 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:43:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:43:19 --> Language Class Initialized
+DEBUG - 2012-05-13 23:43:19 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:43:19 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:43:19 --> Session Class Initialized
+DEBUG - 2012-05-13 23:43:19 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:43:19 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:43:19 --> Session routines successfully run
+DEBUG - 2012-05-13 23:43:19 --> Controller Class Initialized
+ERROR - 2012-05-13 23:43:19 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:43:19 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:43:19 --> Final output sent to browser
+DEBUG - 2012-05-13 23:43:19 --> Total execution time: 0.0219
+DEBUG - 2012-05-13 23:43:20 --> Config Class Initialized
+DEBUG - 2012-05-13 23:43:20 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:43:20 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:43:20 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:43:20 --> URI Class Initialized
+DEBUG - 2012-05-13 23:43:20 --> Router Class Initialized
+ERROR - 2012-05-13 23:43:20 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:43:57 --> Config Class Initialized
+DEBUG - 2012-05-13 23:43:57 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:43:57 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:43:57 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:43:57 --> URI Class Initialized
+DEBUG - 2012-05-13 23:43:57 --> Router Class Initialized
+DEBUG - 2012-05-13 23:43:57 --> Output Class Initialized
+DEBUG - 2012-05-13 23:43:57 --> Security Class Initialized
+DEBUG - 2012-05-13 23:43:57 --> Input Class Initialized
+DEBUG - 2012-05-13 23:43:57 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:43:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:43:57 --> Language Class Initialized
+DEBUG - 2012-05-13 23:43:57 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:43:57 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:43:57 --> Session Class Initialized
+DEBUG - 2012-05-13 23:43:57 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:43:57 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:43:57 --> Session routines successfully run
+DEBUG - 2012-05-13 23:43:57 --> Controller Class Initialized
+ERROR - 2012-05-13 23:43:57 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:43:57 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:43:57 --> Final output sent to browser
+DEBUG - 2012-05-13 23:43:57 --> Total execution time: 0.0281
+DEBUG - 2012-05-13 23:43:58 --> Config Class Initialized
+DEBUG - 2012-05-13 23:43:58 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:43:58 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:43:58 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:43:58 --> URI Class Initialized
+DEBUG - 2012-05-13 23:43:58 --> Router Class Initialized
+ERROR - 2012-05-13 23:43:58 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:44:06 --> Config Class Initialized
+DEBUG - 2012-05-13 23:44:06 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:44:06 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:44:06 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:44:06 --> URI Class Initialized
+DEBUG - 2012-05-13 23:44:06 --> Router Class Initialized
+DEBUG - 2012-05-13 23:44:06 --> Output Class Initialized
+DEBUG - 2012-05-13 23:44:06 --> Security Class Initialized
+DEBUG - 2012-05-13 23:44:06 --> Input Class Initialized
+DEBUG - 2012-05-13 23:44:06 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:44:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:44:06 --> Language Class Initialized
+DEBUG - 2012-05-13 23:44:06 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:44:06 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:44:06 --> Session Class Initialized
+DEBUG - 2012-05-13 23:44:06 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:44:06 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:44:06 --> Session routines successfully run
+DEBUG - 2012-05-13 23:44:06 --> Controller Class Initialized
+ERROR - 2012-05-13 23:44:06 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:44:06 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:44:06 --> Final output sent to browser
+DEBUG - 2012-05-13 23:44:06 --> Total execution time: 0.0198
+DEBUG - 2012-05-13 23:44:07 --> Config Class Initialized
+DEBUG - 2012-05-13 23:44:07 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:44:07 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:44:07 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:44:07 --> URI Class Initialized
+DEBUG - 2012-05-13 23:44:07 --> Router Class Initialized
+ERROR - 2012-05-13 23:44:07 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:44:17 --> Config Class Initialized
+DEBUG - 2012-05-13 23:44:17 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:44:17 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:44:17 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:44:17 --> URI Class Initialized
+DEBUG - 2012-05-13 23:44:17 --> Router Class Initialized
+DEBUG - 2012-05-13 23:44:17 --> Output Class Initialized
+DEBUG - 2012-05-13 23:44:17 --> Security Class Initialized
+DEBUG - 2012-05-13 23:44:17 --> Input Class Initialized
+DEBUG - 2012-05-13 23:44:17 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:44:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:44:17 --> Language Class Initialized
+DEBUG - 2012-05-13 23:44:17 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:44:17 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:44:17 --> Session Class Initialized
+DEBUG - 2012-05-13 23:44:17 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:44:17 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:44:17 --> Session routines successfully run
+DEBUG - 2012-05-13 23:44:17 --> Controller Class Initialized
+ERROR - 2012-05-13 23:44:17 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:44:17 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:44:17 --> Final output sent to browser
+DEBUG - 2012-05-13 23:44:17 --> Total execution time: 0.0202
+DEBUG - 2012-05-13 23:44:18 --> Config Class Initialized
+DEBUG - 2012-05-13 23:44:18 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:44:18 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:44:18 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:44:18 --> URI Class Initialized
+DEBUG - 2012-05-13 23:44:18 --> Router Class Initialized
+ERROR - 2012-05-13 23:44:18 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:44:25 --> Config Class Initialized
+DEBUG - 2012-05-13 23:44:25 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:44:25 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:44:25 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:44:25 --> URI Class Initialized
+DEBUG - 2012-05-13 23:44:25 --> Router Class Initialized
+DEBUG - 2012-05-13 23:44:25 --> Output Class Initialized
+DEBUG - 2012-05-13 23:44:25 --> Security Class Initialized
+DEBUG - 2012-05-13 23:44:25 --> Input Class Initialized
+DEBUG - 2012-05-13 23:44:25 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:44:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:44:25 --> Language Class Initialized
+DEBUG - 2012-05-13 23:44:25 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:44:25 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:44:25 --> Session Class Initialized
+DEBUG - 2012-05-13 23:44:25 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:44:25 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:44:25 --> Session routines successfully run
+DEBUG - 2012-05-13 23:44:25 --> Controller Class Initialized
+ERROR - 2012-05-13 23:44:25 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:44:25 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:44:25 --> Final output sent to browser
+DEBUG - 2012-05-13 23:44:25 --> Total execution time: 0.0281
+DEBUG - 2012-05-13 23:44:42 --> Config Class Initialized
+DEBUG - 2012-05-13 23:44:42 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:44:42 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:44:42 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:44:42 --> URI Class Initialized
+DEBUG - 2012-05-13 23:44:42 --> Router Class Initialized
+DEBUG - 2012-05-13 23:44:42 --> Output Class Initialized
+DEBUG - 2012-05-13 23:44:42 --> Security Class Initialized
+DEBUG - 2012-05-13 23:44:42 --> Input Class Initialized
+DEBUG - 2012-05-13 23:44:42 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:44:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:44:42 --> Language Class Initialized
+DEBUG - 2012-05-13 23:44:42 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:44:42 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:44:42 --> Session Class Initialized
+DEBUG - 2012-05-13 23:44:42 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:44:42 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:44:42 --> Session routines successfully run
+DEBUG - 2012-05-13 23:44:42 --> Controller Class Initialized
+ERROR - 2012-05-13 23:44:42 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:44:42 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:44:42 --> Final output sent to browser
+DEBUG - 2012-05-13 23:44:42 --> Total execution time: 0.0281
+DEBUG - 2012-05-13 23:45:09 --> Config Class Initialized
+DEBUG - 2012-05-13 23:45:09 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:45:09 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:45:09 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:45:09 --> URI Class Initialized
+DEBUG - 2012-05-13 23:45:09 --> Router Class Initialized
+DEBUG - 2012-05-13 23:45:09 --> Output Class Initialized
+DEBUG - 2012-05-13 23:45:09 --> Security Class Initialized
+DEBUG - 2012-05-13 23:45:09 --> Input Class Initialized
+DEBUG - 2012-05-13 23:45:09 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:45:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:45:09 --> Language Class Initialized
+DEBUG - 2012-05-13 23:45:09 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:45:09 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:45:09 --> Session Class Initialized
+DEBUG - 2012-05-13 23:45:09 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:45:09 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:45:09 --> Session routines successfully run
+DEBUG - 2012-05-13 23:45:09 --> Controller Class Initialized
+ERROR - 2012-05-13 23:45:09 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:45:09 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:45:09 --> Final output sent to browser
+DEBUG - 2012-05-13 23:45:09 --> Total execution time: 0.0277
+DEBUG - 2012-05-13 23:45:55 --> Config Class Initialized
+DEBUG - 2012-05-13 23:45:55 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:45:55 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:45:55 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:45:55 --> URI Class Initialized
+DEBUG - 2012-05-13 23:45:55 --> Router Class Initialized
+DEBUG - 2012-05-13 23:45:55 --> Output Class Initialized
+DEBUG - 2012-05-13 23:45:55 --> Security Class Initialized
+DEBUG - 2012-05-13 23:45:55 --> Input Class Initialized
+DEBUG - 2012-05-13 23:45:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:45:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:45:55 --> Language Class Initialized
+DEBUG - 2012-05-13 23:45:55 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:45:55 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:45:55 --> Session Class Initialized
+DEBUG - 2012-05-13 23:45:55 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:45:55 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:45:55 --> Session routines successfully run
+DEBUG - 2012-05-13 23:45:55 --> Controller Class Initialized
+ERROR - 2012-05-13 23:45:55 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:45:55 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:45:55 --> Final output sent to browser
+DEBUG - 2012-05-13 23:45:55 --> Total execution time: 0.0274
+DEBUG - 2012-05-13 23:46:33 --> Config Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:46:33 --> URI Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Router Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Output Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Security Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Input Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:46:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:46:33 --> Language Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Session Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:46:33 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Session routines successfully run
+DEBUG - 2012-05-13 23:46:33 --> Controller Class Initialized
+ERROR - 2012-05-13 23:46:33 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:46:33 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:46:33 --> Final output sent to browser
+DEBUG - 2012-05-13 23:46:33 --> Total execution time: 0.0285
+DEBUG - 2012-05-13 23:46:33 --> Config Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:46:33 --> URI Class Initialized
+DEBUG - 2012-05-13 23:46:33 --> Router Class Initialized
+ERROR - 2012-05-13 23:46:33 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:46:51 --> Config Class Initialized
+DEBUG - 2012-05-13 23:46:51 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:46:51 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:46:51 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:46:51 --> URI Class Initialized
+DEBUG - 2012-05-13 23:46:51 --> Router Class Initialized
+DEBUG - 2012-05-13 23:46:51 --> Output Class Initialized
+DEBUG - 2012-05-13 23:46:51 --> Security Class Initialized
+DEBUG - 2012-05-13 23:46:51 --> Input Class Initialized
+DEBUG - 2012-05-13 23:46:51 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:46:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:46:51 --> Language Class Initialized
+DEBUG - 2012-05-13 23:46:51 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:46:51 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:46:51 --> Session Class Initialized
+DEBUG - 2012-05-13 23:46:51 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:46:51 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:46:51 --> Session routines successfully run
+DEBUG - 2012-05-13 23:46:51 --> Controller Class Initialized
+ERROR - 2012-05-13 23:46:51 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:46:51 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:46:51 --> Final output sent to browser
+DEBUG - 2012-05-13 23:46:51 --> Total execution time: 0.0279
+DEBUG - 2012-05-13 23:46:52 --> Config Class Initialized
+DEBUG - 2012-05-13 23:46:52 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:46:52 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:46:52 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:46:52 --> URI Class Initialized
+DEBUG - 2012-05-13 23:46:52 --> Router Class Initialized
+ERROR - 2012-05-13 23:46:52 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:47:07 --> Config Class Initialized
+DEBUG - 2012-05-13 23:47:07 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:47:07 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:47:07 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:47:07 --> URI Class Initialized
+DEBUG - 2012-05-13 23:47:07 --> Router Class Initialized
+DEBUG - 2012-05-13 23:47:07 --> Output Class Initialized
+DEBUG - 2012-05-13 23:47:07 --> Security Class Initialized
+DEBUG - 2012-05-13 23:47:07 --> Input Class Initialized
+DEBUG - 2012-05-13 23:47:07 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:47:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:47:07 --> Language Class Initialized
+DEBUG - 2012-05-13 23:47:07 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:47:07 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:47:07 --> Session Class Initialized
+DEBUG - 2012-05-13 23:47:07 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:47:07 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:47:07 --> Session routines successfully run
+DEBUG - 2012-05-13 23:47:07 --> Controller Class Initialized
+ERROR - 2012-05-13 23:47:07 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:47:07 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:47:07 --> Final output sent to browser
+DEBUG - 2012-05-13 23:47:07 --> Total execution time: 0.0280
+DEBUG - 2012-05-13 23:47:08 --> Config Class Initialized
+DEBUG - 2012-05-13 23:47:08 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:47:08 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:47:08 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:47:08 --> URI Class Initialized
+DEBUG - 2012-05-13 23:47:08 --> Router Class Initialized
+ERROR - 2012-05-13 23:47:08 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:48:39 --> Config Class Initialized
+DEBUG - 2012-05-13 23:48:39 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:48:39 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:48:39 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:48:39 --> URI Class Initialized
+DEBUG - 2012-05-13 23:48:39 --> Router Class Initialized
+DEBUG - 2012-05-13 23:48:39 --> Output Class Initialized
+DEBUG - 2012-05-13 23:48:39 --> Security Class Initialized
+DEBUG - 2012-05-13 23:48:39 --> Input Class Initialized
+DEBUG - 2012-05-13 23:48:39 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:48:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:48:39 --> Language Class Initialized
+DEBUG - 2012-05-13 23:48:39 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:48:39 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:48:39 --> Session Class Initialized
+DEBUG - 2012-05-13 23:48:39 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:48:39 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:48:39 --> Session routines successfully run
+DEBUG - 2012-05-13 23:48:39 --> Controller Class Initialized
+ERROR - 2012-05-13 23:48:39 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:48:39 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:48:39 --> Final output sent to browser
+DEBUG - 2012-05-13 23:48:39 --> Total execution time: 0.0279
+DEBUG - 2012-05-13 23:48:40 --> Config Class Initialized
+DEBUG - 2012-05-13 23:48:40 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:48:40 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:48:40 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:48:40 --> URI Class Initialized
+DEBUG - 2012-05-13 23:48:40 --> Router Class Initialized
+ERROR - 2012-05-13 23:48:40 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:49:00 --> Config Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:49:00 --> URI Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Router Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Output Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Security Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Input Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:49:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:49:00 --> Language Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Session Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:49:00 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Session routines successfully run
+DEBUG - 2012-05-13 23:49:00 --> Controller Class Initialized
+ERROR - 2012-05-13 23:49:00 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:49:00 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:49:00 --> Final output sent to browser
+DEBUG - 2012-05-13 23:49:00 --> Total execution time: 0.0287
+DEBUG - 2012-05-13 23:49:00 --> Config Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:49:00 --> URI Class Initialized
+DEBUG - 2012-05-13 23:49:00 --> Router Class Initialized
+ERROR - 2012-05-13 23:49:00 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:49:22 --> Config Class Initialized
+DEBUG - 2012-05-13 23:49:22 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:49:22 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:49:22 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:49:22 --> URI Class Initialized
+DEBUG - 2012-05-13 23:49:22 --> Router Class Initialized
+DEBUG - 2012-05-13 23:49:22 --> Output Class Initialized
+DEBUG - 2012-05-13 23:49:22 --> Security Class Initialized
+DEBUG - 2012-05-13 23:49:22 --> Input Class Initialized
+DEBUG - 2012-05-13 23:49:22 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:49:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:49:22 --> Language Class Initialized
+DEBUG - 2012-05-13 23:49:22 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:49:22 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:49:22 --> Session Class Initialized
+DEBUG - 2012-05-13 23:49:22 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:49:22 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:49:22 --> Session routines successfully run
+DEBUG - 2012-05-13 23:49:22 --> Controller Class Initialized
+ERROR - 2012-05-13 23:49:22 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:49:22 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:49:22 --> Final output sent to browser
+DEBUG - 2012-05-13 23:49:22 --> Total execution time: 0.0273
+DEBUG - 2012-05-13 23:49:24 --> Config Class Initialized
+DEBUG - 2012-05-13 23:49:24 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:49:24 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:49:24 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:49:24 --> URI Class Initialized
+DEBUG - 2012-05-13 23:49:24 --> Router Class Initialized
+ERROR - 2012-05-13 23:49:24 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:50:27 --> Config Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:50:27 --> URI Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Router Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Output Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Security Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Input Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:50:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:50:27 --> Language Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Session Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:50:27 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Session routines successfully run
+DEBUG - 2012-05-13 23:50:27 --> Controller Class Initialized
+ERROR - 2012-05-13 23:50:27 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:50:27 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:50:27 --> Final output sent to browser
+DEBUG - 2012-05-13 23:50:27 --> Total execution time: 0.0285
+DEBUG - 2012-05-13 23:50:27 --> Config Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:50:27 --> URI Class Initialized
+DEBUG - 2012-05-13 23:50:27 --> Router Class Initialized
+ERROR - 2012-05-13 23:50:27 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:50:33 --> Config Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:50:33 --> URI Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Router Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Output Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Security Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Input Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:50:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:50:33 --> Language Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Session Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:50:33 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Session routines successfully run
+DEBUG - 2012-05-13 23:50:33 --> Controller Class Initialized
+ERROR - 2012-05-13 23:50:33 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:50:33 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:50:33 --> Final output sent to browser
+DEBUG - 2012-05-13 23:50:33 --> Total execution time: 0.0199
+DEBUG - 2012-05-13 23:50:33 --> Config Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:50:33 --> URI Class Initialized
+DEBUG - 2012-05-13 23:50:33 --> Router Class Initialized
+ERROR - 2012-05-13 23:50:33 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:50:39 --> Config Class Initialized
+DEBUG - 2012-05-13 23:50:39 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:50:39 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:50:39 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:50:39 --> URI Class Initialized
+DEBUG - 2012-05-13 23:50:39 --> Router Class Initialized
+DEBUG - 2012-05-13 23:50:39 --> Output Class Initialized
+DEBUG - 2012-05-13 23:50:39 --> Security Class Initialized
+DEBUG - 2012-05-13 23:50:39 --> Input Class Initialized
+DEBUG - 2012-05-13 23:50:39 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:50:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:50:39 --> Language Class Initialized
+DEBUG - 2012-05-13 23:50:39 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:50:39 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:50:39 --> Session Class Initialized
+DEBUG - 2012-05-13 23:50:39 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:50:39 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:50:39 --> Session routines successfully run
+DEBUG - 2012-05-13 23:50:39 --> Controller Class Initialized
+ERROR - 2012-05-13 23:50:39 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:50:39 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:50:39 --> Final output sent to browser
+DEBUG - 2012-05-13 23:50:39 --> Total execution time: 0.0278
+DEBUG - 2012-05-13 23:50:44 --> Config Class Initialized
+DEBUG - 2012-05-13 23:50:44 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:50:44 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:50:44 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:50:44 --> URI Class Initialized
+DEBUG - 2012-05-13 23:50:44 --> Router Class Initialized
+DEBUG - 2012-05-13 23:50:44 --> Output Class Initialized
+DEBUG - 2012-05-13 23:50:44 --> Security Class Initialized
+DEBUG - 2012-05-13 23:50:44 --> Input Class Initialized
+DEBUG - 2012-05-13 23:50:44 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:50:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:50:44 --> Language Class Initialized
+DEBUG - 2012-05-13 23:50:44 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:50:44 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:50:44 --> Session Class Initialized
+DEBUG - 2012-05-13 23:50:44 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:50:44 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:50:44 --> Session routines successfully run
+DEBUG - 2012-05-13 23:50:44 --> Controller Class Initialized
+ERROR - 2012-05-13 23:50:44 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:50:44 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:50:44 --> Final output sent to browser
+DEBUG - 2012-05-13 23:50:44 --> Total execution time: 0.0244
+DEBUG - 2012-05-13 23:50:45 --> Config Class Initialized
+DEBUG - 2012-05-13 23:50:45 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:50:45 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:50:45 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:50:45 --> URI Class Initialized
+DEBUG - 2012-05-13 23:50:45 --> Router Class Initialized
+ERROR - 2012-05-13 23:50:45 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:50:47 --> Config Class Initialized
+DEBUG - 2012-05-13 23:50:47 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:50:47 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:50:47 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:50:47 --> URI Class Initialized
+DEBUG - 2012-05-13 23:50:47 --> Router Class Initialized
+DEBUG - 2012-05-13 23:50:47 --> Output Class Initialized
+DEBUG - 2012-05-13 23:50:47 --> Security Class Initialized
+DEBUG - 2012-05-13 23:50:47 --> Input Class Initialized
+DEBUG - 2012-05-13 23:50:47 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:50:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:50:47 --> Language Class Initialized
+DEBUG - 2012-05-13 23:50:47 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:50:47 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:50:47 --> Session Class Initialized
+DEBUG - 2012-05-13 23:50:47 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:50:47 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:50:47 --> Session routines successfully run
+DEBUG - 2012-05-13 23:50:47 --> Controller Class Initialized
+ERROR - 2012-05-13 23:50:47 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:50:47 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:50:47 --> Final output sent to browser
+DEBUG - 2012-05-13 23:50:47 --> Total execution time: 0.0203
+DEBUG - 2012-05-13 23:51:34 --> Config Class Initialized
+DEBUG - 2012-05-13 23:51:34 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:51:34 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:51:34 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:51:34 --> URI Class Initialized
+DEBUG - 2012-05-13 23:51:34 --> Router Class Initialized
+DEBUG - 2012-05-13 23:51:34 --> Output Class Initialized
+DEBUG - 2012-05-13 23:51:34 --> Security Class Initialized
+DEBUG - 2012-05-13 23:51:34 --> Input Class Initialized
+DEBUG - 2012-05-13 23:51:34 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:51:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:51:34 --> Language Class Initialized
+DEBUG - 2012-05-13 23:51:34 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:51:34 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:51:34 --> Session Class Initialized
+DEBUG - 2012-05-13 23:51:34 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:51:34 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:51:34 --> Session routines successfully run
+DEBUG - 2012-05-13 23:51:34 --> Controller Class Initialized
+ERROR - 2012-05-13 23:51:34 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:51:34 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:51:34 --> Final output sent to browser
+DEBUG - 2012-05-13 23:51:34 --> Total execution time: 0.0271
+DEBUG - 2012-05-13 23:52:47 --> Config Class Initialized
+DEBUG - 2012-05-13 23:52:47 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:52:47 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:52:47 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:52:47 --> URI Class Initialized
+DEBUG - 2012-05-13 23:52:47 --> Router Class Initialized
+ERROR - 2012-05-13 23:52:47 --> 404 Page Not Found --> playroom.html
+DEBUG - 2012-05-13 23:53:48 --> Config Class Initialized
+DEBUG - 2012-05-13 23:53:48 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:53:48 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:53:48 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:53:48 --> URI Class Initialized
+DEBUG - 2012-05-13 23:53:48 --> Router Class Initialized
+DEBUG - 2012-05-13 23:53:48 --> Output Class Initialized
+DEBUG - 2012-05-13 23:53:48 --> Security Class Initialized
+DEBUG - 2012-05-13 23:53:48 --> Input Class Initialized
+DEBUG - 2012-05-13 23:53:48 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:53:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:53:48 --> Language Class Initialized
+DEBUG - 2012-05-13 23:53:48 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:53:48 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:53:48 --> Session Class Initialized
+DEBUG - 2012-05-13 23:53:48 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:53:48 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:53:48 --> Session routines successfully run
+DEBUG - 2012-05-13 23:53:48 --> Controller Class Initialized
+ERROR - 2012-05-13 23:53:48 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:53:48 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:53:48 --> Final output sent to browser
+DEBUG - 2012-05-13 23:53:48 --> Total execution time: 0.0288
+DEBUG - 2012-05-13 23:53:49 --> Config Class Initialized
+DEBUG - 2012-05-13 23:53:49 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:53:49 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:53:49 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:53:49 --> URI Class Initialized
+DEBUG - 2012-05-13 23:53:49 --> Router Class Initialized
+ERROR - 2012-05-13 23:53:49 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:53:52 --> Config Class Initialized
+DEBUG - 2012-05-13 23:53:52 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:53:52 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:53:52 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:53:52 --> URI Class Initialized
+DEBUG - 2012-05-13 23:53:52 --> Router Class Initialized
+DEBUG - 2012-05-13 23:53:52 --> Output Class Initialized
+DEBUG - 2012-05-13 23:53:52 --> Security Class Initialized
+DEBUG - 2012-05-13 23:53:52 --> Input Class Initialized
+DEBUG - 2012-05-13 23:53:52 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:53:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:53:52 --> Language Class Initialized
+DEBUG - 2012-05-13 23:53:52 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:53:52 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:53:52 --> Session Class Initialized
+DEBUG - 2012-05-13 23:53:52 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:53:52 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:53:52 --> Session routines successfully run
+DEBUG - 2012-05-13 23:53:52 --> Controller Class Initialized
+ERROR - 2012-05-13 23:53:52 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:53:52 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:53:52 --> Final output sent to browser
+DEBUG - 2012-05-13 23:53:52 --> Total execution time: 0.0269
+DEBUG - 2012-05-13 23:54:54 --> Config Class Initialized
+DEBUG - 2012-05-13 23:54:54 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:54:54 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:54:54 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:54:54 --> URI Class Initialized
+DEBUG - 2012-05-13 23:54:54 --> Router Class Initialized
+DEBUG - 2012-05-13 23:54:54 --> Output Class Initialized
+DEBUG - 2012-05-13 23:54:54 --> Security Class Initialized
+DEBUG - 2012-05-13 23:54:54 --> Input Class Initialized
+DEBUG - 2012-05-13 23:54:54 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:54:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:54:54 --> Language Class Initialized
+DEBUG - 2012-05-13 23:54:54 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:54:54 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:54:54 --> Session Class Initialized
+DEBUG - 2012-05-13 23:54:54 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:54:54 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:54:54 --> Session routines successfully run
+DEBUG - 2012-05-13 23:54:54 --> Controller Class Initialized
+ERROR - 2012-05-13 23:54:54 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:54:54 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:54:54 --> Final output sent to browser
+DEBUG - 2012-05-13 23:54:54 --> Total execution time: 0.0274
+DEBUG - 2012-05-13 23:54:57 --> Config Class Initialized
+DEBUG - 2012-05-13 23:54:57 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:54:57 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:54:57 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:54:57 --> URI Class Initialized
+DEBUG - 2012-05-13 23:54:57 --> Router Class Initialized
+DEBUG - 2012-05-13 23:54:57 --> Output Class Initialized
+DEBUG - 2012-05-13 23:54:57 --> Security Class Initialized
+DEBUG - 2012-05-13 23:54:57 --> Input Class Initialized
+DEBUG - 2012-05-13 23:54:57 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:54:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:54:57 --> Language Class Initialized
+DEBUG - 2012-05-13 23:54:57 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:54:57 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:54:57 --> Session Class Initialized
+DEBUG - 2012-05-13 23:54:57 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:54:57 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:54:57 --> Session routines successfully run
+DEBUG - 2012-05-13 23:54:57 --> Controller Class Initialized
+ERROR - 2012-05-13 23:54:57 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:54:57 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:54:57 --> Final output sent to browser
+DEBUG - 2012-05-13 23:54:57 --> Total execution time: 0.0283
+DEBUG - 2012-05-13 23:54:58 --> Config Class Initialized
+DEBUG - 2012-05-13 23:54:58 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:54:58 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:54:58 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:54:58 --> URI Class Initialized
+DEBUG - 2012-05-13 23:54:58 --> Router Class Initialized
+ERROR - 2012-05-13 23:54:58 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:55:41 --> Config Class Initialized
+DEBUG - 2012-05-13 23:55:41 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:55:41 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:55:41 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:55:41 --> URI Class Initialized
+DEBUG - 2012-05-13 23:55:41 --> Router Class Initialized
+DEBUG - 2012-05-13 23:55:41 --> Output Class Initialized
+DEBUG - 2012-05-13 23:55:41 --> Security Class Initialized
+DEBUG - 2012-05-13 23:55:41 --> Input Class Initialized
+DEBUG - 2012-05-13 23:55:41 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:55:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:55:41 --> Language Class Initialized
+DEBUG - 2012-05-13 23:55:41 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:55:41 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:55:41 --> Session Class Initialized
+DEBUG - 2012-05-13 23:55:41 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:55:41 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:55:41 --> Session routines successfully run
+DEBUG - 2012-05-13 23:55:41 --> Controller Class Initialized
+ERROR - 2012-05-13 23:55:41 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:55:41 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:55:41 --> Final output sent to browser
+DEBUG - 2012-05-13 23:55:41 --> Total execution time: 0.0279
+DEBUG - 2012-05-13 23:55:50 --> Config Class Initialized
+DEBUG - 2012-05-13 23:55:50 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:55:50 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:55:50 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:55:50 --> URI Class Initialized
+DEBUG - 2012-05-13 23:55:50 --> Router Class Initialized
+ERROR - 2012-05-13 23:55:50 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-05-13 23:55:55 --> Config Class Initialized
+DEBUG - 2012-05-13 23:55:55 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:55:55 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:55:55 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:55:55 --> URI Class Initialized
+DEBUG - 2012-05-13 23:55:55 --> Router Class Initialized
+DEBUG - 2012-05-13 23:55:55 --> Output Class Initialized
+DEBUG - 2012-05-13 23:55:55 --> Security Class Initialized
+DEBUG - 2012-05-13 23:55:55 --> Input Class Initialized
+DEBUG - 2012-05-13 23:55:55 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:55:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:55:55 --> Language Class Initialized
+DEBUG - 2012-05-13 23:55:55 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:55:55 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:55:55 --> Session Class Initialized
+DEBUG - 2012-05-13 23:55:55 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:55:55 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:55:55 --> Session routines successfully run
+DEBUG - 2012-05-13 23:55:55 --> Controller Class Initialized
+ERROR - 2012-05-13 23:55:55 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:55:55 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:55:55 --> Final output sent to browser
+DEBUG - 2012-05-13 23:55:55 --> Total execution time: 0.0322
+DEBUG - 2012-05-13 23:56:45 --> Config Class Initialized
+DEBUG - 2012-05-13 23:56:45 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:56:45 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:56:45 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:56:45 --> URI Class Initialized
+DEBUG - 2012-05-13 23:56:45 --> Router Class Initialized
+DEBUG - 2012-05-13 23:56:45 --> Output Class Initialized
+DEBUG - 2012-05-13 23:56:45 --> Security Class Initialized
+DEBUG - 2012-05-13 23:56:45 --> Input Class Initialized
+DEBUG - 2012-05-13 23:56:45 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:56:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:56:45 --> Language Class Initialized
+DEBUG - 2012-05-13 23:56:45 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:56:45 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:56:45 --> Session Class Initialized
+DEBUG - 2012-05-13 23:56:45 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:56:45 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:56:45 --> Session routines successfully run
+DEBUG - 2012-05-13 23:56:45 --> Controller Class Initialized
+ERROR - 2012-05-13 23:56:45 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:56:45 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:56:45 --> Final output sent to browser
+DEBUG - 2012-05-13 23:56:45 --> Total execution time: 0.0275
+DEBUG - 2012-05-13 23:57:51 --> Config Class Initialized
+DEBUG - 2012-05-13 23:57:51 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:57:51 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:57:51 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:57:51 --> URI Class Initialized
+DEBUG - 2012-05-13 23:57:51 --> Router Class Initialized
+DEBUG - 2012-05-13 23:57:51 --> Output Class Initialized
+DEBUG - 2012-05-13 23:57:51 --> Security Class Initialized
+DEBUG - 2012-05-13 23:57:51 --> Input Class Initialized
+DEBUG - 2012-05-13 23:57:51 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:57:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:57:51 --> Language Class Initialized
+DEBUG - 2012-05-13 23:57:51 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:57:51 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:57:51 --> Session Class Initialized
+DEBUG - 2012-05-13 23:57:51 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:57:51 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:57:51 --> Session routines successfully run
+DEBUG - 2012-05-13 23:57:51 --> Controller Class Initialized
+ERROR - 2012-05-13 23:57:51 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:57:51 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:57:51 --> Final output sent to browser
+DEBUG - 2012-05-13 23:57:51 --> Total execution time: 0.0280
+DEBUG - 2012-05-13 23:58:29 --> Config Class Initialized
+DEBUG - 2012-05-13 23:58:29 --> Hooks Class Initialized
+DEBUG - 2012-05-13 23:58:29 --> Utf8 Class Initialized
+DEBUG - 2012-05-13 23:58:29 --> UTF-8 Support Enabled
+DEBUG - 2012-05-13 23:58:29 --> URI Class Initialized
+DEBUG - 2012-05-13 23:58:29 --> Router Class Initialized
+DEBUG - 2012-05-13 23:58:29 --> Output Class Initialized
+DEBUG - 2012-05-13 23:58:29 --> Security Class Initialized
+DEBUG - 2012-05-13 23:58:29 --> Input Class Initialized
+DEBUG - 2012-05-13 23:58:29 --> XSS Filtering completed
+DEBUG - 2012-05-13 23:58:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-05-13 23:58:29 --> Language Class Initialized
+DEBUG - 2012-05-13 23:58:29 --> Loader Class Initialized
+DEBUG - 2012-05-13 23:58:29 --> Database Driver Class Initialized
+DEBUG - 2012-05-13 23:58:29 --> Session Class Initialized
+DEBUG - 2012-05-13 23:58:29 --> Helper loaded: string_helper
+DEBUG - 2012-05-13 23:58:29 --> Encrypt Class Initialized
+DEBUG - 2012-05-13 23:58:29 --> Session routines successfully run
+DEBUG - 2012-05-13 23:58:29 --> Controller Class Initialized
+ERROR - 2012-05-13 23:58:29 --> Severity: Warning  --> Missing argument 1 for Room::index() /home/ssaifriend/the3b/application/controllers/room.php 9
+DEBUG - 2012-05-13 23:58:29 --> File loaded: application/views/playroom.php
+DEBUG - 2012-05-13 23:58:29 --> Final output sent to browser
+DEBUG - 2012-05-13 23:58:29 --> Total execution time: 0.0278

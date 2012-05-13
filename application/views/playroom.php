@@ -74,7 +74,6 @@
 			<div id="chat">
 					대화 내용
 			</div>
-			
 			<div id="participant_list">
 				<a type="button" data-inline="true">방장</a>
 				<a id="ready3" type="button" data-inline="true">시작 요청</a>
@@ -108,13 +107,66 @@
 				<a id="ready8" type="button" data-inline="true">준비 요청</a>
 				<span id="user8" >사용자8</span><br>
 			</div>
-			
 			<div id="gamedisplay">
-				<div>
-					
+				<hr>
+				<div id="bingo">
+					<div id="turn">
+						<div class="turnuser">현재 순서 아이디</div>
+						<div><a data-role="button" data-icon="arrow-r" data-iconpos="notext" data-theme="a" data-inline="true">unfold</a></div>
+						<div class="turnuser textalignright"> 다음 순서 아이디</div>
+					</div>
+					<table>
+						<tr>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">1</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">2</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">3</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">4</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">5</a></td>
+						</tr>
+						<tr>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">6</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">7</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">8</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">9</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">10</a></td>
+						</tr>
+						<tr>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">11</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">12</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">13</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">14</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">15</a></td>
+						</tr>
+						<tr>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">16</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">17</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">18</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="c">20</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="e">20</a></td><!-- 중복시 색 -->
+						</tr>
+						<tr>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td><!-- 미 선택시 색 -->
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+						</tr>
+					</table>
+					<div id="remaintime">남은 시간 : <span>25</span> 초 </div>
+					<div>	
+						<div>미 선택 <div>20 ,21 , 22 , 23 , 24 , 25</div> </div><!-- 숫자 선택을 모두 하지 않고 완료시 경우 미 선택 숫자 표시-->
+						<br>
+						<label for="slider" class="ui-input-text ui-slider">숫자 선택</label>
+				 		<input type="range" name="slider" id="slider-a" value="1" min="1" max="25" data-theme="e"/><!-- 게임 시작 초기 설정 -->
+						<a data-role="button" data-mini="true" data-inline="true" data-theme="b">작성 완료</a><!-- 게임 시작 초기 설정 -->
+					</div>
+					<div>
+						<a data-role="button" data-mini="true" data-inline="true" data-theme="b">선택 완료</a><!-- 게임 중일 경우 -->
+					</div>
 				</div>
+				<hr>
 			</div>
-			
+
 		</div><!-- /content -->
 		<!-- /footer -->	
 		<div id="footer" data-role="footer" data-position="fixed" data-theme="a">

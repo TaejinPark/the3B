@@ -24,8 +24,8 @@
 #content			{margin:0px; padding:0px;}
 
 #chat					{margin:10px 20px 10px 10px;}
+hr						{margin:10px 20px;}
 #participant_list		{margin:0px; padding:10px 0px; display:none;}
-#gamedisplay			{display:none; }
 
 #chat_input_form		{width:100%; clear:both;}
 #chat_input_form div	{margin:5px;}
@@ -53,3 +53,17 @@
 #participant_button		{float:left;}
 #chat_list_button		{float:left;}
 
+#gamedisplay			{display:none;}
+
+
+
+/* bingo css */
+#bingo table td a span	{width:25px;}
+#bingo > div			{margin:10px;}
+
+#turn > div				{margin:0px; padding:0px; float: left;}
+#turn > div	> a			{margin:0px; padding:0px;}
+.turnuser				{padding:5px 0px; margin:0px 10px; height:22px; overflow: hidden;}
+.textalignright			{text-align: right;}
+
+#remaintime				{text-align: center;}
