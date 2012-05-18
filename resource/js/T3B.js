@@ -254,7 +254,7 @@ function loadRoomList(start){
 			$('#roomlist > a').css('display','block');
 		} else $('#RoomList').append(str).parent().trigger("create");
 		$('#RoomList .join').unbind('click').click(function(){
-			location.href="/room/"+$(this).parent().parent().find('.roomnumber').text()+'/';
+			location.href="/room/index/"+$(this).parent().parent().find('.roomnumber').text()+'/';
 		});
 	});
 }
