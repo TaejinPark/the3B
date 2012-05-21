@@ -254,7 +254,7 @@ function loadRoomList(start){
 			$('#roomlist > a').css('display','block');
 		} else $('#RoomList').append(str).parent().trigger("create");
 		$('#RoomList .join').unbind('click').click(function(){
-			location.href="/room/index/"+$(this).parent().parent().find('.roomnumber').text()+'/';
+			location.href="/game/index/"+$(this).parent().parent().find('.roomnumber').text()+'/';
 		});
 	});
 }
@@ -280,7 +280,7 @@ function makeRoom(obj){
 				alert('방 정보가 잘못 되었습니다.');
 				break;
 			default:
-				location.href="/room/"+data+'/';
+				location.href="/game/index/"+data+'/';
 		}
 	});
 }

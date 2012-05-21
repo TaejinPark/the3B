@@ -4,6 +4,7 @@ class Member {
 	private $password;
 	private $nickname;
 	private $penalty;
+	private $sessionid;
 
 	function getUserID(){
 		return $this->userID;
@@ -35,6 +36,14 @@ class Member {
 
 	function setPenalty($penalty){
 		$this->penalty = $penalty;
+	}
+
+	function getSessionID(){
+		return $this->sessionid;
+	}
+
+	function setSessionID($sessionid){
+		$this->sessionid = $sessionid;
 	}
 }
 ?>

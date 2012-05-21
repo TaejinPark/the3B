@@ -1,3 +1,6 @@
+<?php
+$opt = $room->getGameOption();
+?>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -11,11 +14,22 @@
 		<script src ="/resource/js/playroom.js"></script>
 		<link 	href="/resource/css/playroom.css" rel="stylesheet" >
 		<style type="text/css">
-
-			
 		</style>
 		<script type="text/javascript">
-
+			var room_seq = "<?php echo $room->getRoomSeq();?>";
+			var userid = "<?php echo $member->getUserID();?>";
+			var nickname = "<?php echo $member->getNickname();?>";
+			var owner = "<?php echo $room->getOwner();?>";
+			var sid = "<?php echo $member->getSessionID();?>";
+			$(document).ready(function(){
+				init();
+				$('#debug input').keypress(function(e){
+					if(e.keyCode==13) sendDebug();
+				});
+			});
+			window.onbeforeunload(function(){
+				$("#exit_button a").click();
+			});
 		</script>
 	</head>
 	
@@ -25,7 +39,7 @@
 	
 		<!-- /header -->
 		<div id="header" data-role="header" data-position="fixed" data-theme="a">
-				<h3 data-inline="true">방 이름</h3>
+				<h3 data-inline="true"><?php echo $room->getName(); ?></h3>
 				<div id="unfold"><a onclick="view_config('room_info'); view_folding('fold');"data-role="button" data-icon="arrow-d" data-iconpos="notext" data-theme="a">unfold</a></div>
 				<div id="fold"><a onclick="view_config('none'); view_folding('unfold');" data-role="button" data-icon="arrow-u" data-iconpos="notext" data-theme="a">fold</a></div>
 
@@ -35,15 +49,15 @@
 		<div id="content" data-role="content" data-theme="a">
 			<div id="room_info"><!-- /room inform-->
 				<div>참가자 : 
-					<span>6</span> / 
-					<span>8</span>
+					<span id="joinUsers"></span> / 
+					<span id="maxUser"><?php echo $room->getMaxUser(); ?></span>
 				</div>
 				<div>게임 종류 : 
 					<span>빙고</span>
 				</div>
 				<div>-Option-<br>
 					승리 빙고 : 
-					<span>3줄</span>
+					<span id="gameOption"><?php echo $opt[0]; ?>줄</span>
 				</div>
 				<a id="config_change" onclick="view_config('room_config');" type="button" data-inline="true;">설정 변경</a>
 			</div><!-- /room inform -->
@@ -52,9 +66,9 @@
 				<div>
 					<div id="participant_num" data-role="fieldcontain">
 						<div>참가자</div>
-					 	<input type="range" name="slider" id="slider-a" value="2" min="2" max="8" data-theme="e"/>
+					 	<input type="range" name="maxuser" id="slider-a" value="<?php echo $room->getMaxUser(); ?>" min="2" max="8" data-theme="e"/>
 					</div>
-					<div id="select_game_type">
+					<!--div id="select_game_type">
 						<div>게임 종류</div>
 						<select name="select_game_type" data-native-menu="false">
 							<option value="bingo">빙고</option>
@@ -62,50 +76,23 @@
 							<option value="ladder">사다리</option>
 							<option value="pirate">해적</option>
 						</select>
-					</div>
+					</div-->
+					<input type="hidden" name="select_game_type" value="bingo" />
 					<div id="bingo_option_line"data-role="fieldcontain">
 						<div>빙고 라인 갯수</div>
-					 	<input type="range" name="slider" id="slider-a" value="2" min="2" max="8" data-theme="e"/>
+					 	<input type="range" name="gameoption" id="slider-a" value="<?php echo $opt[0]; ?>" min="2" max="8" data-theme="e"/>
 					</div>
 					<a id="config_confirm" type="button" data-inline="true;">적용</a>
 				</div>
 			</div><!-- /room config -->
 				
-			<div id="chat">
-					대화 내용
-			</div>
+			<div id="chat"></div>
 			<div id="participant_list">
-				<a type="button" data-inline="true">방장</a>
-				<a id="ready3" type="button" data-inline="true">시작 요청</a>
-				<span id="host">사용자1</span>
-				<br>
-				<a id="kick2" type="button" data-inline="true">강퇴</a>
-				<a id="ready2" type="button" data-inline="true">준비 요청</a>
-				<span id="user2" >사용자2</span><br>
-				
-				<a id="kick3" type="button" data-inline="true">강퇴</a>
-				<a id="ready3" type="button" data-inline="true">준비 요청</a>
-				<span id="user3" >사용자3</span><br>
-				
-				<a id="kick4" type="button" data-inline="true">강퇴</a>
-				<a id="ready4" type="button" data-inline="true">준비 요청</a>
-				<span id="user4" >사용자4</span><br>
-				
-				<a id="kick5" type="button" data-inline="true">강퇴</a>
-				<a id="ready5" type="button" data-inline="true">준비 요청</a>
-				<span id="user5" >사용자5</span><br>
-				
-				<a id="kick6" type="button" data-inline="true">강퇴</a>
-				<a id="ready6" type="button" data-inline="true">준비 요청</a>
-				<span id="user6" >사용자6</span><br>
-				
-				<a id="kick7" type="button" data-inline="true">강퇴</a>
-				<a id="ready7" type="button" data-inline="true">준비 요청</a>
-				<span id="user7" >사용자7</span><br>
-				
-				<a id="kick8" type="button" data-inline="true">강퇴</a>
-				<a id="ready8" type="button" data-inline="true">준비 요청</a>
-				<span id="user8" >사용자8</span><br>
+				<p>참가자</p>
+			</div>
+			<div id="debug">
+				<div></div>
+				<input type="text" />
 			</div>
 			<div id="gamedisplay">
 				<hr>
@@ -171,18 +158,18 @@
 		<!-- /footer -->	
 		<div id="footer" data-role="footer" data-position="fixed" data-theme="a">
 			<div id="chat_input_form">
-				<div id="chat_input"><input type="text"></div>
+				<div id="chat_input"><input type="text" id="msg"></div>
 				<div id="chat_send" ><a type="button">전송</a></div>
 			</div>
 			<div id="divider"></div>
 			<div>
 				<div id="chat_list_button"><a type="button" onclick="view('chat')">채팅창</a></div>
 				<div id="participant_button"><a type="button" onclick="view('participant_list')">참가자</a></div>
-				<div id="play_button">
-					<a type="button" href="askplay.html" data-rel="dialog">Play</a>
-				</div>
 				<div id="exit_button">
-					<a type="button" href="askexit.html" data-rel="dialog">Exit</a>
+					<a type="button">종료</a>
+				</div>
+				<div id="play_button">
+					<a type="button"><?php echo ($member->getUserID()==$room->getOwner()?'시작':'준비');?></a>
 				</div>
 			</div>
 		</div><!-- /footer -->

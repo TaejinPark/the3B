@@ -1,9 +1,9 @@
 <?php
 class RoomUser {
-	private $room_seq;
-	private $userID;
-	private $ready;
-	private $anonymous;
+	public $room_seq;
+	public $userID;
+	public $ready;
+	public $anonymous;
 
 	function getRoomSeq(){
 		return $this->room_seq;

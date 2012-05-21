@@ -14,7 +14,7 @@ class RoomDAO extends CI_Model{
 		$room = new Room();
 		if($this->db->count_all_results()==0) return new $room;
 
-		$query = $this->db->get();
+		$query = $this->db->get('room');
 		$data = $query->row();
 
 		$room->setRoomSeq($data->room_seq);
@@ -22,8 +22,8 @@ class RoomDAO extends CI_Model{
 		$room->setMaxUser($data->maxuser);
 		$room->setPrivate($data->private);
 		$room->setPassword($data->password);
-		$room->setGameType($data->gmaetype);
-		$room->setGameOption($data->gameoption);
+		$room->setGameType($data->gametype);
+		$room->setGameOption(unserialize($data->gameoption));
 		$room->setRoomType($data->roomtype);
 		$room->setOwner($data->owner);
 
@@ -83,6 +83,24 @@ class RoomDAO extends CI_Model{
 				$data[$a]->SetCurrentUser(0);
 		}
 		return $data;
+	}
+
+	function updateRoomOwner($room_seq, $owner){
+		$this->db->set('owner',$owner)->where('room_seq',$room_seq)->update('room');
+
+		if($this->db->affected_rows()>0) return 1;
+		else return 0;
+	}
+
+	function destoryRoom($room_seq){
+		$this->db->where('room_seq',$room_seq)->delete('room');
+
+		$return = $this->db->affected_rows();
+
+		$this->db->where('room_seq',$room_seq)->delete('room_user');
+
+		if($return>0) return 1;
+		else return 0;
 	}
 
 	function _preProcessRoom($room){

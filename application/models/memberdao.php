@@ -13,7 +13,7 @@ class MemberDAO extends CI_Model{
 
 		if($this->db->count_all_results()==0) return new Member();
 
-		$query = $this->db->get('member');
+		$query = $this->db->where('userID',$user_id)->get('member');
 		return $this->_makeMember($query->row());
 	}
 
@@ -31,6 +31,12 @@ class MemberDAO extends CI_Model{
 		else return 0;
 	}
 
+	function updateSessionID($user_id,$sessionid){
+		$this->db->set('sessionid',$sessionid)->where('userID',$user_id)->update('member');
+		if($this->db->affected_rows()>0) return 1;
+		else return 0;
+	}
+
 	function deleteUser($user_id){
 		$this->db->where('userID',$user_id)->delete('member');
 		if($this->db->affected_rows()>0) return 1;
@@ -42,7 +48,16 @@ class MemberDAO extends CI_Model{
 
 		if($this->db->count_all_results()==0) return new Member();
 
-		$query = $this->db->get('member');
+		$query = $this->db->where('nickname',$nickname)->get('member');
+		return $this->_makeMember($query->row());
+	}
+
+	function getUserBySessionID($sessionid){
+		$this->db->where('sessionid',$sessionid)->from('member');
+
+		if($this->db->count_all_results()==0) return new Member();
+
+		$query = $this->db->where('sessionid',$sessionid)->get('member');
 		return $this->_makeMember($query->row());
 	}
 
@@ -70,6 +85,7 @@ class MemberDAO extends CI_Model{
 		$member->setPassword($data->password);
 		$member->setNickname($data->nickname);
 		$member->setPenalty($data->penalty);
+		$member->setSessionID($data->sessionid);
 		return $member;
 	}
 

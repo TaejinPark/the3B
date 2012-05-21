@@ -32,6 +32,8 @@ class Index extends CI_Controller {
 		}
 
 		//session
+		$this->MemberDAO->updateSessionID($member->getUserID(),$this->session->userdata('session_id'));
+		$member->setSessionID($this->session->userdata('session_id'));
 		$this->session->set_userdata('member',$member);
 
 		echo 'true';
