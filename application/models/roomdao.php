@@ -49,6 +49,7 @@ class RoomDAO extends CI_Model{
 		if($room->getName()=="" || !$room->getName()) return -1;
 
 		$room->setRoomSeq($original->getRoomSeq());
+		unset($room->currentuser);
 		
 		$this->db->where('room_seq',$room->getRoomSeq())->update('room',$room);
 		if($this->db->affected_rows()>0) return 1;
@@ -100,6 +101,20 @@ class RoomDAO extends CI_Model{
 		$this->db->where('room_seq',$room_seq)->delete('room_user');
 
 		if($return>0) return 1;
+		else return 0;
+	}
+
+	function startRoom($room_seq){
+		$this->db->set('start',1)->where('room_seq',$room_seq)->update('room');
+
+		if($this->db->affected_rows()>0) return 1;
+		else return 0;
+	}
+
+	function stopRoom($room_seq){
+		$this->db->set('start',0)->where('room_seq',$room_seq)->update('room');
+
+		if($this->db->affected_rows()>0) return 1;
 		else return 0;
 	}
 

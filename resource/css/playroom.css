@@ -70,3 +70,6 @@ hr						{margin:10px 20px;}
 #debug { position: absolute; right: 0; top: 30px; border: 1px solid #000; background: white; font-size: 11px; font-family: Dotum,sans-serif; width: 400px; height: 200px; }
 #debug div { width: 398px; height: 180px; border: 1px solid #000; color: #000; text-shadow: none; overflow: auto; }
 #debug input { width: 390px; border: 1px solid #666; }
+
+#okSelect { display: none; }
+#turn { display: none; }

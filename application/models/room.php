@@ -10,6 +10,7 @@ class Room {
 	public $roomtype;
 	public $owner;
 	public $currentuser;
+	public $start;
 
 	function getRoomSeq(){
 		return $this->room_seq;
@@ -81,6 +82,14 @@ class Room {
 
 	function setOwner($owner){
 		$this->owner = $owner;
+	}
+
+	function getStart(){
+		return $this->start;
+	}
+
+	function setStart($start){
+		$this->start = $start;
 	}
 
 	function getCurrentUser(){

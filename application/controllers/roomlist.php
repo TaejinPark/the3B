@@ -51,6 +51,7 @@ class RoomList extends CI_Controller {
 		$room->setPrivate($private);
 		$room->setPassword($password);
 		$room->setRoomType($roomtype);
+		$room->setStart(0);
 		$room->setOwner($this->session->userdata('member')->getUserID());
 
 		$this->load->model('RoomDAO');
