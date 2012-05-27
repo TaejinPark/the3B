@@ -286,16 +286,16 @@ class Server extends CI_Controller {
 						} else {
 							$data->CurrentNickname = $this->roomusers[$user->room->getRoomSeq()][$a+1]->member->getNickname();
 							if($a+2==$loopa)
-								$data->NextNickname =  $this->roomusers[$user->room->getRoomSeq()][$a+2]->member->getNickname();
-							else
 								$data->NextNickname =  $this->roomusers[$user->room->getRoomSeq()][0]->member->getNickname();
+							else
+								$data->NextNickname =  $this->roomusers[$user->room->getRoomSeq()][$a+2]->member->getNickname();
 							$this->sendAllUser($user->room->getRoomSeq(),"BINGO_CURRENT",$data);
 						}
 					}
 				}
 				break;
 			case 'BINGO_BINGO':
-				if($user->bingo>= $user->room->getGameOption)
+				if($user->bingo>= $user->room->getGameOption())
 					return $this->sendError($user->socket,$action->cmd,202);
 
 				$user->bingo++;
@@ -352,6 +352,7 @@ class Server extends CI_Controller {
 						unset($this->roomend[$room->getRoomSeq()]);
 					} else {
 						$data->Nickname = $this->roomusers[$room->getRoomSeq()][0]->member->getNickname();
+						$data->UserID = $this->roomusers[$room->getRoomSeq()][0]->member->getUserID();
 						$this->load->model('RoomDAO');
 						$this->RoomDAO->updateOwner($room->getRoomSeq(),$this->roomusers[$room->getRoomSeq()][0]->member->getUserID());
 						$this->sendAllUser($room->getRoomSeq(),"CHANGE_OWNER",$data);

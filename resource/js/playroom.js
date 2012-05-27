@@ -54,7 +54,7 @@ function view_folding(flag){
 }
 
 function viewPlay(){
-	$("#chat").css('display','block');
+	$("#chat").css('display','none');
 	$("#participant_list").css('display','none');
 	$("#gamedisplay").css('display','block');
 }
@@ -87,6 +87,12 @@ var currentNumber = 1;
 var bingoSelect = [];
 var selectActivate = false;
 var currentSelectTime = 0;
+var bingoUser = [];
+var bingoEndUser = [];
+var bingoLine = 0;
+var currentBingo = 0;
+var interval = null;
+var currentNickname = '';
 
 function init(){
   var host = "ws://115.68.23.155:4279/";
@@ -144,9 +150,12 @@ function process(msg){
 							   $("#room_config").find("input").filter("[name=maxuser]").val(data.data.MaxUser).end()
 							   .filter("[name=gameoption]").val(data.data.GameOption);
 							   break;
+		case "CHANGE_OWNER": owner = data.data.UserID; chatAppend("방장이 변경되었습니다. 방장:"+data.data.Nickname);
+							 sendCmd="USERLIST"; send("USERLIST",{});
+							 break;
 		case "READY": chatAppend(data.data.Nickname+"님이 준비가 완료되었습니다."); break;
 		case "UNREADY": chatAppend(data.data.Nickname+"님이 준비를 취소 하였습니다."); break;
-		case "START": chatAppend("게임이 곧 시작됩니다. 준비하세요!"); setTimeout(startBingo,10000); break;
+		case "START": chatAppend("게임이 곧 시작됩니다. 준비하세요!"); setTimeout(startBingo,4000); break;
 		case "QUIT": if(nickname==data.data.Nickname) location.href="/roomlist/";
 					 chatAppend($('.user_'+data.data.UserID+' span').text()+"님이 방에서 나갔습니다.");
 					 $('.nick_'+data.data.Nickname).parent().remove(); break;
@@ -154,9 +163,18 @@ function process(msg){
 							$("#bingoTable a").unbind("click").click(bingo);
 							break;
 		case "BINGO_CURRENT": $("#turn > div").eq(0).text(data.data.CurrentNickname).end().eq(1).text(data.data.NextNickname);
-							  if(data.data.CurrentNickname) showMyTurn();
+							  currentNickname = data.data.CurrentNickname;
+							  if(data.data.CurrentNickname==nickname) showMyTurn();
 							  break;
-		case "BINGO_SELECT": markSelect(data.data); break;
+		case "BINGO_SELECT": bingoUser = []; bingoEndUser = []; markSelect(data.data); break;
+		case "BINGO_BINGO": bingoUser.push(data.data.Nickname);
+							message(bingoUser.join(", ")+"님이 빙고 한줄을 완성 했습니다!"+(bingoEndUser.length>0?"<br />"+bingoEndUser.join(", ")+"님이 빙고를 완성 했습니다!":""));
+							break;
+		case "BINGO_LAST": bingoUser.push(data.data.Nickname);
+						   message((bingoUser.length>0?bingoUser.join(", ")+"님이 빙고 한줄을 완성 했습니다!":"")+bingoEndUser.join(", ")+"님이 빙고를 완성 했습니다!");
+						   break;
+		case "BINGO_END": showResult(data.data.result); break;
+		case "INSTANCE_EXIT": setTimeout(goExit,10000); break;
 		case "OK":
 			switch(sendCmd){
 				case "LOGIN": sendJoin(); break;
@@ -171,6 +189,10 @@ function process(msg){
 function chatAppend(msg){
 	var obj = $("#chat");
 	obj.append("<br />"+msg);
+}
+
+function message(msg){
+	$("#messageWindow").html(msg);
 }
 
 function userAppend(a_userid,a_nickname){
@@ -221,6 +243,7 @@ function sendUserList(){
 }
 
 function makeUserList(list){
+	$("#participant_list").html("");
 	for(var a=0; a<list.length; a++){
 		userAppend(list[a].UserID,list[a].Nickname);
 	}
@@ -292,18 +315,32 @@ function startBingo(){
 	$("#inputEnd").click(function(){
 		sendCmd = "BINGO_WRITED";
 		send("BINGO_WRITED",{});
+		interval = setInterval(forceStart,(50-currentSelectTime)*1000);
 		currentSelectTime = 49;
+		$("#inputEnd").parent().css('display','none');
 	});
 	$("#okSelect a").click(currentSelectEnd);
+
+	//init
+	bingoLine = $("#bingo_option_line input").val();
+	currentBingo = 0;
+	bingoUser = [];
+	bingoEndUser = [];
+	currentSelectTime = 0;
+	selectActivate = false;
+	bingoSelect = [];
+	currentNumber = 1;
+	interval = null;
+
 	setTimeout(selectEnd,1000);
 }
 
 function insertBingo(){
 	if(currentSelectTime==50) return;
 	//font-size 13px;
-	if($(this).text() == "x"){
+	if($(this).children("span").children("span").text() == "x"){
 		bingoSelect.push(currentNumber);
-		$(this).text(currentNumber++);
+		$(this).children("span").children("span").text(currentNumber++);
 		$(this).attr('data-theme','c');
 		if(currentNumber<26) $("#currentSelect").val(currentNumber);
 		if(selectActivate || currentNumber==26) viewUnselect();
@@ -313,7 +350,7 @@ function insertBingo(){
 		var obj = $("#bingoTable a");
 		obj.each(function(){
 			if($(this).text()=="x") return;
-			if(typeof arr[$(this).text()] == "undefine") {
+			if(typeof arr[$(this).text()] == "undefined") {
 				arr[$(this).text()] = [];
 				arr[$(this).text()].push(idx++);
 			} else {
@@ -324,7 +361,7 @@ function insertBingo(){
 			}
 		});
 	}
-	$("#bingoTable").trigger("create");
+	$("#bingoTable a").trigger("create");
 	$("#bingoTable a").css('font-size','13px');
 	$(this).css('font-size',"15px");
 }
@@ -346,10 +383,11 @@ function viewUnselect(){
 
 function selectEnd(){
 	$("#remaintime span").text(50 - ++currentSelectTime);
-	if(currentSelectTime!=50) setTimeout(selectEnd,1000);
+	if(currentSelectTime<50) setTimeout(selectEnd,1000);
 	else {
 		forceInsert();
-		forceStart();
+		if(interval==null)
+			forceStart();
 	}
 }
 
@@ -362,9 +400,12 @@ function forceStart(){
 	if(owner != userid) return;
 	sendCmd = "BINGO_START";
 	send("BINGO_START",{});
+	clearInterval(interval);
 }
 
 function bingo(){
+	if(currentNickname!=nickname) return;
+	if($(this).attr('data-theme')!='c') return;
 	$("#bingoTable a[data-theme=e]").attr('data-theme','c');
 	$(this).attr('data-theme','e');
 	$("#bingoTable").trigger("create");
@@ -375,6 +416,9 @@ function bingo(){
 function currentSelectEnd(){
 	var currentNumber = $("#bingoTable a[data-theme=e]").text();
 	var data = {};
+	$("#remaintime").css('display','none');
+	$("#okSelect").css('display','none');
+	currentSelectTime = 14;
 	data.SelectedNumber = currentNumber;
 	send("BINGO_SELECT",data);
 }
@@ -382,13 +426,14 @@ function currentSelectEnd(){
 function showMyTurn(){
 	$("#okSelect").css('display','block');
 	currentSelectTime = 0;
+	$("#remaintime").css('display','block');
 	$("#remaintime span").text(15);
 	setTimeout(showTurnRemainTime,1000);
 }
 
 function showTurnRemainTime(){
 	$("#remaintime span").text(15 - ++currentSelectTime);
-	if(currentSelectTime!=15) setTimeout(selectEnd,1000);
+	if(currentSelectTime<15) setTimeout(showTurnRemainTime,1000);
 	else {
 		//select Random
 		currentSelectEnd();
@@ -396,35 +441,35 @@ function showTurnRemainTime(){
 }
 
 function markSelect(data){
+	if(currentBingo>=bingoLine) return;
 	var obj = $("#bingoTable a");
 	obj.each(function(idx){
-		if($(this).text()==data.SelectedNumber){
-			$(this).attr('data-theme','f');
-			$("#bingoTable").trigger("create");
+		if(parseInt($(this).text())==data.SelectedNumber){
+			$(this).buttonMarkup({ theme: "a" });
 			var curidx = idx + 1;
 			var col = curidx % 5;
 			var row = parseInt(curidx / 5);
 			var addBingo = 0;
 			//row check
-			if(obj.slice(row*5-1,row*5+4).filter("[data-theme=f]").size()==5) addBingo++;
+			if(obj.slice(row*5-1,row*5+4).filter("[data-theme=a]").size()==5) addBingo++;
 			//col check
 			var tmp = 0;
 			for(var a=0; a<5; a++)
-				if(obj.eq(col-1+a*5).attr("data-theme")=="f")
+				if(obj.eq(col-1+a*5).attr("data-theme")=="a")
 					tmp++;
 			if(tmp==5) addBingo++;
 			//cross check
 			if(col == row){
 				tmp = 0;
 				for(var a=0; a<5; a++)
-					if(obj.eq(a+a*5).attr("data-theme")=="f")
+					if(obj.eq(a+a*5).attr("data-theme")=="a")
 						tmp++;
 				if(tmp==5) addBingo++;
 			}
 			if(5-col == row){
 				tmp = 0;
 				for(var a=0; a<5; a++)
-					if(obj.eq(4-a+a*5).attr("data-theme")=="f")
+					if(obj.eq(4-a+a*5).attr("data-theme")=="a")
 						tmp++;
 				if(tmp==5) addBingo++;
 			}
@@ -432,6 +477,33 @@ function markSelect(data){
 				sendCmd = "BINGO_BINGO";
 				send("BINGO_BINGO",{});
 			}
+			currentBingo += addBingo;
+			if(currentBingo>=bingoLine){
+				sendCmd = "BINGO_LAST";
+				send("BINGO_LAST",{});
+				$("#bingoTable a").unbind("click");
+			}
 		}
 	});
+	$("#bingoTable").trigger("create");
+}
+
+function showResult(list){
+	var str = "";
+	for(var a=0,loopa=list.length; a<loopa; a++){
+		str += '<div>'+
+				'<span>'+list[a].Nickname+'</span>'+
+				list[a].result+
+				'</div>';
+	}
+	$("#gamedisplay").css('display','none');
+	$("#gameResult").html(str).css('display','block');
+}
+
+function goExit(){
+	sendCmd = "QUIT";
+	send("QUIT",{});
+	setTimeout(function(){
+		location.href="/roomlist/";
+	},1000);
 }
