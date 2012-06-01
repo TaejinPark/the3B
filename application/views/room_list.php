@@ -16,7 +16,7 @@
 			loadRoomList(0);
 			$('select[name=select_game_type]').change(function(){currentStart=0;loadRoomList(0);});
 			$('span.reload').click(function(){currentStart=0;loadRoomList(0);});
-			$('#makeroombutton').click(function(){makeRoom($(this).parent());});
+			$('#makeroombutton').click(function(){makeRoom($(this).parent().parent()); return false;});
 			$('#roomlist > a').click(function(){currentStart+=15;loadRoomList(currentStart);});
 			$('#topbtm a').eq(0).click(function(){$(document).scrollTop(0);}).end().eq(1).click(function(){$(document).scrollTop($('#roomlist').height()-40);});
 			$('#head ul li a').eq(0).click(function(){view_room_list('roomlist');}).end()

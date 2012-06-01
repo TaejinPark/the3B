@@ -245,7 +245,7 @@ function loadRoomList(start){
 						'<span class="join" data-role="button" data-theme="a" data-icon="star">'+
 						'방 참가'+
 						'</span>'+
-					'</div>'
+					'</div>'+
 				'</p>'+
 			'</div>';
 		}
@@ -266,7 +266,7 @@ function makeRoom(obj){
 	});
 	if(!data.name || data.name=="") {
 		alert("방 이름을 입력해 주세요");
-		obj.children('input[name=name]').focus();
+		obj.find('input[name=name]').focus();
 		return;
 	}
 	$.ajax({type:"POST",url:"/roomlist/doMakeRoom/",data:data})
@@ -274,7 +274,7 @@ function makeRoom(obj){
 		switch(data){
 			case '-1': 
 				alert("방 이름을 입력해 주세요.");
-				obj.children('input[name=name]').focus();
+				obj.find('input[name=name]').focus();
 				break;
 			case '0':
 				alert('방 정보가 잘못 되었습니다.');

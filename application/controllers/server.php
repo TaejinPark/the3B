@@ -78,7 +78,7 @@ class Server extends CI_Controller {
 				if(!$room->getRoomSeq() || $room->getRoomSeq() != $action->data->room_seq)
 					return $this->sendError($user->socket,$action->cmd,102);
 
-				if($room->getMaxUser()== $room->getCurrentUser())
+				if($room->getMaxUser() == $room->getCurrentUser())
 					return $this->sendError($user->socket,$action->cmd,119);
 
 				$this->RoomUserDAO->joinRoom($room->getRoomSeq(),$user->member->getUserID(),(substr($user->member->getUserID(),0,7)=="__Guest"?1:0));
@@ -229,7 +229,7 @@ class Server extends CI_Controller {
 					if($this->roomusers[$user->room->getRoomSeq()][$a]->member->getUserID()==$action->data->UserID){
 						$this->load->model('RoomUserDAO');
 						$this->RoomUserDAO->kickUser($user->room->getRoomSeq(),$this->roomusers[$user->room->getRoomSeq()][$a]->member->getUserID(),(substr($this->roomusers[$user->room->getRoomSeq()][$a]->member->getUserID(),0,7)=="__Guest"?1:0));
-						unset($this->roomusers[$user->room->getRoomSeq()][$a]);
+						array_splice($this->roomusers[$user->room->getRoomSeq()],$a,1);
 						$flag = true;
 						break;
 					}
@@ -255,7 +255,7 @@ class Server extends CI_Controller {
 
 				$flag = true;
 				for($a=0,$loopa=sizeof($this->roomusers[$user->room->getRoomSeq()]); $a<$loopa; $a++){
-					if(!$this->roomusers[$user->room->getRoomSeq()]->bingo_end){
+					if(!$this->roomusers[$user->room->getRoomSeq()][$a]->bingo_end){
 						$flag = false;
 						break;
 					}
@@ -298,8 +298,9 @@ class Server extends CI_Controller {
 				if($user->bingo>= $user->room->getGameOption())
 					return $this->sendError($user->socket,$action->cmd,202);
 
-				$user->bingo++;
+				$user->bingo+=$action->data->Bingo;
 				$data->Nickname = $user->member->getNickname();
+				$data->Bingo = $action->data->Bingo;
 				if($user->bingo>= $user->room->getGameOption()){
 					$this->roomend[$user->room->getRoomSeq()]++;
 					$user->result = $this->roomcurrent[$user->room->getRoomSeq()];
@@ -307,18 +308,21 @@ class Server extends CI_Controller {
 				} else
 					$this->sendAllUser($user->room->getRoomSeq(),"BINGO_BINGO",$data);
 
-				if($this->roomend[$user->room->getRoomSeq()]==sizeof($this->roomusers[$user->room->getRoomSeq()])){
+				if($this->roomend[$user->room->getRoomSeq()]+1>=sizeof($this->roomusers[$user->room->getRoomSeq()])){
 					$list = array();
 					for($a=0,$loopa=sizeof($this->roomusers[$user->room->getRoomSeq()]); $a<$loopa; $a++){
+						$tmp = null;
 						$tmp->Nickname = $this->roomusers[$user->room->getRoomSeq()][$a]->member->getNickname();
 						$tmp->result = $this->roomusers[$user->room->getRoomSeq()][$a]->result;
+						if($tmp->result==-1) $tmp->result = sizeof($this->roomusers[$user->room->getRoomSeq()]);
 						$list[] = $tmp;
 					}
 					unset($data);
 					$data->result = $list;
 					$this->sendAllUser($user->room->getRoomSeq(),"BINGO_END",$data);
+					$this->roomstatus[$user->room->getRoomSeq()] = false;
 					$this->RoomDAO->stopRoom($user->room->getRoomSeq());
-					if($usr->room->getRoomType()==0)
+					if($user->room->getRoomType()==0)
 						$this->sendAllUser($user->room->getRoomSeq(),"INSTANCE_EXIT","");
 				}
 				break;
@@ -335,13 +339,14 @@ class Server extends CI_Controller {
 				$room = $user->room;
 
 				for($a=0,$loopa=sizeof($this->roomusers[$user->room->getRoomSeq()]); $a<$loopa; $a++){
-					if($user->id == $this->roomusers[$user->room->getRoomSeq()][$a]){
+					if($user->id == $this->roomusers[$user->room->getRoomSeq()][$a]->id){
 						array_splice($this->roomusers[$user->room->getRoomSeq()],$a,1);
 						break;
 					}
 				}
 
 				if($user->member->getUserID()==$room->getOwner()){
+					$this->say("Proc> boom!: ".$room->getRoomSeq()." - ".sizeof($this->roomusers[$room->getRoomSeq()]));
 					if(sizeof($this->roomusers[$room->getRoomSeq()])==0){
 						$this->load->model('RoomDAO');
 						$this->RoomDAO->destroyRoom($room->getRoomSeq());
@@ -369,6 +374,11 @@ class Server extends CI_Controller {
 
 				$this->load->model('RoomDAO');
 				$this->RoomDAO->updateRoom($room,$room);
+
+				for($a=0,$loopa=sizeof($this->roomusers[$user->room->getRoomSeq()]); $a<$loopa; $a++){
+					$this->roomusers[$user->room->getRoomSeq()][$a]->room->setMaxUser($room->getMaxUser());
+					$this->roomusers[$user->room->getRoomSeq()][$a]->room->setGameOption($room->getGameOption());
+				}
 				break;
 			default: $this->say("Proc> ".$action->cmd.' invaild'); break;
 		}
@@ -438,7 +448,8 @@ class Server extends CI_Controller {
 		array_splice($this->sockets,$idx,1);
 		$this->console($socket." DISCONNECTED!");
 		if(!is_null($found)) {
-			if(isset($this->users[$found]->member)&&isset($this->users[$found]->room)){
+			if(isset($this->users[$found]->member) && isset($this->users[$found]->room)
+				&& isset($this->roomusers[$this->users[$found]->room->getRoomSeq()]) ){
 				$this->load->model('RoomUserDAO');
 				$this->RoomUserDAO->leaveRoom($this->users[$found]->room->getRoomSeq(),$this->users[$found]->member->getUserID(),(substr($this->users[$found]->member->getUserID(),0,7)=="__Guest"?1:0));
 				$idx = null;
@@ -447,8 +458,10 @@ class Server extends CI_Controller {
 				}
 				array_splice($this->roomusers[$this->users[$found]->room->getRoomSeq()],$idx,1);
 			}
-			$obj->Nickname = $user->member->getNickname();
-			$this->sendAllUser($user->room->getRoomSeq(),"QUIT",$obj);
+			if($user->member){
+				$obj->Nickname = $user->member->getNickname();
+				$this->sendAllUser($user->room->getRoomSeq(),"QUIT",$obj);
+			}
 			array_splice($this->users,$found,1);
 			$this->users[$found] = null;
 		}

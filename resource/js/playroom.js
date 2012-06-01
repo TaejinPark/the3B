@@ -60,7 +60,7 @@ function viewPlay(){
 }
 
 function viewChat(){
-	if($("#chat").css('display')=='block') return viewPlay();
+	if($("#chat").css('display')=='block' && play) return viewPlay();
 	$("#participant_list").css('display','none');
 	if(play) {
 		$("#gamedisplay").css('display','none');
@@ -87,11 +87,13 @@ var currentNumber = 1;
 var bingoSelect = [];
 var selectActivate = false;
 var currentSelectTime = 0;
+var currentSelectTime2 = 0;
 var bingoUser = [];
 var bingoEndUser = [];
 var bingoLine = 0;
 var currentBingo = 0;
 var interval = null;
+var interval2 = null;
 var currentNickname = '';
 
 function init(){
@@ -168,7 +170,7 @@ function process(msg){
 							  break;
 		case "BINGO_SELECT": bingoUser = []; bingoEndUser = []; markSelect(data.data); break;
 		case "BINGO_BINGO": bingoUser.push(data.data.Nickname);
-							message(bingoUser.join(", ")+"님이 빙고 한줄을 완성 했습니다!"+(bingoEndUser.length>0?"<br />"+bingoEndUser.join(", ")+"님이 빙고를 완성 했습니다!":""));
+							message(bingoUser.join(", ")+"님이 한줄 이상을 완성 했습니다!"+(bingoEndUser.length>0?"<br />"+bingoEndUser.join(", ")+"님이 빙고를 완성 했습니다!":""));
 							break;
 		case "BINGO_LAST": bingoUser.push(data.data.Nickname);
 						   message((bingoUser.length>0?bingoUser.join(", ")+"님이 빙고 한줄을 완성 했습니다!":"")+bingoEndUser.join(", ")+"님이 빙고를 완성 했습니다!");
@@ -313,6 +315,17 @@ function startBingo(){
 		}
 	});
 	$("#inputEnd").click(function(){
+		var flag = false;
+		$("#bingoTable a").each(function(){
+			if($(this).text()=="x") flag = true;
+		});
+		if(flag==true){
+			if(confirm("아직 작성하지 않은 빙고가 있습니다.\n입력을 완료 하시겠습니까?")){
+				forceInsert();
+			} else {
+				return;
+			}
+		}
 		sendCmd = "BINGO_WRITED";
 		send("BINGO_WRITED",{});
 		interval = setInterval(forceStart,(50-currentSelectTime)*1000);
@@ -339,7 +352,6 @@ function insertBingo(){
 	if(currentSelectTime==50) return;
 	//font-size 13px;
 	if($(this).children("span").children("span").text() == "x"){
-		bingoSelect.push(currentNumber);
 		$(this).children("span").children("span").text(currentNumber++);
 		$(this).attr('data-theme','c');
 		if(currentNumber<26) $("#currentSelect").val(currentNumber);
@@ -388,19 +400,51 @@ function selectEnd(){
 		forceInsert();
 		if(interval==null)
 			forceStart();
+		else
+			clearInterval(interval);
 	}
 }
 
 function forceInsert(){
-	//insert
-	$(this).attr('data-theme','c');
+	var currentList = [];
+	var idxList = [];
+	var obj = $("#bingoTable a");
+	obj.each(function(){
+		currentList.push($(this).text());
+	});
+	var notInsertList = [];
+	for(var a=1; a<=25; a++){
+		var flag = false;
+		for(var b=0,loopb=currentList.length; b<loopb; b++){
+			if(currentList[b]==a) { flag = true; break; }
+		}
+		if(flag) continue;
+		notInsertList.push(a);
+	}
+	obj.each(function(){
+		if($(this).text()!="x") return;
+		while(true){
+			var idx = parseInt(Math.random()*(parseInt(currentList.length/10)+1)*10);
+			var flag = false;
+			for(var a=0,loopa=idxList.length; a<loopa; a++){
+				if(idxList[a]==idx) { flag = true; break; }
+			}
+			if(flag) continue;
+			if(notInsertList.length<idx) continue;
+			if(!notInsertList[idx]) continue;
+			idxList.push(idx);
+			$(this).children('span').text(notInsertList[idx]);
+			break;
+		}
+	}).attr('data-theme','c').trigger("create");
 }
 
 function forceStart(){
 	if(owner != userid) return;
 	sendCmd = "BINGO_START";
 	send("BINGO_START",{});
-	clearInterval(interval);
+	if(interval!=null)
+		clearInterval(interval);
 }
 
 function bingo(){
@@ -414,29 +458,42 @@ function bingo(){
 }
 
 function currentSelectEnd(){
-	var currentNumber = $("#bingoTable a[data-theme=e]").text();
+	currentSelectTime2 = 14;
+}
+
+function sendSelectNumber(){
+	var obj = $("#bingoTable");
+	if(obj.find('a[data-theme=e]').size()==0){
+		var max = obj.find('a[data-theme=c]').size();
+		while(true){
+			var idx = parseInt(Math.random()*(parseInt(max/10)+1)*10);
+			if(max<idx) continue;
+			obj.find('a[data-theme=c]').eq(idx).attr('data-theme','e');
+			break;
+		}
+	}
+	$("#bingoTable").trigger("create");
+	var currentNumber = obj.find('a[data-theme=e]').text();
 	var data = {};
 	$("#remaintime").css('display','none');
 	$("#okSelect").css('display','none');
-	currentSelectTime = 14;
 	data.SelectedNumber = currentNumber;
 	send("BINGO_SELECT",data);
 }
 
 function showMyTurn(){
 	$("#okSelect").css('display','block');
-	currentSelectTime = 0;
+	currentSelectTime2 = 0;
 	$("#remaintime").css('display','block');
 	$("#remaintime span").text(15);
-	setTimeout(showTurnRemainTime,1000);
+	interval2 = setInterval(showTurnRemainTime,1000);
 }
 
 function showTurnRemainTime(){
-	$("#remaintime span").text(15 - ++currentSelectTime);
-	if(currentSelectTime<15) setTimeout(showTurnRemainTime,1000);
-	else {
-		//select Random
-		currentSelectEnd();
+	$("#remaintime span").text(15 - ++currentSelectTime2);
+	if(currentSelectTime2>=15) {
+		clearInterval(interval2);
+		sendSelectNumber();
 	}
 }
 
@@ -473,14 +530,12 @@ function markSelect(data){
 						tmp++;
 				if(tmp==5) addBingo++;
 			}
-			for(var a=0; a<addBingo; a++){
+			if(addBingo>0){
 				sendCmd = "BINGO_BINGO";
-				send("BINGO_BINGO",{});
+				send("BINGO_BINGO",{Bingo:addBingo});
 			}
 			currentBingo += addBingo;
 			if(currentBingo>=bingoLine){
-				sendCmd = "BINGO_LAST";
-				send("BINGO_LAST",{});
 				$("#bingoTable a").unbind("click");
 			}
 		}
@@ -493,7 +548,7 @@ function showResult(list){
 	for(var a=0,loopa=list.length; a<loopa; a++){
 		str += '<div>'+
 				'<span>'+list[a].Nickname+'</span>'+
-				list[a].result+
+				list[a].result+'등'+
 				'</div>';
 	}
 	$("#gamedisplay").css('display','none');

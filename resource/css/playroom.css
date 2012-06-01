@@ -75,3 +75,4 @@ hr						{margin:10px 20px;}
 #turn { display: none; }
 #messageWindow { width: 100%; height: 30px; text-align:center; font-size:15px; }
 #gameResult span { width: 100px; }
+#gameResult { width: 100%; height: auto; min-height: 100px; }

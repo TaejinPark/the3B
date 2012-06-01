@@ -154,9 +154,9 @@ $opt = $room->getGameOption();
 						<a data-role="button" data-mini="true" data-inline="true" data-theme="b">선택 완료</a><!-- 게임 중일 경우 -->
 					</div>
 				</div>
-				<div id="gameResult">
-				</div>
 				<hr>
+			</div>
+			<div id="gameResult">
 			</div>
 
 		</div><!-- /content -->
