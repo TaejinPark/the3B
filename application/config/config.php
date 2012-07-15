@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://the3b.880217.org/';
+$config['base_url']	= 'http://the3b.pirtaja.wo.tc/';
 
 /*
 |--------------------------------------------------------------------------
