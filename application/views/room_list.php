@@ -30,7 +30,7 @@
 	<body id="body">
 	<div data-role="page" class="type-interior">
 		<!-- /header -->
-		<div data-role="header" data-position="fixed" data-theme="a" id="head">
+		<div id="header" data-role="header" data-position="fixed" data-theme="a" id="head">
 			<div data-role="navbar" data-iconpos="right">
 				<ul class="ui-body ui-body-b">
 					<li><a data-theme="a" data-icon="search" class="ui-btn-active">Rooms</a></li>
@@ -59,7 +59,7 @@
 					</div>
 				</div>
 				
-				<!--  -->
+				<!- search rooms ->
 				
 				<div class="ui-grid-a">
 					<div id="search_rooms" class="ui-block-a">
@@ -72,7 +72,7 @@
 					</div>
 				</div>
 				
-				<!--  -->
+				<!- room list ->
 				
 				<div class="roomlistWarp" data-role="collapsible-set" data-theme="a" data-content-theme="e">
 					<div id="RoomList">
@@ -110,9 +110,9 @@
 						</table>
 					</p>
 				</div>
-				<!--div data-role="button" data-inline="true" data-theme="a" data-icon="refresh" style="margin-left:10px; padding:0px;">
-				탈퇴
-				</div-->
+				<div id="withdrawal" data-role="button" data-inline="true" data-theme="a" data-icon="refresh">
+					탈퇴
+				</div>
 				
 			</div><!-- /status -->
 

@@ -542,6 +542,4 @@ class User{
 	var $member;
 }
 
-
-
 ?>

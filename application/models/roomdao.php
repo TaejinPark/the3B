@@ -57,34 +57,44 @@ class RoomDAO extends CI_Model{
 		else return 0;
 	}
 
-	function getRoomList($start=0, $limit=15, $keyword="",$type=0){
-		if($keyword) $this->db->like('name',trim($keyword));
-		if($type) $this->db->where('gametype',(int)($type));
+	function getRoomList($start=0, $limit=15, $keyword="",$type=0){ // 데이터 베이스로부터 조건에 따른 방 목록을 구함
+		if($keyword) $this->db->like('name',trim($keyword)); // 검색 키워드가 있으면 키워드 검색 조건에 추가
+		if($type) $this->db->where('gametype',(int)($type)); // 검색 키워드로 게임 형식이 있으면 검색 조건에
+		$result = $this->db->get('room',$limit,$start); // 쿼리 전송 및 $result에 쿼리 결과 저장
 
-		$result = $this->db->get('room',$limit,$start);
 		$data = array();
-		foreach( $result->result() as $row){
-			$tmp = new Room();
-			$tmp->setRoomSeq($row->room_seq);
-			$tmp->setName($row->name);
-			$tmp->setMaxUser($row->maxuser);
-			$tmp->setPrivate($row->private);
-			$tmp->setPassword($row->password);
-			$tmp->setGameType($row->gametype);
-			$tmp->setGameOption($row->gameoption);
-			$tmp->setRoomType($row->roomtype);
-			$tmp->setOwner($row->owner);
-			$data[] = $tmp;
+		foreach( $result->result() as $row){ // 쿼리로 날아온 데이터를 Room instance로 변환 및 저장
+			$tmp = new Room();					// Room instance 생성
+			$tmp->setRoomSeq($row->room_seq); 	// 방 번호
+			$tmp->setName($row->name); 			// 방 이름
+			$tmp->setMaxUser($row->maxuser);	// 게임 참가 최대 인원
+			$tmp->setPrivate($row->private);	// 비공개 여부
+			$tmp->setPassword($row->password);	// 비밀번호 여부
+			$tmp->setGameType($row->gametype);	// 게임 종류
+			$tmp->setGameOption($row->gameoption);	// 게임 옵션
+			$tmp->setRoomType($row->roomtype);	// 임시방, 일반방
+			$tmp->setOwner($row->owner);		// 방장 정보
+			$data[] = $tmp;						// Room instance 를 배열에 저장
 		}
-		for($a=0,$loopa=sizeof($data); $a<$loopa; $a++){
-			$tmp2 = $this->db->select('count(*) as `cnt`',false)->where('room_seq',$data[$a]->getRoomSeq())->group_by('room_seq')->get('room_user');
+
+		for($a=0,$loopa=sizeof($data); $a<$loopa; $a++){ // 각 방에 접속해 있는 사용자의 숫자를 구하여 Room instance에 저장
+			$tmp2 = $this->db->select('count(*) as `cnt`',false)->where('room_seq',$data[$a]->getRoomSeq())->group_by('room_seq')->get('room_user'); // 방에 접속한 사용자들을 구함
 			if($tmp2->num_rows()>0){
 				$tmp = $tmp2->row();
-				$data[$a]->setCurrentUser($tmp->cnt);
-			} else
-				$data[$a]->SetCurrentUser(0);
+				$data[$a]->setCurrentUser($tmp->cnt); // the number of users in the room  save into room instance.사용자의 수를 Room instance 에 저장
+			}
+			else 
+			{
+				$data[$a]->SetCurrentUser(0); // if there is no user in the room , user number value of room configuration is set to zero.
+				
+				/*
+				// 방이 없으므로 방을 데이터베이스와 Room instance array 에서 삭제
+				code 추가
+
+				*/
+			}
 		}
-		return $data;
+		return $data; // return the Romm instance array
 	}
 
 	function updateOwner($room_seq, $owner){

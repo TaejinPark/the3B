@@ -13,18 +13,20 @@
 		$("div[data-role='page']").live("pageshow",function(event){
 			$('#join input').blur(vaildForm);
 			load();
-			$(".login").click(function(){view('login');});
-			$(".join").click(function(){view('join');});
-			$(".guest").click(function(){doGuestLogin();});
-			$('#login form').submit(function(){
+			$(".login").click(function(){view('login');});	// display / non-display login form
+			$(".join").click(function(){view('join');});	// display / non-display join form
+			$(".guest").click(function(){doGuestLogin();}); // do login as guest
+			$('#login form').submit(function(){	// do login process
 				doLogin($(this));
 				return false;
 			});
-			$('#join form').submit(function(){
+			$('#join form').submit(function(){	// do join process
 				doJoin($(this));
 				return false;
 			});
-			$("#content").click(function(){view_clear();});
+			$("#content").click(function(){		// clear login and join form
+				view_clear();
+			});
 		});
 		</script>
 	</head>
@@ -32,14 +34,17 @@
 	<body id="body" onload="load()">
 	<div data-role="page" class="type-interior">
 		
+		<!-- /header -->
 		<div id ="header" data-role="header" data-position="fixed" data-theme="b">
 			<div class="padding menu">
 				<span class="login">Login</span><span> | </span>
 				<span class="join">Join </span><span> | </span>
 				<span class="guest">Guest</span>
 			</div>
-		</div><!-- /header -->
-		
+		</div>
+		<!-- /header -->
+
+		<!-- login -->	
 		<div id="login" class="ui-body ui-body-d" >
 			<form method="POST" action=".">
 				<div class="input_field_div">
@@ -52,8 +57,10 @@
 					<input type="submit" value="확인">
 				</div>
 			</form>
-		</div><!--/login-->	
-		
+		</div>
+		<!-- login -->
+
+		<!-- join -->
 		<div id="join" class="ui-body ui-body-d">
 			<form method="POST" action=".">
 				<div class="input_field_div">
@@ -71,34 +78,21 @@
 					<input type="text" name="nick_name" value="" placeholder="사용자 별칭" maxlength="100"/>
 					<span></span>
 				</div>
-<!--				<div>생년월일</div>
-				<div name="birth_year" class="select_field_year">
-					<select name="year" id="year">
-							<option value="1970">1970</option>
-					</select>
-				</div>
-				<div name="birth_month" class="select_field_month">
-					<select name="month" id="month">
-							<option value="12">12</option>
-					</select>
-				</div>
-				<div name="birth_day" class="select_field_day">
-					<select name="day" id="day">
-							<option value="31">31</option>
-					</select>	
-				</div>-->
 				<div class="submit">
 					<input type="submit" value="확인">
 				</div>
 			</form>
-		</div><!--/join-->	
-				
+		</div>
+		<!--join -->
+			
+		<!-- /content -->	
 		<div data-role="content" data-theme="b" id="content">
 			<img src="/resource/img/main.jpg" width="100%" height="100%"/>
-		</div><!-- /content -->
+		</div>
+		<!-- /content -->	
 				
 		<div data-role="footer" data-position="fixed" data-theme="b" class="padding" id="footer">
-			<div>The BokBulBok</div>
+			<h3>The BokBulBok</h3>
 		</div><!-- /footer -->
 		
 	</div><!-- /page -->

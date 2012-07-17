@@ -617,9 +617,7 @@ function draw_dice()
 	var dice_num = Array() ;	//dice number 1~6
 
 	for(  i = 0 ; i < 3 ; i++)
-	{
 		dice_num[i] = Math.floor(Math.random() * 6 ) + 1; // get random number of three dices
-	}
 	
 	draw_sqrt_top_mid(dice_num[0]);
 	draw_sqrt_btm_left(dice_num[1]);

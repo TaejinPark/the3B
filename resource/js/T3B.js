@@ -1,35 +1,34 @@
 $(window).resize(function() {
 	init();
 	load();
+	resizeContent();
 });
 
 $("div[data-role='page']").live( "pageshow", function( event )
-{   
+{
+	init();
     resizeContent();
-    init();
 });
+
+//page view control
 
 function resizeContent()
 {
 	var browserHeight = document.documentElement.clientHeight;
-    var headerHeight = parseInt( $("div[data-role='header']").css( "height" ) );
-    var footerHeight = parseInt( $("div[data-role='footer']").height());
-    var contentHeight = $("#content").css("height", browserHeight - headerHeight - footerHeight);
+    var headerHeight = parseInt( $("#header").height())+parseInt($("#header").css("padding-bottom"))+parseInt($("#header").css("padding-top"))+parseInt($("#header").css("border-top-width"))+parseInt($("#header").css("border-bottom-width"));
+    var footerHeight = parseInt( $("#footer").height())+parseInt($("#footer").css("padding-bottom"))+parseInt($("#footer").css("padding-top"))+parseInt($("#footer").css("border-bottom-width"))+parseInt($("#footer").css("border-top-width"));
     if(navigator.userAgent.indexOf('iPhone') != -1 || navigator.userAgent.indexOf('iphone') != -1){
-		$("#content").css("height" , browserHeight - headerHeight - footerHeight +60);
+		$("#content").css("height" , browserHeight - headerHeight - footerHeight + 64);
 	}
 	else
 		$("#content").css("height" , browserHeight - headerHeight - footerHeight);
 }
 
-//////////////////////////////////////////////////////////////////////////////////////////
-
 var buttonFlag = false;	
 var interval;
 function load(){
-	//birth_option();
 	interval = setInterval(formPosition,1);
-}
+};
 
 function birth_option(){
 	var innerhtml="";
@@ -49,7 +48,7 @@ function birth_option(){
 	document.getElementById('day').innerHTML = innerhtml;
 }
 
-function formPosition(){
+function formPosition(){ // set form position about "login" and "join" input 
 	var Y = getNowScroll().Y;
 	var height;
 	var obj;
@@ -94,9 +93,6 @@ function view_clear(){
 	obj.style.display = "none";
 }
 
-
-/////////////////////////////////////////////////////////////////
-
 function init(){
 	var obj = $("#make_icon");
 	var width = $("#make_icon").children("span").width();
@@ -111,6 +107,8 @@ function init(){
 	obj.width(obj.children("span").width());
 	
 }
+
+// page view control
 
 function view_room_list(element){
 	var obj = document.getElementById("roomlist");
@@ -134,29 +132,31 @@ function view_room_list(element){
 // url: /index/
 
 function doLogin(obj){
+	// call "doLogin" function of index.php file in controller directory
 	$.ajax({type:'POST',url:"/index/doLogin/",data:{userID:obj.find('input[name=id]').val(),password:obj.find('input[name=pw]').val()}})
 	.done(function(data){
-		if(data=="false")
+		if(data=="false") 				// login fail
 			alert("사용자 ID가 잘못되었거나, 비밀번호가 잘못되었습니다.");
-		else if(data=='existslogin'){
+		else if(data=='existslogin'){	// already logined
 			alert("이미 로그인 되어 계시네요!\n방 목록 페이지로 이동합니다~");
 			location.href="/roomlist/";
-		} else if(data=="true")
+		} else if(data=="true")			// login success
 			location.href="/roomlist/";
 	});
 }
 
-function vaildForm(){
+function vaildForm(){	// check input values
 	var obj = $(this);
 	var spanobj = obj.next('span');
+	alert(obj);
 	if(!obj.val()){
 		spanobj.text('불가능');
 		return;
 	}
 	switch(obj.attr('name')){
 		case 'id':
-			$.ajax({type:"POST",url:"/index/isExistID/",data:{userID:obj.val()}})
-			.done(function(data){
+			// call "isExistID" function of index.php file in controller directory
+			$.ajax({type:"POST",url:"/index/isExistID/",data:{userID:obj.val()}}).done(function(data){
 				if(data=="false") spanobj.text('불가능');
 				else if(data=="true") spanobj.text('가능');
 			});
