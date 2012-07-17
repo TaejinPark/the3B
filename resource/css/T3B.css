@@ -7,9 +7,6 @@
 #join {position:absolute; top; right:2%;  display:none; border-radius:15px;}
 
 
-
-
-
 .padding {padding:1% 0% 1% 0%; margin-right:10px;}
 #topbtm a {padding:5px; margin:0px 10px 15px 10px;}
 
@@ -21,9 +18,6 @@
 #login input {width:180px;}
 #join input {width:150px !important;}
 
-.select_field_year {margin:5px 5px 5px 0px;font-size:10px; clear:both;}
-.select_field_month {width:100px; margin:5px 5px 5px 0px; font-size:10px; float:left;}
-.select_field_day {width:100px; margin:5px 5px 5px 0px; font-size:10px; float:left;}
 
 #status table { border-collapse: collapse; }
 #status table td , #status table th {border:solid 1px; padding: 3px; }
@@ -41,17 +35,26 @@
 #status .info { border:solid 1px black; margin:30px; padding:10px; }
 #status .info p { margin:5px; }
 #status .table { margin:20px; }
+#status .table > th {text-align: center;}
+#status .table td {text-align: center;}
+
 #makeroom > div { margin:20px; }
-#makeroom > div.width80 { width: 80%; }
+#makeroom > div.width80 { width: 90%; }
 #makeroom > div.ml40 { margin-left:40px; }
-#makeroom > div.width80 > div { margin-top: 10px; margin-left: 15px; }
+#makeroom > div.width80 > div { margin-top: 10px; margin-left: 00px; }
 #makeroom .title div { margin: 0 auto; width: 200px; text-align: center; }
+
 #topbtm { margin: 0 auto; width: 200px; }
+
 #RoomList img { width: 24px; height: 24px; }
 #RoomList img, #RoomList h3 .user, #RoomList h3 .gametype { float:right; margin:0px 5px; }
 #RoomList .join { padding:0px; margin:0px; }
+
 #refresh_icon .reload { padding:0px;margin:0px; }
-#select_game_type { margin-right:3px; }
+#find_room_by_type { margin-right:3px; }
 #make_icon > span { margin:0px; }
 #search_rooms { margin-right:3px; padding-top:2px; }
 #RoomList .roomnumber { display: none; }
+#withdraw {}
+
+.dspn {display:block;}

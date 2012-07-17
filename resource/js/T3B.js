@@ -14,39 +14,23 @@ $("div[data-role='page']").live( "pageshow", function( event )
 
 function resizeContent()
 {
+	var header_obj = $("div[data-role='header']") ;
+	var footer_obj = $("div[data-role='footer']") ;
 	var browserHeight = document.documentElement.clientHeight;
-    var headerHeight = parseInt( $("#header").height())+parseInt($("#header").css("padding-bottom"))+parseInt($("#header").css("padding-top"))+parseInt($("#header").css("border-top-width"))+parseInt($("#header").css("border-bottom-width"));
-    var footerHeight = parseInt( $("#footer").height())+parseInt($("#footer").css("padding-bottom"))+parseInt($("#footer").css("padding-top"))+parseInt($("#footer").css("border-bottom-width"))+parseInt($("#footer").css("border-top-width"));
-    if(navigator.userAgent.indexOf('iPhone') != -1 || navigator.userAgent.indexOf('iphone') != -1){
+    var headerHeight = parseInt( header_obj.height())+parseInt(header_obj.css("padding-bottom"))+parseInt(header_obj.css("padding-top"))+parseInt(header_obj.css("border-top-width"))+parseInt(header_obj.css("border-bottom-width"));
+    var footerHeight = parseInt(footer_obj.height())+parseInt(footer_obj.css("padding-bottom"))+parseInt(footer_obj.css("padding-top"))+parseInt($("#footer").css("border-bottom-width"))+parseInt(footer_obj.css("border-top-width"));
+    
+    if(navigator.userAgent.indexOf('iPhone') != -1 || navigator.userAgent.indexOf('iphone') != -1)
 		$("#content").css("height" , browserHeight - headerHeight - footerHeight + 64);
-	}
 	else
 		$("#content").css("height" , browserHeight - headerHeight - footerHeight);
 }
 
-var buttonFlag = false;	
+var buttonFlag = false ;	
 var interval;
 function load(){
 	interval = setInterval(formPosition,1);
 };
-
-function birth_option(){
-	var innerhtml="";
-	var i,j;
-	for(i=1970 ; i<=2012;i++)
-		innerhtml += '<option value='+i+'>'+i+'</option>';
-	document.getElementById('year').innerHTML = innerhtml;
-	
-	innerhtml ="";
-	for(i=1 ; i<=12;i++)
-		innerhtml += '<option value='+i+'>'+i+'</option>';
-	document.getElementById('month').innerHTML = innerhtml;
-	
-	innerhtml ="";
-	for(i=1 ; i<=31;i++)
-		innerhtml += '<option value='+i+'>'+i+'</option>';
-	document.getElementById('day').innerHTML = innerhtml;
-}
 
 function formPosition(){ // set form position about "login" and "join" input 
 	var Y = getNowScroll().Y;
@@ -87,16 +71,14 @@ function view(element){
 }
 
 function view_clear(){
-	var obj = document.getElementById("join");
-	obj.style.display = "none";
-	obj = document.getElementById("login");
-	obj.style.display = "none";
+	document.getElementById("join").style.display = "none";
+	document.getElementById("login").style.display = "none";
 }
 
 function init(){
 	var obj = $("#make_icon");
 	var width = $("#make_icon").children("span").width();
-	var obj2 = $("#select_game_type");
+	var obj2 = $("#find_room_by_type");
 	obj2.css("width" , $("#content").width() - width -15);
 	obj.width(obj.children('span').width());
 	
@@ -105,19 +87,13 @@ function init(){
 	obj2 = $("#search_rooms");
 	obj2.css("width" ,$("#content").width() - width -15);
 	obj.width(obj.children("span").width());
-	
 }
 
-// page view control
-
-function view_room_list(element){
-	var obj = document.getElementById("roomlist");
-	obj.style.display = "none";
-	obj = document.getElementById("status");
-	obj.style.display = "none";
-	obj = document.getElementById("makeroom");
-	obj.style.display = "none";
-	obj = document.getElementById(element);
+function viewRoomListMenu(element){
+	$("#roomlist").css("display","none");
+	$("#status").css("display", "none");
+	$("#makeroom").css("display", "none");
+	var obj = document.getElementById(element);
 	
 	if(obj.style.display == "none")
 		obj.style.display = "block";
@@ -128,6 +104,7 @@ function view_room_list(element){
 	}
 	buttonFlag = true;
 }
+
 
 // url: /index/
 
@@ -211,7 +188,7 @@ function doGuestLogin(){
 
 function loadRoomList(start){
 	var roomstr = '';
-	$.ajax({url:"/roomlist/getRoomListToJson/",data:{start:start,keyword:$('input[name=search]:eq(0)').val(),type:$('select[name=select_game_type]').val()}})
+	$.ajax({url:"/roomlist/getRoomListToJson/",data:{start:start,keyword:$('input[name=search]:eq(0)').val(),type:$('select[name=find_room_by_type]').val()}})
 	.done(function(data){
 		if(!data) return;
 		var list = eval(data);
@@ -259,6 +236,9 @@ function loadRoomList(start){
 	});
 }
 
+function viewGameOption(value){
+	alert(value);
+}
 function makeRoom(obj){
 	var data = {};
 	obj.find('input, select').each(function(){

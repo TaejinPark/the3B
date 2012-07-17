@@ -14,15 +14,15 @@
 		var currentStart = 0;
 		$(document).ready(function(){
 			loadRoomList(0);
-			$('select[name=select_game_type]').change(function(){currentStart=0;loadRoomList(0);});
+			$('select[name=find_room_by_type]').change(function(){currentStart=0;loadRoomList(0);});
 			$('span.reload').click(function(){currentStart=0;loadRoomList(0);});
 			$('#makeroombutton').click(function(){makeRoom($(this).parent().parent()); return false;});
 			$('#roomlist > a').click(function(){currentStart+=15;loadRoomList(currentStart);});
 			$('#topbtm a').eq(0).click(function(){$(document).scrollTop(0);}).end().eq(1).click(function(){$(document).scrollTop($('#roomlist').height()-40);});
-			$('#head ul li a').eq(0).click(function(){view_room_list('roomlist');}).end()
-				.eq(1).click(function(){view_room_list('status');}).end()
+			$('#head ul li a').eq(0).click(function(){viewRoomListMenu('roomlist');}).end()
+				.eq(1).click(function(){viewRoomListMenu('status');}).end()
 				.eq(2).click(function(){doLogout();});
-			$('#make_icon').click(function(){view_room_list('makeroom');});
+			$('#make_icon').click(function(){viewRoomListMenu('makeroom');});
 		});
 		</script>
 	</head>
@@ -30,7 +30,7 @@
 	<body id="body">
 	<div data-role="page" class="type-interior">
 		<!-- /header -->
-		<div id="header" data-role="header" data-position="fixed" data-theme="a" id="head">
+		<div data-role="header" data-position="fixed" data-theme="a" id="head">
 			<div data-role="navbar" data-iconpos="right">
 				<ul class="ui-body ui-body-b">
 					<li><a data-theme="a" data-icon="search" class="ui-btn-active">Rooms</a></li>
@@ -42,55 +42,72 @@
 		
 		<!-- /content -->
 		<div id="content" data-role="content" data-theme="a"> 
+			<!-- /roomlist -->
 			<div id="roomlist">
+
 				<div class="ui-grid-a">
-					<div id="select_game_type" class="ui-block-a">
-						<select name="select_game_type" data-native-menu="false">
+					<!-- /select game type to search room-->
+					<div id="find_room_by_type" class="ui-block-a">
+						<select name="find_room_by_type" data-native-menu="false">
 							<option value="0" selected="selected">빙고</option>
 							<option value="1">주사위</option>
 							<option value="2">사다리</option>
 							<option value="3">해적</option>
 						</select>
 					</div>
+					<!-- /select game type to search room-->
+
+					<!-- /make room button-->
 					<div id="make_icon" class="ui-block-b">
 						<span data-role="button" data-inline="true" data-theme="a" data-icon="plus">
 						방 생성
 						</span>
 					</div>
+					<!-- /make room button-->
 				</div>
 				
-				<!- search rooms ->
 				
 				<div class="ui-grid-a">
+					<!-- /search room button-->
 					<div id="search_rooms" class="ui-block-a">
 						<input type="search" name="search" />
 					</div>
+					<!-- /search rooms button -->
+
+					<!-- /refresh room button -->
 					<div id="refresh_icon" class="ui-block-b">
 						<span class="reload" data-role="button" data-inline="true" data-theme="a" data-icon="refresh">
 						방 갱신
 						</span>
 					</div>
+					<!-- /refresh room button -->
 				</div>
 				
-				<!- room list ->
 				
+				<!-- /more rooms button -->
 				<div class="roomlistWarp" data-role="collapsible-set" data-theme="a" data-content-theme="e">
 					<div id="RoomList">
 					</div>
 				</div>
 				<a data-role="button" data-icon="arrow-d">더보기</a>
-			</div><!-- / room -->
+				<!-- /more rooms button -->
+
+			</div>
+			<!-- / room list -->
 			
 			<!-- /status -->
 			<div id="status">
 				
+				<!-- /user basic information -->
 				<div class="info">
 					<p>사용자 ID : <span id="statusUserID"></span></p>
 					<p>별칭 : <span id="statusNickname"></span></p>
 					<!--p>생년월일 : <span>2012</span>.<span>12</span>.<span>31</span></p-->
 					<p>전/승/패 : <span id="statusTotal"></span>/<span id="statusWin"></span>/<span id="statusLose"></span></p>
 				</div>
+				<!-- /user basic information -->
 				
+				<!-- /game static information -->
 				<div class="table" data-role="collapsible" data-collapsed="true" data-theme="a" data-content-theme="a">
 					<h3>게임 통계</h3>
 					<p>
@@ -102,19 +119,40 @@
 								<th>패배 횟수</th>
 							</tr>
 							<tr>
+								<td>주사위</td>
+								<td id="diceTotal"> 미 구현 </td>
+								<td id="diceWin"> 미 구현 </td>
+								<td id="diceLose"> 미 구현 </td>
+							</tr>
+							<tr>
 								<td>빙고</td>
 								<td id="bingoTotal">0</td>
 								<td id="bingoWin">0</td>
 								<td id="bingoLose">0</td>
 							</tr>
+							<tr>
+								<td>사다리</td>
+								<td id="ladderTotal"> 미 구현 </td>
+								<td id="ladderin"> 미 구현 </td>
+								<td id="ladderLose"> 미 구현 </td>
+							</tr>
+							<tr>
+								<td>해적</td>
+								<td id="pirateTotal"> 미 구현 </td>
+								<td id="pirateWin"> 미 구현 </td>
+								<td id="pirateLose"> 미 구현 </td>
+							</tr>
+							
 						</table>
 					</p>
 				</div>
-				<div id="withdrawal" data-role="button" data-inline="true" data-theme="a" data-icon="refresh">
-					탈퇴
+				<!-- /game static information -->
+				<div id="withdraw"data-role="button" data-inline="true" data-theme="a" data-icon="refresh" style="margin-left:10px; padding:0px;">
+				탈퇴
 				</div>
 				
-			</div><!-- /status -->
+			</div>
+			<!-- /status -->
 
 			<!-- /make room -->
 			<div id="makeroom">
@@ -148,16 +186,43 @@
 					<label for="password">비밀 번호</label>
 					<input type="password" id="password" name="password" maxlength="50" data-mini="true" />
 				</div>
+
 				<div class="width80">
 					<span>게임 옵션</span>
 					<div>
-						<label for="gameoption">승리조건 (빙고 완성 줄 수)</label>
-						<input type="range" name="gameoption" id="gameoption" value="1" min="1" max="5" data-theme="a" data-track-theme="b"/>
+						<select name="select_game_type" data-native-menu="false" >
+							<option value="0" selected="selected">빙고</option>
+							<option value="1">주사위</option>
+							<option value="2">사다리</option>
+							<option value="3">해적</option>
+						</select>
+					</div>
+					<div id="game_0">
+						<label for="gameoption_0">빙고 줄</label>
+						<input type="range" name="gameoption_0" id="gameoption_0" value="1" min="1" max="5" data-theme="a" data-track-theme="b"/>
+					</div>
+					<div id="game_1" class="dspn">
+						<div>주사위값이 더 큰 사람이</div>
+						<select id="gameoption_1" data-role="slider" data-theme="a">
+							<option value="0">패자</option>
+							<option value="1">승자</option>
+						</select> 
+					</div>
+					<div id="game_2" class="dspn">
+						방 생성후 조건 입력 
+					</div>
+					<div id="game_3" class="dspn">
+						<div>칼을 꽂는 사람이</div>
+						<select id="gameoption_3" data-role="slider" data-theme="a">
+							<option value="0">패자</option>
+							<option value="1">승자</option>
+						</select> 
 					</div>
 				</div>
 				<div id="makeroombutton" type="button" data-theme="a" data-icon="plus">
 					만들기
 				</div>
+
 			</div><!-- /make room -->
 			
 		</div><!-- /content -->
