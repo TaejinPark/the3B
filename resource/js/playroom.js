@@ -146,42 +146,77 @@ function process(msg){
 	var data = JSON.parse(msg);
 	} catch (ex){ log(ex); }
 	switch(data.cmd){
-		case "JOIN": chatAppend(data.data.Nickname+"님이 참가 하셨습니다."); userAppend(data.data.UserID,data.data.Nickname); break;
-		case "USERLIST": makeUserList(data.data); break;
-		case "CHAT": chatAppend(data.data.Nickname+": "+data.data.Message); break;
-		case "KICK": chatAppend($('.user_'+data.data.UserID+' span').text()+"님이 강퇴 강하셨습니다.");
-					 $('.user_'+data.data.UserID).remove(); break;
-		case "CHANGE_SETTING": chatAppend("방 설정이 다음과 같이 변경되었습니다.");
-							   chatAppend("최대 인원: "+data.data.MaxUser+"명, 승리조건: "+data.data.GameOption+"줄");
-							   $("#maxUsers").text(data.data.MaxUser); $("#gameOption").text(data.data.GameOption);
-							   $("#room_config").find("input").filter("[name=maxuser]").val(data.data.MaxUser).end()
-							   .filter("[name=gameoption]").val(data.data.GameOption);
-							   break;
-		case "CHANGE_OWNER": owner = data.data.UserID; chatAppend("방장이 변경되었습니다. 방장:"+data.data.Nickname);
-							 sendCmd="USERLIST"; send("USERLIST",{});
-							 break;
-		case "READY": chatAppend(data.data.Nickname+"님이 준비가 완료되었습니다."); break;
-		case "UNREADY": chatAppend(data.data.Nickname+"님이 준비를 취소 하였습니다."); break;
-		case "START": chatAppend("게임이 곧 시작됩니다. 준비하세요!"); setTimeout(startBingo,4000); break;
-		case "QUIT": if(nickname==data.data.Nickname) location.href="/roomlist/";
-					 chatAppend($('.user_'+data.data.UserID+' span').text()+"님이 방에서 나갔습니다.");
-					 $('.nick_'+data.data.Nickname).parent().remove(); break;
-		case "BINGO_START": $("#remaintime").css('display','none').next().css('display','none'); $("#turn").css('display','block');
-							$("#bingoTable a").unbind("click").click(bingo);
-							break;
-		case "BINGO_CURRENT": $("#turn > div").eq(0).text(data.data.CurrentNickname).end().eq(1).text(data.data.NextNickname);
-							  currentNickname = data.data.CurrentNickname;
-							  if(data.data.CurrentNickname==nickname) showMyTurn();
-							  break;
-		case "BINGO_SELECT": bingoUser = []; bingoEndUser = []; markSelect(data.data); break;
-		case "BINGO_BINGO": bingoUser.push(data.data.Nickname);
-							message(bingoUser.join(", ")+"님이 한줄 이상을 완성 했습니다!"+(bingoEndUser.length>0?"<br />"+bingoEndUser.join(", ")+"님이 빙고를 완성 했습니다!":""));
-							break;
-		case "BINGO_LAST": bingoUser.push(data.data.Nickname);
-						   message((bingoUser.length>0?bingoUser.join(", ")+"님이 빙고 한줄을 완성 했습니다!":"")+bingoEndUser.join(", ")+"님이 빙고를 완성 했습니다!");
-						   break;
-		case "BINGO_END": showResult(data.data.result); break;
-		case "INSTANCE_EXIT": setTimeout(goExit,10000); break;
+		case "JOIN": 
+			chatAppend(data.data.Nickname+"님이 참가 하셨습니다."); 
+			userAppend(data.data.UserID,data.data.Nickname); break;
+		
+		case "USERLIST": 
+			makeUserList(data.data); break;
+		
+		case "CHAT": 
+			chatAppend(data.data.Nickname+": "+data.data.Message); break;
+		
+		case "KICK": 
+			chatAppend($('.user_'+data.data.UserID+' span').text()+"님이 강퇴 강하셨습니다.");
+			$('.user_'+data.data.UserID).remove(); break;
+		
+		case "CHANGE_SETTING": 
+			chatAppend("방 설정이 다음과 같이 변경되었습니다.");
+			chatAppend("최대 인원: "+data.data.MaxUser+"명, 승리조건: "+data.data.GameOption+"줄");
+			$("#maxUsers").text(data.data.MaxUser); $("#gameOption").text(data.data.GameOption);
+			$("#room_config").find("input").filter("[name=maxuser]").val(data.data.MaxUser).end()
+			.filter("[name=gameoption]").val(data.data.GameOption);
+			break;
+		
+		case "CHANGE_OWNER": 
+			owner = data.data.UserID; chatAppend("방장이 변경되었습니다. 방장:"+data.data.Nickname);
+			sendCmd="USERLIST"; send("USERLIST",{});
+			break;
+		
+		case "READY": 
+			chatAppend(data.data.Nickname+"님이 준비가 완료되었습니다."); break;
+		
+		case "UNREADY": 
+			chatAppend(data.data.Nickname+"님이 준비를 취소 하였습니다."); break;
+		
+		case "START": 
+			chatAppend("게임이 곧 시작됩니다. 준비하세요!"); setTimeout(startBingo,4000); break;
+		
+		case "QUIT": 
+			if(nickname==data.data.Nickname) location.href="/roomlist/";
+			chatAppend($('.user_'+data.data.UserID+' span').text()+"님이 방에서 나갔습니다.");
+			$('.nick_'+data.data.Nickname).parent().remove(); break;
+		
+		case "BINGO_START": 
+			$("#remaintime").css('display','none').next().css('display','none'); $("#turn").css('display','block');
+			$("#bingoTable a").unbind("click").click(bingo);
+			break;
+		
+		case "BINGO_CURRENT": 
+			$("#turn > div").eq(0).text(data.data.CurrentNickname).end().eq(1).text(data.data.NextNickname);
+			currentNickname = data.data.CurrentNickname;
+			if(data.data.CurrentNickname==nickname) showMyTurn();
+			break;
+		
+		case "BINGO_SELECT": 
+			bingoUser = []; bingoEndUser = []; markSelect(data.data); break;
+		
+		case "BINGO_BINGO": 
+			bingoUser.push(data.data.Nickname);
+			message(bingoUser.join(", ")+"님이 한줄 이상을 완성 했습니다!"+(bingoEndUser.length>0?"<br />"+bingoEndUser.join(", ")+"님이 빙고를 완성 했습니다!":""));
+			break;
+		
+		case "BINGO_LAST": 
+			bingoUser.push(data.data.Nickname);
+			message((bingoUser.length>0?bingoUser.join(", ")+"님이 빙고 한줄을 완성 했습니다!":"")+bingoEndUser.join(", ")+"님이 빙고를 완성 했습니다!");
+			break;
+		
+		case "BINGO_END": 
+			showResult(data.data.result); break;
+		
+		case "INSTANCE_EXIT": 
+			setTimeout(goExit,10000); break;
+		
 		case "OK":
 			switch(sendCmd){
 				case "LOGIN": sendJoin(); break;
@@ -570,7 +605,7 @@ function goExit(){
 
 
 
-//dice game functions
+// dice game functions
 
 var canvas_width ;	// canvas width
 var canvas_height ;	// canvas height

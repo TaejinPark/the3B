@@ -237,7 +237,11 @@ function loadRoomList(start){
 }
 
 function viewGameOption(value){
-	alert(value);
+	$("#game_0").css("display","none");
+	$("#game_1").css("display","none");
+	$("#game_2").css("display","none");
+	$("#game_3").css("display","none");
+	$("#game_"+value).css("display","block");
 }
 function makeRoom(obj){
 	var data = {};
@@ -249,8 +253,7 @@ function makeRoom(obj){
 		obj.find('input[name=name]').focus();
 		return;
 	}
-	$.ajax({type:"POST",url:"/roomlist/doMakeRoom/",data:data})
-	.done(function(data){
+	$.ajax({type:"POST",url:"/roomlist/doMakeRoom/",data:data}).done(function(data){
 		switch(data){
 			case '-1': 
 				alert("방 이름을 입력해 주세요.");

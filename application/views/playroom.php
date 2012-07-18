@@ -61,11 +61,32 @@ $opt = $room->getGameOption();
 					<span id="maxUser"><?php echo $room->getMaxUser(); ?></span>
 				</div>
 				<div>게임 종류 : 
-					<span>빙고</span>
+					<span>
+						<?php
+							$gametype = $room->getGameType();
+							switch($gametype){
+								case 0: echo "빙고"; break;
+								case 1: echo "주사위"; break;
+								case 2: echo "사다리"; break;
+								case 3: echo "해적"; break;
+							}
+						?>
+					</span>
 				</div>
-				<div>-Option-<br>
+				<div>- 게임 옵션 -<br>
 					승리 빙고 : 
-					<span id="gameOption"><?php echo $opt[0]; ?>줄</span>
+					<span id="gameOption">
+							<?php echo $opt[0]; ?>줄
+					</span>
+					<span id="gameOption">
+						<?php 
+							if($opt[0]) echo "승리"; 
+							else echo "패"
+						?>
+					</span>
+					<span id="gameOption">
+							<?php echo $opt[0]; ?>줄
+					</span>
 				</div>
 				<a id="config_change" onclick="view_config('room_config');" type="button" data-inline="true;">설정 변경</a>
 			</div>
@@ -105,9 +126,9 @@ $opt = $room->getGameOption();
 				<div></div>
 				<input type="text" />
 			</div>
-			<div><!- id="gamedisplay">
+			<div id="gamedisplay">
 				
-				<!- pirate game>
+				<!-- pirate game -->
 					<div id="pirate">
 						해적통
 						<canvas>
@@ -115,9 +136,9 @@ $opt = $room->getGameOption();
 							이 브라우저는 캔바스를 지원하지 않습니다.
 						</canvas>
 					</div>
-				<!- pirate game>
+				<!-- pirate game -->
 
-				<!- dice game ->
+				<!-- /dice game-->
 				<div id="dice">
 					<center>
 						<canvas id="dice_canvas">
@@ -133,17 +154,17 @@ $opt = $room->getGameOption();
 						<a data-role='button' data-theme='b'>결과 확인</a>
 					</div>
 				</div>
-				<!- dice game ->
+				<!-- /dice game-->
 					
-				<!- ladder game->
+				<!-- /ladder game-->
 					사다리 타기
 					<canvas>
 						this browser is not support canvas element.<br>
 						이 브라우저는 캔바스를 지원하지 않습니다.
 					</canvas>
-				<!- ladder game->
+				<!-- /ladder game-->
 
-				<!- bingo game ->
+				<!-- /bingo game-->
 				<div id="bingo">
 					<div id="messageWindow"></div>
 					<div id="turn">
@@ -151,43 +172,43 @@ $opt = $room->getGameOption();
 						<div><a data-role="button" data-icon="arrow-r" data-iconpos="notext" data-theme="a" data-inline="true">unfold</a></div>
 						<div class="turnuser textalignright"> 다음 순서 아이디</div>
 					</div>
-<table id="bingoTable">
-	<tr>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-	</tr>
-	<tr>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-	</tr>
-	<tr>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-	</tr>
-	<tr>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td><!-- 중복시 색 -->
-	</tr>
-	<tr>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td><!-- 미 선택시 색 -->
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-		<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
-	</tr>
-</table>
+					<table id="bingoTable">
+						<tr>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+						</tr>
+						<tr>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+						</tr>
+						<tr>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+						</tr>
+						<tr>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td><!-- 중복시 색 -->
+						</tr>
+						<tr>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td><!-- 미 선택시 색 -->
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
+						</tr>
+					</table>
 					<div id="remaintime">남은 시간 : <span>25</span> 초 </div>
 					<div>	
 						<div>미 선택 <div id="bingoUnselect"></div> </div><!-- 숫자 선택을 모두 하지 않고 완료시 경우 미 선택 숫자 표시-->
@@ -201,12 +222,13 @@ $opt = $room->getGameOption();
 					</div>
 				</div>
 			</div>
-			<!- bingo game ->
+			<!-- /bingo game -->
 			
 			<div id="gameResult">
 			</div>
 
-		</div><!-- /content -->
+		</div>
+		<!-- /content -->
 		
 		<!-- /footer -->	
 		<div id="footer" data-role="footer" data-position="fixed" data-theme="a">

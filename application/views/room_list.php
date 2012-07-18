@@ -119,16 +119,16 @@
 								<th>패배 횟수</th>
 							</tr>
 							<tr>
-								<td>주사위</td>
-								<td id="diceTotal"> 미 구현 </td>
-								<td id="diceWin"> 미 구현 </td>
-								<td id="diceLose"> 미 구현 </td>
-							</tr>
-							<tr>
 								<td>빙고</td>
 								<td id="bingoTotal">0</td>
 								<td id="bingoWin">0</td>
 								<td id="bingoLose">0</td>
+							</tr>
+							<tr>
+								<td>주사위</td>
+								<td id="diceTotal"> 미 구현 </td>
+								<td id="diceWin"> 미 구현 </td>
+								<td id="diceLose"> 미 구현 </td>
 							</tr>
 							<tr>
 								<td>사다리</td>
@@ -190,7 +190,7 @@
 				<div class="width80">
 					<span>게임 옵션</span>
 					<div>
-						<select name="select_game_type" data-native-menu="false" >
+						<select name="select_game_type" data-native-menu="false" onchange="viewGameOption(value)">
 							<option value="0" selected="selected">빙고</option>
 							<option value="1">주사위</option>
 							<option value="2">사다리</option>
@@ -202,18 +202,18 @@
 						<input type="range" name="gameoption_0" id="gameoption_0" value="1" min="1" max="5" data-theme="a" data-track-theme="b"/>
 					</div>
 					<div id="game_1" class="dspn">
-						<div>주사위값이 더 큰 사람이</div>
-						<select id="gameoption_1" data-role="slider" data-theme="a">
+						<span>주사위값이 더 큰 사람이</span>
+						<select id="gameoption_1" name="gameoption_1" data-role="slider" data-theme="a">
 							<option value="0">패자</option>
 							<option value="1">승자</option>
-						</select> 
+						</select>
 					</div>
-					<div id="game_2" class="dspn">
+					<div id="game_2" class="dspn" name="gameoption_2">
 						방 생성후 조건 입력 
 					</div>
 					<div id="game_3" class="dspn">
-						<div>칼을 꽂는 사람이</div>
-						<select id="gameoption_3" data-role="slider" data-theme="a">
+						<span>칼을 꽂는 사람이</span>
+						<select id="gameoption_3" name="gameoption_3" data-role="slider" data-theme="a">
 							<option value="0">패자</option>
 							<option value="1">승자</option>
 						</select> 

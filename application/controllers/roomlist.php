@@ -36,12 +36,12 @@ class RoomList extends CI_Controller {
 
 	function doMakeRoom(){
 		$name = $this->input->post('name');
-		$gametype = $this->input->post('gametype');
-		$gameoption = $this->input->post('gameoption');
 		$maxuser = $this->input->post('maxuser');
 		$private = $this->input->post('private');
 		$password = $this->input->post('password');
 		$roomtype = $this->input->post('roomtype');
+		$gametype = $this->input->post('gametype');
+		$gameoption = $this->input->post('gameoption_'+$gametype);
 
 		$room = new Room();
 		$room->setName($name);
