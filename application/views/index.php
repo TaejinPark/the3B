@@ -12,26 +12,18 @@
 		<script>
 		$("div[data-role='page']").live("pageshow",function(event){
 			$('#join input').blur(vaildForm);
-			load();
-			$(".login").click(function(){view('login');});	// display / non-display login form
-			$(".join").click(function(){view('join');});	// display / non-display join form
+			traceFormPosition();
+			$(".login").click(function(){view_join_login('login');});	// display / non-display login form
+			$(".join").click(function(){view_join_login('join');});	// display / non-display join form
 			$(".guest").click(function(){doGuestLogin();}); // do login as guest
-			$('#login form').submit(function(){	// do login process
-				doLogin($(this));
-				return false;
-			});
-			$('#join form').submit(function(){	// do join process
-				doJoin($(this));
-				return false;
-			});
-			$("#content").click(function(){		// clear login and join form
-				view_clear();
-			});
+			$('#login form').submit(function(){doLogin($(this));return false;});// do login process
+			$('#join form').submit(function(){doJoin($(this));return false;});// do join process
+			$("#content").click(function(){view_clear();});// clear login and join form
 		});
 		</script>
 	</head>
 	
-	<body id="body" onload="load()">
+	<body id="body" onload="traceFromPosition()">
 	<div data-role="page" class="type-interior">
 		
 		<!-- /header -->
@@ -92,7 +84,7 @@
 		<!-- /content -->	
 				
 		<div data-role="footer" data-position="fixed" data-theme="b" class="padding" id="footer">
-			<h3>The BokBulBok</h3>
+			<center>The BokBulBok</center>
 		</div><!-- /footer -->
 		
 	</div><!-- /page -->

@@ -11,18 +11,18 @@
 		<script src ="/resource/js/T3B.js"></script>
 		<link rel="stylesheet" href="/resource/css/T3B.css" />
 		<script type="text/javascript">
-		var currentStart = 0;
+		var currentStart = 0; // current searching room index
 		$(document).ready(function(){
-			loadRoomList(0);
-			$('select[name=find_room_by_type]').change(function(){currentStart=0;loadRoomList(0);});
-			$('span.reload').click(function(){currentStart=0;loadRoomList(0);});
-			$('#makeroombutton').click(function(){makeRoom($(this).parent().parent()); return false;});
-			$('#roomlist > a').click(function(){currentStart+=15;loadRoomList(currentStart);});
-			$('#topbtm a').eq(0).click(function(){$(document).scrollTop(0);}).end().eq(1).click(function(){$(document).scrollTop($('#roomlist').height()-40);});
-			$('#head ul li a').eq(0).click(function(){viewRoomListMenu('roomlist');}).end()
-				.eq(1).click(function(){viewRoomListMenu('status');}).end()
-				.eq(2).click(function(){doLogout();});
-			$('#make_icon').click(function(){viewRoomListMenu('makeroom');});
+			loadRoomList(0);// initialy view max 15 rooms 
+			$('select[name=find_room_by_type]').change(function(){currentStart=0;loadRoomList(0);}); // fillter room list by gametype of rooms
+			$('span.reload').click(function(){currentStart=0;loadRoomList(0);}); // refresh room list
+			$('#makeroombutton').click(function(){makeRoom($(this).parent().parent()); return false;}); // go menu about making room
+			$('#roomlist > a').click(function(){currentStart+=15;loadRoomList(currentStart);}); // search 15 more rooms
+			$('#head ul li a')// when click header tab menu list
+				.eq(0).click(function(){viewRoomListMenu('roomlist');}).end() //  go to first tab menu about searching rooms
+				.eq(1).click(function(){viewRoomListMenu('status');}).end()	//	go to second tab menu about viewing user's status
+				.eq(2).click(function(){doLogout();});	// go to third menu about logging out
+			$('#make_icon').click(function(){viewRoomListMenu('makeroom');}); // make room menu
 		});
 		</script>
 	</head>
@@ -49,10 +49,11 @@
 					<!-- /select game type to search room-->
 					<div id="find_room_by_type" class="ui-block-a">
 						<select name="find_room_by_type" data-native-menu="false">
-							<option value="0" selected="selected">빙고</option>
-							<option value="1">주사위</option>
-							<option value="2">사다리</option>
-							<option value="3">해적</option>
+							<option value="0"selected="selected">모두</option>
+							<option value="1">빙고</option>
+							<option value="2">주사위</option>
+							<option value="3">사다리</option>
+							<option value="4">해적</option>
 						</select>
 					</div>
 					<!-- /select game type to search room-->
@@ -70,14 +71,14 @@
 				<div class="ui-grid-a">
 					<!-- /search room button-->
 					<div id="search_rooms" class="ui-block-a">
-						<input type="search" name="search" />
+						<input id="search_input" type="search" name="search" onchange="loadRoomList(0)"/>
 					</div>
 					<!-- /search rooms button -->
 
 					<!-- /refresh room button -->
 					<div id="refresh_icon" class="ui-block-b">
 						<span class="reload" data-role="button" data-inline="true" data-theme="a" data-icon="refresh">
-						방 갱신
+							방 갱신
 						</span>
 					</div>
 					<!-- /refresh room button -->
@@ -110,7 +111,7 @@
 				<!-- /game static information -->
 				<div class="table" data-role="collapsible" data-collapsed="true" data-theme="a" data-content-theme="a">
 					<h3>게임 통계</h3>
-					<p>
+					<center>
 						<table>
 							<tr>
 								<th>게임 명</th>
@@ -120,35 +121,35 @@
 							</tr>
 							<tr>
 								<td>빙고</td>
-								<td id="bingoTotal">0</td>
-								<td id="bingoWin">0</td>
-								<td id="bingoLose">0</td>
+								<td id="bingoTotal"> 미 구동 </td>
+								<td id="bingoWin"> 미 구동 </td>
+								<td id="bingoLose"> 미 구동 </td>
 							</tr>
 							<tr>
 								<td>주사위</td>
-								<td id="diceTotal"> 미 구현 </td>
-								<td id="diceWin"> 미 구현 </td>
-								<td id="diceLose"> 미 구현 </td>
+								<td id="diceTotal"> 미 구동 </td>
+								<td id="diceWin"> 미 구동 </td>
+								<td id="diceLose"> 미 구동 </td>
 							</tr>
 							<tr>
 								<td>사다리</td>
-								<td id="ladderTotal"> 미 구현 </td>
-								<td id="ladderin"> 미 구현 </td>
-								<td id="ladderLose"> 미 구현 </td>
+								<td id="ladderTotal"> 미 구동 </td>
+								<td id="ladderWin"> 미 구동 </td>
+								<td id="ladderLose"> 미 구동 </td>
 							</tr>
 							<tr>
 								<td>해적</td>
-								<td id="pirateTotal"> 미 구현 </td>
-								<td id="pirateWin"> 미 구현 </td>
-								<td id="pirateLose"> 미 구현 </td>
+								<td id="pirateTotal"> 미 구동 </td>
+								<td id="pirateWin"> 미 구동 </td>
+								<td id="pirateLose"> 미 구동 </td>
 							</tr>
 							
 						</table>
-					</p>
+					</center>
 				</div>
 				<!-- /game static information -->
 				<div id="withdraw"data-role="button" data-inline="true" data-theme="a" data-icon="refresh" style="margin-left:10px; padding:0px;">
-				탈퇴
+					탈퇴
 				</div>
 				
 			</div>
@@ -190,30 +191,31 @@
 				<div class="width80">
 					<span>게임 옵션</span>
 					<div>
-						<select name="select_game_type" data-native-menu="false" onchange="viewGameOption(value)">
-							<option value="0" selected="selected">빙고</option>
-							<option value="1">주사위</option>
-							<option value="2">사다리</option>
-							<option value="3">해적</option>
+						<select name="gametype" data-native-menu="false" onchange="viewGameOption(value)">
+							<option value="1" selected="selected">빙고</option>
+							<option value="2">주사위</option>
+							<option value="3">사다리</option>
+							<option value="4">해적</option>
 						</select>
 					</div>
-					<div id="game_0">
-						<label for="gameoption_0">빙고 줄</label>
-						<input type="range" name="gameoption_0" id="gameoption_0" value="1" min="1" max="5" data-theme="a" data-track-theme="b"/>
+					<div id="game_1">
+						<label for="gameoption_1">빙고 줄</label>
+						<input type="range" name="gameoption_1" id="gameoption_1" value="1" min="1" max="5" data-theme="a" data-track-theme="b"/>
 					</div>
-					<div id="game_1" class="dspn">
+					<div id="game_2" class="dspn">
 						<span>주사위값이 더 큰 사람이</span>
-						<select id="gameoption_1" name="gameoption_1" data-role="slider" data-theme="a">
+						<select id="gameoption_2" name="gameoption_2" data-role="slider" data-theme="a">
 							<option value="0">패자</option>
 							<option value="1">승자</option>
 						</select>
 					</div>
-					<div id="game_2" class="dspn" name="gameoption_2">
-						방 생성후 조건 입력 
-					</div>
 					<div id="game_3" class="dspn">
-						<span>칼을 꽂는 사람이</span>
-						<select id="gameoption_3" name="gameoption_3" data-role="slider" data-theme="a">
+						방 생성후 조건 입력 
+						<input type="hidden" name="gameoption_3"value="0";>
+					</div>
+					<div id="game_4" class="dspn">
+						<span>당첨 칼을 꽂는 사람이</span>
+						<select id="gameoption_4" name="gameoption_4" data-role="slider" data-theme="a">
 							<option value="0">패자</option>
 							<option value="1">승자</option>
 						</select> 
@@ -229,10 +231,6 @@
 		
 		<!-- /footer -->	
 		<div data-role="footer" data-position="fixed" data-theme="a" id="footer">
-			<div id="topbtm">
-				<a type="button" data-icon="arrow-u" data-iconpos="notext">Top</a>
-				<a type="button" data-icon="arrow-d" data-iconpos="notext">Bottom</a>
-			</div>
 		</div><!-- /footer -->
 		
 	</div><!-- /page -->

@@ -44,8 +44,6 @@
 #makeroom > div.width80 > div { margin-top: 10px; margin-left: 00px; }
 #makeroom .title div { margin: 0 auto; width: 200px; text-align: center; }
 
-#topbtm { margin: 0 auto; width: 200px; }
-
 #RoomList img { width: 24px; height: 24px; }
 #RoomList img, #RoomList h3 .user, #RoomList h3 .gametype { float:right; margin:0px 5px; }
 #RoomList .join { padding:0px; margin:0px; }

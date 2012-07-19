@@ -1,12 +1,12 @@
 $(window).resize(function() {
-	init();
-	load();
+	viewRoomListInit();
+	traceFormPosition();
 	resizeContent();
 });
 
 $("div[data-role='page']").live( "pageshow", function( event )
 {
-	init();
+	viewRoomListInit();
     resizeContent();
 });
 
@@ -20,18 +20,20 @@ function resizeContent()
     var headerHeight = parseInt( header_obj.height())+parseInt(header_obj.css("padding-bottom"))+parseInt(header_obj.css("padding-top"))+parseInt(header_obj.css("border-top-width"))+parseInt(header_obj.css("border-bottom-width"));
     var footerHeight = parseInt(footer_obj.height())+parseInt(footer_obj.css("padding-bottom"))+parseInt(footer_obj.css("padding-top"))+parseInt($("#footer").css("border-bottom-width"))+parseInt(footer_obj.css("border-top-width"));
     
+    // set content size as browswer heigt - fixed header height
     if(navigator.userAgent.indexOf('iPhone') != -1 || navigator.userAgent.indexOf('iphone') != -1)
-		$("#content").css("height" , browserHeight - headerHeight - footerHeight + 64);
-	else
-		$("#content").css("height" , browserHeight - headerHeight - footerHeight);
+		$("#content").css("height" , browserHeight - headerHeight + 60); // if browser is iphone , content height becomes more higher than PC browser
+	else // normal browser
+		$("#content").css("height" , browserHeight - headerHeight );
 }
 
 var buttonFlag = false ;	
 var interval;
-function load(){
+function traceFormPosition(){
 	interval = setInterval(formPosition,1);
 };
 
+// url : index
 function formPosition(){ // set form position about "login" and "join" input 
 	var Y = getNowScroll().Y;
 	var height;
@@ -48,7 +50,7 @@ function formPosition(){ // set form position about "login" and "join" input
 	obj.style.top = Y+height+'px';
 }
 
-function getNowScroll(){
+function getNowScroll(){ // get current x,y coordinate of scroll-bar position 
 	var de = document.documentElement;
 	var b = document.body;
 	var now = {};
@@ -57,7 +59,7 @@ function getNowScroll(){
 	return now;			
 }
 
-function view(element){
+function view_join_login(element){ // disply / non-display to join,login form
 	var obj = document.getElementById("join");
 	obj.style.display = "none";
 	obj = document.getElementById("login");
@@ -70,12 +72,14 @@ function view(element){
 	buttonFlag = true;
 }
 
-function view_clear(){
+function view_clear(){ // non-display to join, login form
 	document.getElementById("join").style.display = "none";
 	document.getElementById("login").style.display = "none";
 }
 
-function init(){
+// url: roomlist
+
+function viewRoomListInit(){
 	var obj = $("#make_icon");
 	var width = $("#make_icon").children("span").width();
 	var obj2 = $("#find_room_by_type");
@@ -106,6 +110,14 @@ function viewRoomListMenu(element){
 }
 
 
+function viewGameOption(value){
+	$("#game_1").css("display","none");
+	$("#game_2").css("display","none");
+	$("#game_3").css("display","none");
+	$("#game_4").css("display","none");
+	$("#game_"+value).css("display","block");
+}
+
 // url: /index/
 
 function doLogin(obj){
@@ -125,7 +137,6 @@ function doLogin(obj){
 function vaildForm(){	// check input values
 	var obj = $(this);
 	var spanobj = obj.next('span');
-	alert(obj);
 	if(!obj.val()){
 		spanobj.text('불가능');
 		return;
@@ -161,7 +172,7 @@ function doJoin(form){
 	.done(function(data){
 		if(data=="false")
 			alert("정보가 잘못 입력되었습니다.\n입력 한 정보를 다시 입력해 주세요.");
-		else if(data=='existslogin'){
+		else if(data=='existsjogin'){
 			alert("이미 로그인 되어 계시네요!\n방 목록 페이지로 이동합니다~");
 			location.href="/roomlist/";
 		} else if(data=="true") {
@@ -199,7 +210,7 @@ function loadRoomList(start){
 				'<span class="roomnumber">'+list[a].room_seq+'</span>'+
 				'<h3>'+
 					'<span>'+list[a].name+'</span>'+
-					'<img src="/resource/img/'+(list[a]["private"]?'lock':'unlock')+'_icon.png" />'+
+					'<img src="/resource/img/'+(parseInt(list[a]["private"]) ? 'lock':'unlock')+'_icon.png" />'+
 					'<span class="user"> '+
 							'[<span>'+list[a].currentuser+'</span>/'+
 							'<span>'+list[a].maxuser+'</span>]'+
@@ -214,10 +225,14 @@ function loadRoomList(start){
 					'<div>게임 종류 : '+
 						'<span>'+list[a].gametype+'</span>'+
 					'</div>'+
-					'<div>-Option-<br>'+
-						'승리 빙고 : '+
-						'<span>'+list[a].gameoption+'줄</span>'+
-					'</div>'+
+					'<div>게임 옵션 : ';
+					switch(list[a].gametype){
+						case "빙고" : str += '승리 빙고 : '+'<b>' + list[a].gameoption+'줄 </b>' ; break;
+						case "주사위 던지기" : str += '주사위 숫자가 큰 사람이 <b>' + (list[a].gameoption ? '승리' : '패배') +'</b>'; break; 
+						case "사다리 타기" : str += '방 접속시 공개' ; break;
+						case "해적 룰렛" : str += '당첨 칼을 꽂는 사람이 <b>' + (list[a].gameoption ? '승리' : '패배') + '</b>'; break; 
+					}
+					str += '</div>'+
 					'<div>'+
 						'<span class="join" data-role="button" data-theme="a" data-icon="star">'+
 						'방 참가'+
@@ -236,13 +251,6 @@ function loadRoomList(start){
 	});
 }
 
-function viewGameOption(value){
-	$("#game_0").css("display","none");
-	$("#game_1").css("display","none");
-	$("#game_2").css("display","none");
-	$("#game_3").css("display","none");
-	$("#game_"+value).css("display","block");
-}
 function makeRoom(obj){
 	var data = {};
 	obj.find('input, select').each(function(){
@@ -254,7 +262,7 @@ function makeRoom(obj){
 		return;
 	}
 	$.ajax({type:"POST",url:"/roomlist/doMakeRoom/",data:data}).done(function(data){
-		switch(data){
+		switch(data){//data is room number
 			case '-1': 
 				alert("방 이름을 입력해 주세요.");
 				obj.find('input[name=name]').focus();
@@ -269,8 +277,7 @@ function makeRoom(obj){
 }
 
 function loadUserStatus(){
-	$.ajax({url:"/roomlist/getUserInfo/"})
-	.done(function(data){
+	$.ajax({url:"/roomlist/getUserInfo/"}).done(function(data){
 		if(!data) return;
 		var tmp = eval(data);
 		tmp=tmp[0];
@@ -282,6 +289,18 @@ function loadUserStatus(){
 		$('#bingoTotal').html(tmp['total']);
 		$('#bingoWin').html(tmp['win']);
 		$('#bingoLose').html(tmp['total'] - tmp['win']);
+
+		$('#diceTotal').html(tmp['total']);
+		$('#diceWin').html(tmp['win']);
+		$('#diceLose').html(tmp['total'] - tmp['win']);
+
+		$('#ladderTotal').html(tmp['total']);
+		$('#ladderWin').html(tmp['win']);
+		$('#ladderLose').html(tmp['total'] - tmp['win']);
+
+		$('#pirateTotal').html(tmp['total']);
+		$('#pirateWin').html(tmp['win']);
+		$('#pirateLose').html(tmp['total'] - tmp['win']);
 	});
 }
 

@@ -57,8 +57,8 @@ class Index extends CI_Controller {
 
 		$this->load->model('MemberDAO');
 		$result = $this->MemberDAO->insertUser($member);
-		if($result==1) echo 'true';
-		else echo 'false';
+		if($result==1)	echo 'true';
+		else 			echo 'false';
 	}
 
 	function isExistID(){

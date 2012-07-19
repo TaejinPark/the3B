@@ -19,9 +19,11 @@ class RoomList extends CI_Controller {
 		$keyword = $this->input->get('keyword');
 		$type = $this->input->get('type');
 
-		$typeReverseReplacer = array('빙고');
-
+		
+		$typeReverseReplacer = array('모두','빙고','주사위 던지기','사다리 타기','해적 룰렛');
+		
 		$list = $this->_getRoomList($start, 15, $keyword, $type);
+		
 		for($a=0,$loopa=sizeof($list); $a<$loopa; $a++){
 			$list[$a]->setGameType($typeReverseReplacer[$list[$a]->getGameType()]);
 			$list[$a]->setGameOption(unserialize($list[$a]->getGameOption()));
@@ -35,14 +37,19 @@ class RoomList extends CI_Controller {
 	}
 
 	function doMakeRoom(){
+		/*
+		$this->input->post(value) is "data" by submit:post from T3B.js .
+		data{name, maxuser,private,password,roomtype,gametype,gameoption_0~3}.
+		*/
 		$name = $this->input->post('name');
 		$maxuser = $this->input->post('maxuser');
 		$private = $this->input->post('private');
 		$password = $this->input->post('password');
 		$roomtype = $this->input->post('roomtype');
 		$gametype = $this->input->post('gametype');
-		$gameoption = $this->input->post('gameoption_'+$gametype);
-
+		$gameoption = $this->input->post('gameoption_'.$gametype);
+			
+		// make Room instance and fill values
 		$room = new Room();
 		$room->setName($name);
 		$room->setGameType($gametype);
@@ -54,9 +61,11 @@ class RoomList extends CI_Controller {
 		$room->setStart(0);
 		$room->setOwner($this->session->userdata('member')->getUserID());
 
+		//call RoomDao class and do makeRoom function in RoomDao
 		$this->load->model('RoomDAO');
 		$result = $this->RoomDAO->makeRoom($room);
-		echo $result;
+
+		echo $result; //result is Room number (db : room)seq
 	}
 
 	function getUserInfo(){

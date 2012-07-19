@@ -30,7 +30,7 @@ class RoomDAO extends CI_Model{
 		return $room;
 	}
 
-	function makeRoom($data){
+	function makeRoom($data){//receive Room instance
 		$room = $this->_preProcessRoom($data);
 
 		if($room->getName()=="" || !$room->getName()) return -1;
@@ -59,7 +59,7 @@ class RoomDAO extends CI_Model{
 
 	function getRoomList($start=0, $limit=15, $keyword="",$type=0){ // 데이터 베이스로부터 조건에 따른 방 목록을 구함
 		if($keyword) $this->db->like('name',trim($keyword)); // 검색 키워드가 있으면 키워드 검색 조건에 추가
-		if($type) $this->db->where('gametype',(int)($type)); // 검색 키워드로 게임 형식이 있으면 검색 조건에
+		if($type)$this->db->where('gametype',(int)($type)); // 검색 키워드로 게임 형식이 있으면 검색 조건에
 		$result = $this->db->get('room',$limit,$start); // 쿼리 전송 및 $result에 쿼리 결과 저장
 
 		$data = array();
@@ -130,8 +130,9 @@ class RoomDAO extends CI_Model{
 	}
 
 	function _preProcessRoom($room){
-		$room->setName(trim($room->getName()));
-		if($room->getPassword()) $room->setPassword(md5($room->getPassword()));
+		$room->setName(trim($room->getName())); // eliminate blank or escape character like "\0 , \r , ' ' "
+		if($room->getPassword()) 
+			$room->setPassword(md5($room->getPassword()));
 		$room->setGameOption(serialize($room->getGameOption()));
 		return $room;
 	}

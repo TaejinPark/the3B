@@ -53,7 +53,7 @@ hr						{margin:10px 20px;}
 #participant_button		{float:left;}
 #chat_list_button		{float:left;}
 
-#gamedisplay			{display:none;}
+#gamedisplay			{display:block;}
 
 /* bingo css */
 #bingo table td a span	{width:25px;}

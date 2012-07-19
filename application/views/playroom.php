@@ -57,7 +57,7 @@ $opt = $room->getGameOption();
 			<!-- /room inform-->
 			<div id="room_info">
 				<div>참가자 : 
-					<span id="joinUsers"></span> / 
+					<span id="joinUsers"><?php echo $room->getCurrentUser(); ?></span> / 
 					<span id="maxUser"><?php echo $room->getMaxUser(); ?></span>
 				</div>
 				<div>게임 종류 : 
@@ -73,20 +73,28 @@ $opt = $room->getGameOption();
 						?>
 					</span>
 				</div>
-				<div>- 게임 옵션 -<br>
-					승리 빙고 : 
-					<span id="gameOption">
-							<?php echo $opt[0]; ?>줄
-					</span>
+				<div>게임 옵션 : 
 					<span id="gameOption">
 						<?php 
-							if($opt[0]) echo "승리"; 
-							else echo "패"
+							$opt = $room->getGameOption();
+							switch($room->getGameType();){
+								case 0: // 빙고
+									echo $opt[0] , " 줄 완성시 승리"; break;
+								case 1: // 주사위
+									echo "주사위 합이 큰 사람이"; 
+									if($opt[0]) echo "승리"; 
+									else echo "패배" ;
+									break;
+								case 2: // 사다리
+									echo "사다리"; break;
+
+								case 3: // 해적
+									echo "당첨 칼을 꽂는 사람이"; 
+									if($opt[0]) echo "승리"; 
+									else echo "패배" ;	
+									break;
+							}
 						?>
-					</span>
-					<span id="gameOption">
-							<?php echo $opt[0]; ?>줄
-					</span>
 				</div>
 				<a id="config_change" onclick="view_config('room_config');" type="button" data-inline="true;">설정 변경</a>
 			</div>
@@ -101,7 +109,7 @@ $opt = $room->getGameOption();
 					</div>
 					<div id="select_game_type">
 						<div>게임 종류</div>
-						<select name="select_game_type" data-native-menu="false">
+						<select id="select_game_type" name="select_game_type" data-native-menu="false" onchange="viewGameOption(value)">
 							<option value="bingo">빙고</option>
 							<option value="dice">주사위</option>
 							<option value="ladder">사다리</option>
@@ -111,8 +119,42 @@ $opt = $room->getGameOption();
 					<input type="hidden" name="select_game_type" value="bingo" />
 					<div id="bingo_option_line"data-role="fieldcontain">
 						<div>빙고 라인 갯수</div>
-					 	<input type="range" name="gameoption" value="<?php echo $opt[0]; ?>" min="2" max="8" data-theme="e"/>
+					 	<input type="range" name="gameoption" value="<?php echo $opt[0]; ?>" min="2" max="5" data-theme="e"/>
 					</div>
+
+					<div >
+						<span>게임 옵션</span>
+						<div>
+							<select name="select_game_type" data-native-menu="false" onchange="viewGameOption(value)">
+								<option value="0" selected="selected">빙고</option>
+								<option value="1">주사위</option>
+								<option value="2">사다리</option>
+								<option value="3">해적</option>
+							</select>
+						</div>
+						<div id="game_0">
+							<label for="gameoption_0">빙고 줄</label>
+							<input type="range" name="gameoption_0" id="gameoption_0" value="1" min="1" max="5" data-theme="a" data-track-theme="b"/>
+						</div>
+						<div id="game_1" class="dspn">
+							<span>주사위값이 더 큰 사람이</span>
+							<select id="gameoption_1" name="gameoption_1" data-role="slider" data-theme="a">
+								<option value="0">패자</option>
+								<option value="1">승자</option>
+							</select>
+						</div>
+						<div id="game_2" class="dspn" name="gameoption_2">
+							방 생성후 조건 입력 
+						</div>
+						<div id="game_3" class="dspn">
+							<span>당첨 칼을 꽂는 사람이</span>
+							<select id="gameoption_3" name="gameoption_3" data-role="slider" data-theme="a">
+								<option value="0">패자</option>
+								<option value="1">승자</option>
+							</select> 
+						</div>
+					</div>
+
 					<a id="config_confirm" type="button" data-inline="true;">적용</a>
 				</div>
 			</div>
@@ -126,17 +168,17 @@ $opt = $room->getGameOption();
 				<div></div>
 				<input type="text" />
 			</div>
+
+			<!-- /game display-->
 			<div id="gamedisplay">
-				
-				<!-- pirate game -->
-					<div id="pirate">
-						해적통
-						<canvas>
-							this browser is not support canvas element.<br>
-							이 브라우저는 캔바스를 지원하지 않습니다.
-						</canvas>
-					</div>
-				<!-- pirate game -->
+				<!-- /game message-->
+				<div id="messageWindow"></div>
+				<div id="turn">
+					<div class="turnuser">현재 순서 아이디</div>
+					<div><a data-role="button" data-icon="arrow-r" data-iconpos="notext" data-theme="a" data-inline="true">unfold</a></div>
+					<div class="turnuser textalignright"> 다음 순서 아이디</div>
+				</div>
+				<!-- /game message-->
 
 				<!-- /dice game-->
 				<div id="dice">
@@ -155,7 +197,16 @@ $opt = $room->getGameOption();
 					</div>
 				</div>
 				<!-- /dice game-->
-					
+
+				<!-- pirate game -->
+					<div id="pirate">
+						<canvas>
+							this browser is not support canvas element.<br>
+							이 브라우저는 캔바스를 지원하지 않습니다.
+						</canvas>
+					</div>
+				<!-- pirate game -->
+
 				<!-- /ladder game-->
 					사다리 타기
 					<canvas>
@@ -166,12 +217,7 @@ $opt = $room->getGameOption();
 
 				<!-- /bingo game-->
 				<div id="bingo">
-					<div id="messageWindow"></div>
-					<div id="turn">
-						<div class="turnuser">현재 순서 아이디</div>
-						<div><a data-role="button" data-icon="arrow-r" data-iconpos="notext" data-theme="a" data-inline="true">unfold</a></div>
-						<div class="turnuser textalignright"> 다음 순서 아이디</div>
-					</div>
+					
 					<table id="bingoTable">
 						<tr>
 							<td><a data-role="button" data-mini="true" data-inline="true" data-theme="b">x</a></td>
@@ -221,9 +267,9 @@ $opt = $room->getGameOption();
 						<a data-role="button" data-mini="true" data-inline="true" data-theme="b">선택 완료</a><!-- 게임 중일 경우 -->
 					</div>
 				</div>
+				<!-- /bingo game -->
 			</div>
-			<!-- /bingo game -->
-			
+			<!-- /game display-->
 			<div id="gameResult">
 			</div>
 

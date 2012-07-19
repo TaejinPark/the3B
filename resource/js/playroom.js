@@ -82,6 +82,14 @@ function viewParticipant(){
 	$("#participant_list").css('display','block');
 }
 
+function viewGameOption(value){
+	$("#game_0").css("display","none");
+	$("#game_1").css("display","none");
+	$("#game_2").css("display","none");
+	$("#game_3").css("display","none");
+	$("#game_"+value).css("display","block");
+}
+
 /* websocket */
 
 var socket;
