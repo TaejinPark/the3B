@@ -13,6 +13,7 @@
 		<script type="text/javascript">
 		var currentStart = 0; // current searching room index
 		$(document).ready(function(){
+			viewRoomListInit();
 			loadRoomList(0);// initialy view max 15 rooms 
 			$('select[name=find_room_by_type]').change(function(){currentStart=0;loadRoomList(0);}); // fillter room list by gametype of rooms
 			$('span.reload').click(function(){currentStart=0;loadRoomList(0);}); // refresh room list

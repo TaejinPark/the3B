@@ -20,7 +20,7 @@ class RoomList extends CI_Controller {
 		$type = $this->input->get('type');
 
 		
-		$typeReverseReplacer = array('모두','빙고','주사위 던지기','사다리 타기','해적 룰렛');
+		$typeReverseReplacer = array('모두','빙고','주사위','사다리','해적');
 		
 		$list = $this->_getRoomList($start, 15, $keyword, $type);
 		

@@ -1,3 +1,4 @@
+body {overflow-y: hidden;}
 
 #header	div			{margin:0px;}
 #header_cofing		{margin:0px; padding:0px;}
@@ -24,7 +25,7 @@
 #content			{margin:0px; padding:0px;}
 
 #chat					{margin:10px 20px 10px 10px;}
-hr						{margin:10px 20px;}
+
 #participant_list		{margin:0px; padding:10px 0px; display:none;}
 
 #chat_input_form		{width:100%; clear:both;}

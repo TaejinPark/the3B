@@ -26,6 +26,7 @@ class RoomDAO extends CI_Model{
 		$room->setGameOption(unserialize($data->gameoption));
 		$room->setRoomType($data->roomtype);
 		$room->setOwner($data->owner);
+		$room->setStart($data->start);
 
 		return $room;
 	}
@@ -64,17 +65,18 @@ class RoomDAO extends CI_Model{
 
 		$data = array();
 		foreach( $result->result() as $row){ // 쿼리로 날아온 데이터를 Room instance로 변환 및 저장
-			$tmp = new Room();					// Room instance 생성
-			$tmp->setRoomSeq($row->room_seq); 	// 방 번호
-			$tmp->setName($row->name); 			// 방 이름
-			$tmp->setMaxUser($row->maxuser);	// 게임 참가 최대 인원
-			$tmp->setPrivate($row->private);	// 비공개 여부
-			$tmp->setPassword($row->password);	// 비밀번호 여부
-			$tmp->setGameType($row->gametype);	// 게임 종류
-			$tmp->setGameOption($row->gameoption);	// 게임 옵션
-			$tmp->setRoomType($row->roomtype);	// 임시방, 일반방
-			$tmp->setOwner($row->owner);		// 방장 정보
-			$data[] = $tmp;						// Room instance 를 배열에 저장
+			$tmp = new Room();					// make new Room instance
+			$tmp->setRoomSeq($row->room_seq); 	// room sequence number
+			$tmp->setName($row->name); 			// room name
+			$tmp->setMaxUser($row->maxuser);	// max number of participant
+			$tmp->setPrivate($row->private);	// unclose / close 
+			$tmp->setPassword($row->password);	// password
+			$tmp->setGameType($row->gametype);	// game type
+			$tmp->setGameOption($row->gameoption);	// game option
+			$tmp->setRoomType($row->roomtype);	// temporary / normal room
+			$tmp->setOwner($row->owner);		// room owner name
+			$tmp->setStart($row->start);		// play / non-play
+			$data[] = $tmp;						// save room instance in array
 		}
 
 		for($a=0,$loopa=sizeof($data); $a<$loopa; $a++){ // 각 방에 접속해 있는 사용자의 숫자를 구하여 Room instance에 저장

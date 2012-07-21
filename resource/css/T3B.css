@@ -1,4 +1,6 @@
 * {margin:0px; padding:0px;}
+body {overflow-y: hidden;}
+
 .clear { clear: both; }
 .fl { float: left; }
 
@@ -45,14 +47,14 @@
 #makeroom .title div { margin: 0 auto; width: 200px; text-align: center; }
 
 #RoomList img { width: 24px; height: 24px; }
-#RoomList img, #RoomList h3 .user, #RoomList h3 .gametype { float:right; margin:0px 5px; }
+#RoomList h3 .gametype { float:right; margin:0px; }
 #RoomList .join { padding:0px; margin:0px; }
 
 #refresh_icon .reload { padding:0px;margin:0px; }
 #find_room_by_type { margin-right:3px; }
 #make_icon > span { margin:0px; }
 #search_rooms { margin-right:3px; padding-top:2px; }
-#RoomList .roomnumber { display: none; }
+
 #withdraw {}
 
 .dspn {display:none;}
