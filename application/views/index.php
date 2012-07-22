@@ -12,7 +12,6 @@
 		<script>
 		$("div[data-role='page']").live("pageshow",function(event){
 			$('#join input').blur(vaildForm);
-			traceFormPosition();
 			$(".login").click(function(){view_join_login('login');});	// display / non-display login form
 			$(".join").click(function(){view_join_login('join');});	// display / non-display join form
 			$(".guest").click(function(){doGuestLogin();}); // do login as guest
@@ -23,7 +22,7 @@
 		</script>
 	</head>
 	
-	<body id="body" onload="traceFromPosition()">
+	<body id="body">
 	<div data-role="page" class="type-interior">
 		
 		<!-- /header -->

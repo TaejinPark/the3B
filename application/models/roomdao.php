@@ -8,6 +8,17 @@ class RoomDAO extends CI_Model{
 		$this->load->database();
 	}
 
+	function checkRoomPasswd($room_seq,$passwd){
+		$password = md5($passwd);
+
+		
+		$this->db->where('room_seq',$room_seq);
+		$this->db->where('password',$password);
+		$this->db->select('count(*)'); 
+		$result = $this->db->get('room');
+		return $result->result();
+	}
+
 	function getRoom($room_seq){
 		$this->db->where('room_seq',$room_seq)->from('room');
 		

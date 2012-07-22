@@ -25,7 +25,10 @@ class RoomList extends CI_Controller {
 		$list = $this->_getRoomList($start, 15, $keyword, $type);
 		
 		for($a=0,$loopa=sizeof($list); $a<$loopa; $a++){
-			$list[$a]->setGameType($typeReverseReplacer[$list[$a]->getGameType()]);
+			//password exist or not
+			if($list[$a]->getPassword())$list[$a]->setPassword(1);
+			else 						$list[$a]->setPassword(0);
+			$list[$a]->setGameType($typeReverseReplacer[$list[$a]->getGameType()]); //replace gametype number to string
 			$list[$a]->setGameOption(unserialize($list[$a]->getGameOption()));
 		}
 		echo json_encode($list);
@@ -78,6 +81,15 @@ class RoomList extends CI_Controller {
 		foreach($tmp[0] as $key => $val)
 			$data[$key] = (int)$val;
 		echo json_encode(array($data));
+	}
+
+	function checkRoomPasswd(){
+		$passwd = $this->input->post('passwd');
+		$room_seq = $this->input->post('room_seq');
+		
+		$this->load->model('RoomDAO');
+		$result = $this->RoomDAO->checkRoomPasswd($room_seq,$passwd);
+		echo json_encode($result);
 	}
 
 	function doLogout(){

@@ -77,7 +77,7 @@ $opt = $room->getGameOption();
 					<span id="gameOption">
 						<?php 
 							$opt = $room->getGameOption();
-							switch($room->getGameType();){
+							switch($room->getGameType()){
 								case 0: // 빙고
 									echo $opt[0] , " 줄 완성시 승리"; break;
 								case 1: // 주사위
@@ -87,7 +87,6 @@ $opt = $room->getGameOption();
 									break;
 								case 2: // 사다리
 									echo "사다리"; break;
-
 								case 3: // 해적
 									echo "당첨 칼을 꽂는 사람이"; 
 									if($opt[0]) echo "승리"; 

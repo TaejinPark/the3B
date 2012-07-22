@@ -5,9 +5,9 @@ body {overflow-y: hidden;}
 #header_config h3	{margin:0px 1px; padding:0px;}
 #header_config h3 a {width:99.5%;}
 
-#room_info				{display: none; padding-bottom:10px; border-bottom:solid 4px; margin:10px;}
+#room_info				{display: none; padding-bottom:10px; border:solid 4px; margin:10px;}
 #room_info	> div		{margin:10px;}
-#room_config > div		{padding-bottom:10px; border-bottom:solid 4px; margin:10px;}
+#room_config > div		{padding:5px; border:solid 4px; margin:10px;}
 #room_config			{display:none;}
 #select_game_type		{margin:10px 20px;}
 #participant_num		{margin:0px 20px;}
@@ -54,7 +54,7 @@ body {overflow-y: hidden;}
 #participant_button		{float:left;}
 #chat_list_button		{float:left;}
 
-#gamedisplay			{display:block;}
+#gamedisplay			{display:none;}
 
 /* bingo css */
 #bingo table td a span	{width:25px;}

@@ -1,15 +1,18 @@
 //page view control
+var buttonFlag = false ;
 
 $(window).resize(function() {
 	viewRoomListInit();
-	traceFormPosition();
+	formPosition();
 	resizeContent();
+	
 });
 
 $("div[data-role='page']").live( "pageshow", function( event )
 {
 	viewRoomListInit();
     resizeContent();
+    formPosition();
 });
 
 function resizeContent()
@@ -27,28 +30,14 @@ function resizeContent()
 		$("#content").css("height" , browserHeight - headerHeight );
 }
 
-var buttonFlag = false ;	
-var interval;
-function traceFormPosition(){
-	interval = setInterval(formPosition,1);
-};
-
 // url : index
 
 function formPosition(){ // set form position about "login" and "join" input 
 	var Y = getNowScroll().Y;
 	var height;
-	var obj;
-	obj = document.getElementById("header");
-	height = $(obj).height();
-	obj = document.getElementById("join");
-	if(!obj){
-		clearInterval(interval);
-		return;
-	}
-	obj.style.top = Y+height+'px';
-	obj = document.getElementById("login");
-	obj.style.top = Y+height+'px';
+	height = $("#header").height();
+	$("#join").css("top", Y+height+'px');
+	$("#login").css("top", Y+height+'px');
 }
 
 function getNowScroll(){ // get current x,y coordinate of scroll-bar position 
@@ -122,7 +111,7 @@ function vaildForm(){ // check input values
 	}
 }
 
-function doJoin(form){
+function doJoin(form){ // join
 	var obj = $(form);
 	var id = obj.find('input[name=id]').val();
 	var pw = obj.find('input[name=pw]').val();
@@ -142,7 +131,7 @@ function doJoin(form){
 	});
 }
 
-function doGuestLogin(){
+function doGuestLogin(){ //join as guest
 	$.ajax({type:"POST",url:"/index/doGuestLogin/"})
 	.done(function(data){
 		if(data=='existslogin'){
@@ -156,40 +145,32 @@ function doGuestLogin(){
 
 // url: /roomlist/
 
-function viewRoomListInit(){
+function viewRoomListInit(){ // initial display setting
 	var obj = $("#make_icon");
 	var width = $("#make_icon").children("span").width();
 	var obj2 = $("#find_room_by_type");
 
-	if(navigator.userAgent.indexOf('Windows') != -1)
-		obj2.css("width" , $("#content").width() - width -30);
-	else
-		obj2.css("width" , $("#content").width() - width -15);
+	if(navigator.userAgent.indexOf('Windows') != -1)	obj2.css("width" , $("#content").width() - width -30); // windows os
+	else												obj2.css("width" , $("#content").width() - width -15); // others
 	obj.width(obj.children('span').width());
 	
 	obj = $("#refresh_icon");
 	width = obj.children("span").width();
 	obj2 = $("#search_rooms");
-	if(navigator.userAgent.indexOf('Windows') != -1)
-		obj2.css("width" , $("#content").width() - width -30);
-	else
-		obj2.css("width" , $("#content").width() - width -15);
+	if(navigator.userAgent.indexOf('Windows') != -1)	obj2.css("width" , $("#content").width() - width -30); // windows os
+	else												obj2.css("width" , $("#content").width() - width -15); // others
 	obj.width(obj.children("span").width());
 }
 
-function viewRoomListMenu(element){
+function viewRoomListMenu(element){ // select an menu at room list page
 	$("#roomlist").css("display","none");
 	$("#status").css("display", "none");
 	$("#makeroom").css("display", "none");
 	var obj = document.getElementById(element);
 	
-	if(obj.style.display == "none")
-		obj.style.display = "block";
-	else
-		obj.style.display = "none";
-	if(element=="status"){
-		loadUserStatus();
-	}
+	if(obj.style.display == "none")	obj.style.display = "block";
+	else							obj.style.display = "none";
+	if(element=="status")			loadUserStatus();
 	buttonFlag = true;
 }
 
@@ -202,52 +183,72 @@ function loadRoomList(start){
 		if(list.length==0) $('#roomlist > a').css('display','none');
 		var str = '';
 		for(var a=0,loopa=list.length; a<loopa; a++){
-			str +='<div data-role="collapsible" data-collapsed="true" data-content-theme="e">'+
-				'<h3>'+
-					'[<span class="roomnumber">'+list[a].room_seq+'</span>]<span> '+list[a].name+'</span>'+ // room sequence
-					'<span class="gametype">'+
-					'[<span> '+list[a].currentuser+' / '+list[a].maxuser+' </span>]&nbsp;'+ // user number
-					'<img src="/resource/img/'+(parseInt(list[a].start) ? 'playing' : 'waiting')+'_icon.png"/>&nbsp;'; // playing / non-playing
-				
+			if(parseInt(list[a]["private"])) continue ; // privacy room is non-displayed
+			str+='<div data-role="collapsible" data-collapsed="true" data-content-theme="e">'+
+					'<h3>'+
+						'[<span class="roomnumber">'+list[a].room_seq+'</span>]<span> '+list[a].name+'</span>'+ // room sequence
+						'<span class="gametype">'+
+							'[<span> '+list[a].currentuser+' / '+list[a].maxuser+' </span>]&nbsp;'+ // user number
+							'<img src="/resource/img/'+(parseInt(list[a].start) ? 'playing' : 'waiting')+'_icon.png"/>&nbsp;'; // playing / non-playing
+					
 			switch(list[a].gametype){
-				case "빙고" : str += '<img src="/resource/img/bingo_icon.png"/>'; break;
-				case "주사위" : str += '<img src="/resource/img/dice_icon.png"/>'; break;
-				case "사다리" : str += '<img src="/resource/img/ladder_icon.png"/>'; break;
-				case "해적" : str += '<img src="/resource/img/pirate_icon.png"/>'; break;
+				case "빙고" : 	str += '<img src="/resource/img/bingo_icon.png"/>'; break;
+				case "주사위" : 	str += '<img src="/resource/img/dice_icon.png"/>'; break;
+				case "사다리" : 	str += '<img src="/resource/img/ladder_icon.png"/>'; break;
+				case "해적" : 	str += '<img src="/resource/img/pirate_icon.png"/>'; break;
 			}
-				str+=	'&nbsp;'+
-						'<img src="/resource/img/'+(parseInt(list[a]["private"]) ? 'lock':'unlock')+'_icon.png"/>'+
-					'</span>'+
-				'</h3>'+
-				'<p>'+
+			str+=	'&nbsp;'+
+							'<img class="lock" src="/resource/img/'+(list[a].password ? 'lock':'unlock')+'_icon.png"/>'+
+						'</span>'+
+					'</h3>'+
+					'<p>'+
 					'<div>참가자 : '+
 						'<span>'+list[a].currentuser+'</span>/'+
 						'<span>'+list[a].maxuser+'</span>'+
 					'</div>'+
-					'<div>게임 종류 : '+
-						'<span>'+list[a].gametype+'</span>'+
-					'</div>'+
+						'<div>게임 종류 : '+
+							'<span>'+list[a].gametype+'</span>'+
+						'</div>'+
 					'<div>게임 옵션 : ';
+
 			switch(list[a].gametype){
-				case "빙고" : str += '승리 빙고 : '+'<b>' + list[a].gameoption+'줄 </b>' ; break;
-				case "주사위" : str += '주사위 숫자가 큰 사람이 <b>' + (list[a].gameoption ? '승리' : '패배') +'</b>'; break; 
-				case "사다리" : str += '방 접속시 공개' ; break;
-				case "해적" : str += '당첨 칼을 꽂는 사람이 <b>' + (list[a].gameoption ? '승리' : '패배') + '</b>'; break; 
+				case "빙고" : 	str += '승리 빙고 : '+'<b>' + list[a].gameoption+'줄 </b>' ; break;
+				case "주사위" : 	str += '주사위 숫자가 큰 사람이 <b>' + (list[a].gameoption ? '승리' : '패배') +'</b>'; break; 
+				case "사다리" : 	str += '방 접속시 공개' ; break;
+				case "해적" : 	str += '당첨 칼을 꽂는 사람이 <b>' + (list[a].gameoption ? '승리' : '패배') + '</b>'; break; 
 			}
-			str +=	'</div>'+ 
-					'<div>';
+			str +=	'</div>';
+					
+			if(list[a].password)str += '<input class="password" type="text" data-role="input" data-theme="a" placeholder="비밀번호를 입력해 주세요." value=""></input>';
+			else 				str += '<div>' ;
+			
 			if(!parseInt(list[a].start))
-				str +='<span class="join" data-role="button" data-theme="a" data-icon="star">방 참가</span>';
+				str +='<button class="join" data-role="button" data-theme="a" data-icon="star">방 참가</button></div>';
 			str += '</div>'+
-				'</p>'+
-			'</div>';
+					'</p>'+
+				'</div>';
 		}
 		if(start==0) {
 			$('#RoomList').html(str).parent().trigger("create");
 			$('#roomlist > a').css('display','block');
 		} else $('#RoomList').append(str).parent().trigger("create");
 		$('#RoomList .join').unbind('click').click(function(){
-			location.href="/game/index/"+$(this).parent().parent().parent().find('.roomnumber').text()+'/';
+			var room_seq = 0 ;
+			var passwd = 0 ;
+			var permission 	= 1 ;
+			var lock 		= $(this).parent().parent().parent().parent().find('.lock').attr('src') ; // get locked / unlocked room
+			if(lock == "/resource/img/lock_icon.png"){
+				room_seq= parseInt($(this).parent().parent().parent().find('.roomnumber').text()); // get room sequence number
+				passwd 	= $(this).parent().parent().parent().find('.password').attr('value'); // get room password
+				if(!passwd){
+					alert("비밀번호를 입력해 주세요")
+					$(this).parent().parent().parent().parent().find('.password').focus(); // focus on password input element
+				}
+				$.ajax({type:"POST",url:"/roomlist/checkRoomPasswd/",data:{passwd:passwd,room_seq:room_seq}}).done(function(check){ // compare user input password with room password
+					if(parseInt(check[14])==1)	location.href="/game/index/"+room_seq+'/'; // go room
+					else				alert("비밀번호가 일치하지 않습니다."); // not match
+				});
+			}else location.href="/game/index/"+parseInt($(this).parent().parent().parent().parent().find('.roomnumber').text())+'/'; // go game room
 		});
 	});
 }
@@ -275,8 +276,8 @@ function makeRoom(obj){
 		}
 	});
 }
-
-function loadUserStatus(){ // not yet implementation
+/******************************************************************/
+function loadUserStatus(){ // not yet implementation 
 	$.ajax({url:"/roomlist/getUserInfo/"}).done(function(data){
 		if(!data) return;
 		var tmp = eval(data);
@@ -304,8 +305,8 @@ function loadUserStatus(){ // not yet implementation
 		$('#pirateLose').html(tmp['total'] - tmp['win']);
 	});
 }
-
-function doLogout(){
+/******************************************************************/
+function doLogout(){ // log out
 	$.ajax({url:"/roomlist/doLogout/"})
 	.done(function(){
 		alert("로그아웃 되었습니다~");
@@ -313,8 +314,7 @@ function doLogout(){
 	});
 }
 
-
-function viewGameOption(value){
+function viewGameOption(value){ // view game option 
 	$("#game_1").css("display","none");
 	$("#game_2").css("display","none");
 	$("#game_3").css("display","none");

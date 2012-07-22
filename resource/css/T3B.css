@@ -28,6 +28,8 @@ body {overflow-y: hidden;}
 .menu { float: right; }
 #footer div { width: 120px; margin: 0 auto;}
 
+.password {margin:10px 0px;}
+
 #makeroom {margin-right:10px;}
 
 #content { width: 100%; padding:0px; }

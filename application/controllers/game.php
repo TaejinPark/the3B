@@ -12,7 +12,7 @@ class Game extends CI_Controller {
 	public function index($room_seq) {
 		$this->load->model('RoomDAO');
 		$room = $this->RoomDAO->getRoom($room_seq);
-		if($room->getRoomSeq()!=$room_seq){
+		if($room->getRoomSeq() != $room_seq){
 			$this->load->helper('url');
 			redirect('/roomlist/');
 			return;
