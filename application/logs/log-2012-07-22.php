@@ -14899,3 +14899,5487 @@ DEBUG - 2012-07-22 18:31:01 --> Model Class Initialized
 DEBUG - 2012-07-22 18:31:01 --> Model Class Initialized
 DEBUG - 2012-07-22 18:31:01 --> Final output sent to browser
 DEBUG - 2012-07-22 18:31:01 --> Total execution time: 0.0857
+DEBUG - 2012-07-22 18:36:15 --> Config Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:36:15 --> URI Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> Router Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> Output Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> Security Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> Input Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:36:15 --> Language Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> Session Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:36:15 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> Session routines successfully run
+DEBUG - 2012-07-22 18:36:15 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> Model Class Initialized
+DEBUG - 2012-07-22 18:36:15 --> Model Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> Config Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:36:23 --> URI Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> Router Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> Output Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> Security Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> Input Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:36:23 --> Language Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> Session Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:36:23 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> Session routines successfully run
+DEBUG - 2012-07-22 18:36:23 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:36:23 --> Final output sent to browser
+DEBUG - 2012-07-22 18:36:23 --> Total execution time: 0.0276
+DEBUG - 2012-07-22 18:36:25 --> Config Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:36:25 --> URI Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> Router Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> No URI present. Default controller set.
+DEBUG - 2012-07-22 18:36:25 --> Output Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> Security Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> Input Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:36:25 --> Language Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> Session Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:36:25 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> Session routines successfully run
+DEBUG - 2012-07-22 18:36:25 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:36:25 --> File loaded: application/views/index.php
+DEBUG - 2012-07-22 18:36:25 --> Final output sent to browser
+DEBUG - 2012-07-22 18:36:25 --> Total execution time: 0.0219
+DEBUG - 2012-07-22 18:36:30 --> Config Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:36:30 --> URI Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Router Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Output Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Security Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Input Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:30 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:30 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:36:30 --> Language Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Session Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:36:30 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Session routines successfully run
+DEBUG - 2012-07-22 18:36:30 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Model Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Model Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Final output sent to browser
+DEBUG - 2012-07-22 18:36:30 --> Total execution time: 0.0330
+DEBUG - 2012-07-22 18:36:30 --> Config Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:36:30 --> URI Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Router Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Output Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Security Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Input Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:36:30 --> Language Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Session Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:36:30 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Session routines successfully run
+DEBUG - 2012-07-22 18:36:30 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> File loaded: application/views/room_list.php
+DEBUG - 2012-07-22 18:36:30 --> Final output sent to browser
+DEBUG - 2012-07-22 18:36:30 --> Total execution time: 0.0208
+DEBUG - 2012-07-22 18:36:30 --> Config Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:36:30 --> URI Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Router Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Output Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Security Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Input Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:30 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:30 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:30 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:36:30 --> Language Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Session Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:36:30 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Session routines successfully run
+DEBUG - 2012-07-22 18:36:30 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Model Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Model Class Initialized
+DEBUG - 2012-07-22 18:36:30 --> Final output sent to browser
+DEBUG - 2012-07-22 18:36:30 --> Total execution time: 0.0286
+DEBUG - 2012-07-22 18:36:37 --> Config Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:36:37 --> URI Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Router Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Output Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Security Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Input Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:37 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:37 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:36:37 --> Language Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Session Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:36:37 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Session routines successfully run
+DEBUG - 2012-07-22 18:36:37 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Model Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Model Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Final output sent to browser
+DEBUG - 2012-07-22 18:36:37 --> Total execution time: 0.0230
+DEBUG - 2012-07-22 18:36:37 --> Config Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:36:37 --> URI Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Router Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Output Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Security Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Input Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:36:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:36:37 --> Language Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Session Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:36:37 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Session routines successfully run
+DEBUG - 2012-07-22 18:36:37 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Model Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> Model Class Initialized
+DEBUG - 2012-07-22 18:36:37 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 18:36:37 --> Final output sent to browser
+DEBUG - 2012-07-22 18:36:37 --> Total execution time: 0.0229
+DEBUG - 2012-07-22 18:50:20 --> Config Class Initialized
+DEBUG - 2012-07-22 18:50:20 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:50:20 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:50:20 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:50:20 --> URI Class Initialized
+DEBUG - 2012-07-22 18:50:20 --> Router Class Initialized
+DEBUG - 2012-07-22 18:50:20 --> Output Class Initialized
+DEBUG - 2012-07-22 18:50:20 --> Security Class Initialized
+DEBUG - 2012-07-22 18:50:20 --> Input Class Initialized
+DEBUG - 2012-07-22 18:50:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:50:20 --> Language Class Initialized
+DEBUG - 2012-07-22 18:50:20 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:50:20 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:50:20 --> Session Class Initialized
+DEBUG - 2012-07-22 18:50:20 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:50:20 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:50:20 --> A session cookie was not found.
+DEBUG - 2012-07-22 18:50:20 --> Session routines successfully run
+DEBUG - 2012-07-22 18:50:20 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Config Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:56:42 --> URI Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Router Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Output Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Security Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Input Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:56:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:56:42 --> Language Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Session Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:56:42 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Session routines successfully run
+DEBUG - 2012-07-22 18:56:42 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Model Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> Model Class Initialized
+DEBUG - 2012-07-22 18:56:42 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 18:56:42 --> Final output sent to browser
+DEBUG - 2012-07-22 18:56:42 --> Total execution time: 0.0316
+DEBUG - 2012-07-22 18:56:43 --> Model Class Initialized
+DEBUG - 2012-07-22 18:56:43 --> Model Class Initialized
+DEBUG - 2012-07-22 18:56:43 --> Model Class Initialized
+DEBUG - 2012-07-22 18:56:43 --> Model Class Initialized
+ERROR - 2012-07-22 18:56:43 --> Severity: Notice  --> Undefined index: 11 /home/pirtaja/the3B/application/controllers/server.php 102
+DEBUG - 2012-07-22 18:57:25 --> Config Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:57:25 --> URI Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> Router Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> Output Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> Security Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> Input Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:57:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:57:25 --> Language Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> Session Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:57:25 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> Session routines successfully run
+DEBUG - 2012-07-22 18:57:25 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:57:25 --> File loaded: application/views/room_list.php
+DEBUG - 2012-07-22 18:57:25 --> Final output sent to browser
+DEBUG - 2012-07-22 18:57:25 --> Total execution time: 0.0294
+DEBUG - 2012-07-22 18:57:26 --> Config Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:57:26 --> URI Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Router Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Output Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Security Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Input Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:57:26 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:57:26 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:57:26 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:57:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:57:26 --> Language Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Session Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:57:26 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Session routines successfully run
+DEBUG - 2012-07-22 18:57:26 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Model Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Model Class Initialized
+DEBUG - 2012-07-22 18:57:26 --> Final output sent to browser
+DEBUG - 2012-07-22 18:57:26 --> Total execution time: 0.0336
+DEBUG - 2012-07-22 18:58:35 --> Config Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:58:35 --> URI Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> Router Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> Output Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> Security Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> Input Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:58:35 --> Language Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> Session Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:58:35 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> Session routines successfully run
+DEBUG - 2012-07-22 18:58:35 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:58:35 --> Final output sent to browser
+DEBUG - 2012-07-22 18:58:35 --> Total execution time: 0.0285
+DEBUG - 2012-07-22 18:58:37 --> Config Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:58:37 --> URI Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> Router Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> No URI present. Default controller set.
+DEBUG - 2012-07-22 18:58:37 --> Output Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> Security Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> Input Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:58:37 --> Language Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> Session Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:58:37 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> Session routines successfully run
+DEBUG - 2012-07-22 18:58:37 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> File loaded: application/views/index.php
+DEBUG - 2012-07-22 18:58:37 --> Final output sent to browser
+DEBUG - 2012-07-22 18:58:37 --> Total execution time: 0.0195
+DEBUG - 2012-07-22 18:58:37 --> Config Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:58:37 --> URI Class Initialized
+DEBUG - 2012-07-22 18:58:37 --> Router Class Initialized
+ERROR - 2012-07-22 18:58:37 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-07-22 18:58:40 --> Config Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:58:40 --> URI Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Router Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Output Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Security Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Input Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:40 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:58:40 --> Language Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Session Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:58:40 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Session routines successfully run
+DEBUG - 2012-07-22 18:58:40 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:40 --> Final output sent to browser
+DEBUG - 2012-07-22 18:58:40 --> Total execution time: 0.0240
+DEBUG - 2012-07-22 18:58:43 --> Config Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:58:43 --> URI Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Router Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Output Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Security Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Input Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:43 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:58:43 --> Language Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Config Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Session Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:58:43 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Session routines successfully run
+DEBUG - 2012-07-22 18:58:43 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:58:43 --> URI Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Final output sent to browser
+DEBUG - 2012-07-22 18:58:43 --> Total execution time: 0.0369
+DEBUG - 2012-07-22 18:58:43 --> Router Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Output Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Security Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Input Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:43 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:43 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:43 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:58:43 --> Language Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Session Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:58:43 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Session routines successfully run
+DEBUG - 2012-07-22 18:58:43 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:43 --> Final output sent to browser
+DEBUG - 2012-07-22 18:58:43 --> Total execution time: 0.0425
+DEBUG - 2012-07-22 18:58:49 --> Config Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:58:49 --> URI Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Router Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Output Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Security Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Input Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:49 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:49 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:58:49 --> Language Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Session Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:58:49 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Session routines successfully run
+DEBUG - 2012-07-22 18:58:49 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Final output sent to browser
+DEBUG - 2012-07-22 18:58:49 --> Total execution time: 0.0271
+DEBUG - 2012-07-22 18:58:49 --> Config Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:58:49 --> URI Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Router Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Output Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Security Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Input Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:58:49 --> Language Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Session Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:58:49 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Session routines successfully run
+DEBUG - 2012-07-22 18:58:49 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> File loaded: application/views/room_list.php
+DEBUG - 2012-07-22 18:58:49 --> Final output sent to browser
+DEBUG - 2012-07-22 18:58:49 --> Total execution time: 0.0211
+DEBUG - 2012-07-22 18:58:49 --> Config Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:58:49 --> URI Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Router Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Output Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Security Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Input Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:49 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:49 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:49 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:58:49 --> Language Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Session Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:58:49 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Session routines successfully run
+DEBUG - 2012-07-22 18:58:49 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Final output sent to browser
+DEBUG - 2012-07-22 18:58:49 --> Total execution time: 0.0278
+DEBUG - 2012-07-22 18:58:49 --> Config Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:58:49 --> URI Class Initialized
+DEBUG - 2012-07-22 18:58:49 --> Router Class Initialized
+ERROR - 2012-07-22 18:58:49 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-07-22 18:58:53 --> Config Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:58:53 --> URI Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Router Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Output Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Security Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Input Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:53 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:53 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:58:53 --> Language Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Session Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:58:53 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Session routines successfully run
+DEBUG - 2012-07-22 18:58:53 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Final output sent to browser
+DEBUG - 2012-07-22 18:58:53 --> Total execution time: 0.0209
+DEBUG - 2012-07-22 18:58:53 --> Config Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:58:53 --> URI Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Router Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Output Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Security Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Input Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:58:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:58:53 --> Language Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Session Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:58:53 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Session routines successfully run
+DEBUG - 2012-07-22 18:58:53 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> Model Class Initialized
+DEBUG - 2012-07-22 18:58:53 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 18:58:53 --> Final output sent to browser
+DEBUG - 2012-07-22 18:58:53 --> Total execution time: 0.0225
+DEBUG - 2012-07-22 18:58:54 --> Config Class Initialized
+DEBUG - 2012-07-22 18:58:54 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:58:54 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:58:54 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:58:54 --> URI Class Initialized
+DEBUG - 2012-07-22 18:58:54 --> Router Class Initialized
+ERROR - 2012-07-22 18:58:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2012-07-22 18:58:54 --> Severity: Notice  --> Undefined variable: key1 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 18:58:54 --> Severity: Notice  --> Undefined variable: key2 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 18:58:54 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:58:55 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:58:55 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:58:56 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:58:56 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:58:57 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:58:57 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:58:58 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:58:58 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:58:59 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:58:59 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:00 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:00 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:01 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:01 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:02 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:02 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:03 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:03 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:04 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:04 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:05 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:05 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:06 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:06 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:07 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:07 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+DEBUG - 2012-07-22 18:59:08 --> Config Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:59:08 --> URI Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> Router Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> Output Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> Security Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> Input Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:59:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:59:08 --> Language Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> Session Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:59:08 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> Session routines successfully run
+DEBUG - 2012-07-22 18:59:08 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> Model Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> Model Class Initialized
+DEBUG - 2012-07-22 18:59:08 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 18:59:08 --> Final output sent to browser
+DEBUG - 2012-07-22 18:59:08 --> Total execution time: 0.0233
+ERROR - 2012-07-22 18:59:08 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:08 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:08 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:08 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:08 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:08 --> Severity: Notice  --> Undefined variable: key1 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 18:59:08 --> Severity: Notice  --> Undefined variable: key2 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 18:59:08 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:08 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+DEBUG - 2012-07-22 18:59:09 --> Config Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:59:09 --> URI Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> Router Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> Output Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> Security Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> Input Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:59:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:59:09 --> Language Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> Session Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:59:09 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> Session routines successfully run
+DEBUG - 2012-07-22 18:59:09 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> Model Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> Model Class Initialized
+DEBUG - 2012-07-22 18:59:09 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 18:59:09 --> Final output sent to browser
+DEBUG - 2012-07-22 18:59:09 --> Total execution time: 0.0234
+ERROR - 2012-07-22 18:59:09 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:09 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:09 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:09 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:10 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:10 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:10 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:10 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:10 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:10 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:10 --> Severity: Notice  --> Undefined variable: key1 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 18:59:10 --> Severity: Notice  --> Undefined variable: key2 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 18:59:10 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:10 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:10 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+DEBUG - 2012-07-22 18:59:10 --> Config Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:59:10 --> URI Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> Router Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> Output Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> Security Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> Input Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:59:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:59:10 --> Language Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> Session Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:59:10 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> Session routines successfully run
+DEBUG - 2012-07-22 18:59:10 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> Model Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> Model Class Initialized
+DEBUG - 2012-07-22 18:59:10 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 18:59:10 --> Final output sent to browser
+DEBUG - 2012-07-22 18:59:10 --> Total execution time: 0.0231
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Notice  --> Undefined variable: key1 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 18:59:11 --> Severity: Notice  --> Undefined variable: key2 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:11 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:12 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:12 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:12 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:12 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:12 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:12 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:12 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:12 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:13 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:13 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:13 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:13 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:13 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:13 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:13 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:13 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:14 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:14 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:14 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:14 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:14 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:14 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:14 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:14 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:15 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:15 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:15 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:15 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:15 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:15 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:15 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:15 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:16 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:16 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:16 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:16 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:16 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:16 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:16 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:16 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:17 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:17 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:17 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:17 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:17 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:17 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:17 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:17 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:18 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:18 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:18 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:18 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:18 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:18 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:18 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:18 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:19 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:19 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:19 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:19 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:19 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:19 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:19 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:19 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:20 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:20 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:20 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:20 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:20 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:20 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:20 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:20 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:21 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:21 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:21 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:21 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:21 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:21 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:21 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:21 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:22 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:22 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:22 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:22 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:22 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:22 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:22 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:22 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:23 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:23 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:23 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:23 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:23 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:23 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:23 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:23 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:24 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:24 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:24 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:24 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:24 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:24 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:24 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:24 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:25 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:25 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:25 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:25 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:25 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:25 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:25 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:25 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:26 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:26 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:26 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:26 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:26 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:26 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:26 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:26 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:27 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:27 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:27 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:27 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:27 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:27 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:27 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:27 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:28 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:28 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:28 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:28 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:28 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:28 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:28 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:28 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:29 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:29 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:29 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:29 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:29 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:29 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:29 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:29 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:30 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:30 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:30 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:30 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:30 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:30 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:30 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:30 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:31 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:31 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:31 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:31 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:31 --> Severity: Warning  --> socket_select(): 81 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:31 --> Severity: Warning  --> socket_select(): 146 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:31 --> Severity: Warning  --> socket_select(): 171 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:31 --> Severity: Warning  --> socket_select(): 208 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+DEBUG - 2012-07-22 18:59:32 --> Config Class Initialized
+DEBUG - 2012-07-22 18:59:32 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:59:32 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:59:32 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:59:32 --> URI Class Initialized
+DEBUG - 2012-07-22 18:59:32 --> Router Class Initialized
+DEBUG - 2012-07-22 18:59:32 --> Output Class Initialized
+DEBUG - 2012-07-22 18:59:32 --> Security Class Initialized
+DEBUG - 2012-07-22 18:59:32 --> Input Class Initialized
+DEBUG - 2012-07-22 18:59:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:59:32 --> Language Class Initialized
+DEBUG - 2012-07-22 18:59:32 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:59:32 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:59:32 --> Session Class Initialized
+DEBUG - 2012-07-22 18:59:32 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:59:32 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:59:32 --> A session cookie was not found.
+DEBUG - 2012-07-22 18:59:32 --> Session routines successfully run
+DEBUG - 2012-07-22 18:59:32 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Config Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:59:34 --> URI Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Router Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Output Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Security Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Input Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:59:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:59:34 --> Language Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Session Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:59:34 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Session routines successfully run
+DEBUG - 2012-07-22 18:59:34 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Model Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> Model Class Initialized
+DEBUG - 2012-07-22 18:59:34 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 18:59:34 --> Final output sent to browser
+DEBUG - 2012-07-22 18:59:34 --> Total execution time: 0.0306
+ERROR - 2012-07-22 18:59:35 --> Severity: Notice  --> Undefined variable: key1 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 18:59:35 --> Severity: Notice  --> Undefined variable: key2 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 18:59:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 18:59:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+DEBUG - 2012-07-22 18:59:59 --> Config Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> Hooks Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 18:59:59 --> URI Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> Router Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> Output Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> Security Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> Input Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> XSS Filtering completed
+DEBUG - 2012-07-22 18:59:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 18:59:59 --> Language Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> Loader Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> Session Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 18:59:59 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> Session routines successfully run
+DEBUG - 2012-07-22 18:59:59 --> Controller Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> Model Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> Model Class Initialized
+DEBUG - 2012-07-22 18:59:59 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 18:59:59 --> Final output sent to browser
+DEBUG - 2012-07-22 18:59:59 --> Total execution time: 0.0297
+ERROR - 2012-07-22 19:00:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+DEBUG - 2012-07-22 19:00:00 --> Config Class Initialized
+DEBUG - 2012-07-22 19:00:00 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:00:00 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:00:00 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:00:00 --> URI Class Initialized
+DEBUG - 2012-07-22 19:00:00 --> Router Class Initialized
+ERROR - 2012-07-22 19:00:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2012-07-22 19:00:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:00 --> Severity: Notice  --> Undefined variable: key1 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 19:00:00 --> Severity: Notice  --> Undefined variable: key2 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 19:00:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:00 --> Severity: Warning  --> socket_select(): 162 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:01 --> Severity: Warning  --> socket_select(): 162 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:01 --> Severity: Warning  --> socket_select(): 162 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:02 --> Severity: Warning  --> socket_select(): 162 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:02 --> Severity: Warning  --> socket_select(): 162 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:03 --> Severity: Warning  --> socket_select(): 162 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:00:03 --> Severity: Warning  --> socket_select(): 162 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+DEBUG - 2012-07-22 19:00:04 --> Config Class Initialized
+DEBUG - 2012-07-22 19:00:04 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:00:04 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:00:04 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:00:04 --> URI Class Initialized
+DEBUG - 2012-07-22 19:00:04 --> Router Class Initialized
+DEBUG - 2012-07-22 19:00:04 --> Output Class Initialized
+DEBUG - 2012-07-22 19:00:04 --> Security Class Initialized
+DEBUG - 2012-07-22 19:00:04 --> Input Class Initialized
+DEBUG - 2012-07-22 19:00:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:00:04 --> Language Class Initialized
+DEBUG - 2012-07-22 19:00:04 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:00:04 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:00:04 --> Session Class Initialized
+DEBUG - 2012-07-22 19:00:04 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:00:04 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:00:04 --> A session cookie was not found.
+DEBUG - 2012-07-22 19:00:04 --> Session routines successfully run
+DEBUG - 2012-07-22 19:00:04 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Config Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:00:08 --> URI Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Router Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Output Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Security Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Input Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:00:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:00:08 --> Language Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Session Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:00:08 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Session routines successfully run
+DEBUG - 2012-07-22 19:00:08 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Model Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Model Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 19:00:08 --> Final output sent to browser
+DEBUG - 2012-07-22 19:00:08 --> Total execution time: 0.0305
+DEBUG - 2012-07-22 19:00:08 --> Model Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Model Class Initialized
+DEBUG - 2012-07-22 19:00:08 --> Model Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> Config Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:00:24 --> URI Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> Router Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> Output Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> Security Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> Input Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:00:24 --> Language Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> Session Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:00:24 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:00:24 --> A session cookie was not found.
+DEBUG - 2012-07-22 19:00:24 --> Session routines successfully run
+DEBUG - 2012-07-22 19:00:24 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Config Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:00:28 --> URI Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Router Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Output Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Security Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Input Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:00:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:00:28 --> Language Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Session Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:00:28 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Session routines successfully run
+DEBUG - 2012-07-22 19:00:28 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Model Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> Model Class Initialized
+DEBUG - 2012-07-22 19:00:28 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 19:00:28 --> Final output sent to browser
+DEBUG - 2012-07-22 19:00:28 --> Total execution time: 0.0301
+DEBUG - 2012-07-22 19:00:29 --> Model Class Initialized
+DEBUG - 2012-07-22 19:00:29 --> Model Class Initialized
+DEBUG - 2012-07-22 19:00:29 --> Model Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Config Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:03:03 --> URI Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Router Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Output Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Security Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Input Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:03:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:03:03 --> Language Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Session Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:03:03 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Session routines successfully run
+DEBUG - 2012-07-22 19:03:03 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Model Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> Model Class Initialized
+DEBUG - 2012-07-22 19:03:03 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 19:03:03 --> Final output sent to browser
+DEBUG - 2012-07-22 19:03:03 --> Total execution time: 0.0309
+ERROR - 2012-07-22 19:03:03 --> Severity: Notice  --> Undefined property: User::$room /home/pirtaja/the3B/application/controllers/server.php 463
+DEBUG - 2012-07-22 19:03:07 --> Config Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:03:07 --> URI Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> Router Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> Output Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> Security Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> Input Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:03:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:03:07 --> Language Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> Session Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:03:07 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> Session routines successfully run
+DEBUG - 2012-07-22 19:03:07 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> Model Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> Model Class Initialized
+DEBUG - 2012-07-22 19:03:07 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 19:03:07 --> Final output sent to browser
+DEBUG - 2012-07-22 19:03:07 --> Total execution time: 0.0272
+DEBUG - 2012-07-22 19:03:10 --> Config Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:03:10 --> URI Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> Router Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> Output Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> Security Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> Input Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:03:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:03:10 --> Language Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> Session Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:03:10 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> Session routines successfully run
+DEBUG - 2012-07-22 19:03:10 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> Model Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> Model Class Initialized
+DEBUG - 2012-07-22 19:03:10 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 19:03:10 --> Final output sent to browser
+DEBUG - 2012-07-22 19:03:10 --> Total execution time: 0.0228
+DEBUG - 2012-07-22 19:03:58 --> Config Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:03:58 --> URI Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Router Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Output Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Security Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Input Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:03:58 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:03:58 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:03:58 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:03:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:03:58 --> Language Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Session Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:03:58 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Session routines successfully run
+DEBUG - 2012-07-22 19:03:58 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Model Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Model Class Initialized
+DEBUG - 2012-07-22 19:03:58 --> Final output sent to browser
+DEBUG - 2012-07-22 19:03:58 --> Total execution time: 0.0356
+DEBUG - 2012-07-22 19:04:03 --> Config Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:04:03 --> URI Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> Router Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> Output Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> Security Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> Input Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:04:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:04:03 --> Language Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> Session Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:04:03 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> Session routines successfully run
+DEBUG - 2012-07-22 19:04:03 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> Model Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> Model Class Initialized
+DEBUG - 2012-07-22 19:04:03 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 19:04:03 --> Final output sent to browser
+DEBUG - 2012-07-22 19:04:03 --> Total execution time: 0.0248
+DEBUG - 2012-07-22 19:04:05 --> Config Class Initialized
+DEBUG - 2012-07-22 19:04:05 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:04:05 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:04:05 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:04:05 --> URI Class Initialized
+DEBUG - 2012-07-22 19:04:05 --> Router Class Initialized
+DEBUG - 2012-07-22 19:04:05 --> Output Class Initialized
+DEBUG - 2012-07-22 19:04:05 --> Security Class Initialized
+DEBUG - 2012-07-22 19:04:05 --> Input Class Initialized
+DEBUG - 2012-07-22 19:04:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:04:05 --> Language Class Initialized
+DEBUG - 2012-07-22 19:04:06 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:04:06 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:04:06 --> Session Class Initialized
+DEBUG - 2012-07-22 19:04:06 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:04:06 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:04:06 --> A session cookie was not found.
+DEBUG - 2012-07-22 19:04:06 --> Session routines successfully run
+DEBUG - 2012-07-22 19:04:06 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Config Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:04:08 --> URI Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Router Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Output Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Security Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Input Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:04:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:04:08 --> Language Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Session Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:04:08 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Session routines successfully run
+DEBUG - 2012-07-22 19:04:08 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Model Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Model Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 19:04:08 --> Final output sent to browser
+DEBUG - 2012-07-22 19:04:08 --> Total execution time: 0.0223
+DEBUG - 2012-07-22 19:04:08 --> Model Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Model Class Initialized
+DEBUG - 2012-07-22 19:04:08 --> Model Class Initialized
+ERROR - 2012-07-22 19:04:45 --> Severity: Notice  --> Undefined property: User::$room /home/pirtaja/the3B/application/controllers/server.php 125
+DEBUG - 2012-07-22 19:06:36 --> Config Class Initialized
+DEBUG - 2012-07-22 19:06:36 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:06:36 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:06:36 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:06:36 --> URI Class Initialized
+DEBUG - 2012-07-22 19:06:36 --> Router Class Initialized
+DEBUG - 2012-07-22 19:06:36 --> Output Class Initialized
+DEBUG - 2012-07-22 19:06:36 --> Security Class Initialized
+DEBUG - 2012-07-22 19:06:36 --> Input Class Initialized
+DEBUG - 2012-07-22 19:06:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:06:36 --> Language Class Initialized
+DEBUG - 2012-07-22 19:06:36 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:06:36 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:06:36 --> Session Class Initialized
+DEBUG - 2012-07-22 19:06:36 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:06:36 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:06:36 --> A session cookie was not found.
+DEBUG - 2012-07-22 19:06:36 --> Session routines successfully run
+DEBUG - 2012-07-22 19:06:36 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Config Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:06:39 --> URI Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Router Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Output Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Security Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Input Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:06:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:06:39 --> Language Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Session Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:06:39 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Session routines successfully run
+DEBUG - 2012-07-22 19:06:39 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Model Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Model Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 19:06:39 --> Final output sent to browser
+DEBUG - 2012-07-22 19:06:39 --> Total execution time: 0.0320
+DEBUG - 2012-07-22 19:06:39 --> Model Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Model Class Initialized
+DEBUG - 2012-07-22 19:06:39 --> Model Class Initialized
+ERROR - 2012-07-22 19:06:43 --> Severity: 4096  --> Object of class User could not be converted to string /home/pirtaja/the3B/application/controllers/server.php 125
+ERROR - 2012-07-22 19:06:43 --> Severity: Notice  --> Undefined property: User::$room /home/pirtaja/the3B/application/controllers/server.php 126
+DEBUG - 2012-07-22 19:07:43 --> Config Class Initialized
+DEBUG - 2012-07-22 19:07:43 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:07:43 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:07:43 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:07:43 --> URI Class Initialized
+DEBUG - 2012-07-22 19:07:43 --> Router Class Initialized
+DEBUG - 2012-07-22 19:07:43 --> Output Class Initialized
+DEBUG - 2012-07-22 19:07:43 --> Security Class Initialized
+DEBUG - 2012-07-22 19:07:43 --> Input Class Initialized
+DEBUG - 2012-07-22 19:07:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:07:43 --> Language Class Initialized
+DEBUG - 2012-07-22 19:07:44 --> Config Class Initialized
+DEBUG - 2012-07-22 19:07:44 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:07:44 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:07:44 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:07:44 --> URI Class Initialized
+DEBUG - 2012-07-22 19:07:44 --> Router Class Initialized
+DEBUG - 2012-07-22 19:07:44 --> Output Class Initialized
+DEBUG - 2012-07-22 19:07:44 --> Security Class Initialized
+DEBUG - 2012-07-22 19:07:44 --> Input Class Initialized
+DEBUG - 2012-07-22 19:07:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:07:44 --> Language Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> Config Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:07:53 --> URI Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> Router Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> Output Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> Security Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> Input Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:07:53 --> Language Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> Session Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:07:53 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:07:53 --> A session cookie was not found.
+DEBUG - 2012-07-22 19:07:53 --> Session routines successfully run
+DEBUG - 2012-07-22 19:07:53 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Config Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:07:59 --> URI Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Router Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Output Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Security Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Input Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:07:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:07:59 --> Language Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Session Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:07:59 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Session routines successfully run
+DEBUG - 2012-07-22 19:07:59 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Model Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> Model Class Initialized
+DEBUG - 2012-07-22 19:07:59 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 19:07:59 --> Final output sent to browser
+DEBUG - 2012-07-22 19:07:59 --> Total execution time: 0.0312
+ERROR - 2012-07-22 19:08:01 --> Severity: Notice  --> Undefined variable: key1 /home/pirtaja/the3B/application/controllers/server.php 522
+ERROR - 2012-07-22 19:08:01 --> Severity: Notice  --> Undefined variable: key2 /home/pirtaja/the3B/application/controllers/server.php 522
+ERROR - 2012-07-22 19:08:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+DEBUG - 2012-07-22 19:08:12 --> Config Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:08:12 --> URI Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Router Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Output Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Security Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Input Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:08:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:08:12 --> Language Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Session Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:08:12 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Session routines successfully run
+DEBUG - 2012-07-22 19:08:12 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Model Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Model Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 19:08:12 --> Final output sent to browser
+DEBUG - 2012-07-22 19:08:12 --> Total execution time: 0.0310
+ERROR - 2012-07-22 19:08:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+DEBUG - 2012-07-22 19:08:12 --> Model Class Initialized
+DEBUG - 2012-07-22 19:08:12 --> Model Class Initialized
+ERROR - 2012-07-22 19:08:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+DEBUG - 2012-07-22 19:08:12 --> Model Class Initialized
+ERROR - 2012-07-22 19:08:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:21 --> Severity: Notice  --> Undefined property: User::$room /home/pirtaja/the3B/application/controllers/server.php 126
+DEBUG - 2012-07-22 19:08:49 --> Config Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:08:49 --> URI Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> Router Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> Output Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> Security Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> Input Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:08:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:08:49 --> Language Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> Session Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:08:49 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> Session routines successfully run
+DEBUG - 2012-07-22 19:08:49 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> Model Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> Model Class Initialized
+DEBUG - 2012-07-22 19:08:49 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 19:08:49 --> Final output sent to browser
+DEBUG - 2012-07-22 19:08:49 --> Total execution time: 0.0287
+DEBUG - 2012-07-22 19:08:54 --> Config Class Initialized
+DEBUG - 2012-07-22 19:08:54 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:08:54 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:08:54 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:08:54 --> URI Class Initialized
+DEBUG - 2012-07-22 19:08:54 --> Router Class Initialized
+DEBUG - 2012-07-22 19:08:54 --> Output Class Initialized
+DEBUG - 2012-07-22 19:08:54 --> Security Class Initialized
+DEBUG - 2012-07-22 19:08:54 --> Input Class Initialized
+DEBUG - 2012-07-22 19:08:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:08:54 --> Language Class Initialized
+DEBUG - 2012-07-22 19:08:54 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:08:54 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:08:54 --> Session Class Initialized
+DEBUG - 2012-07-22 19:08:54 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:08:54 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:08:54 --> A session cookie was not found.
+DEBUG - 2012-07-22 19:08:54 --> Session routines successfully run
+DEBUG - 2012-07-22 19:08:54 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Config Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:08:57 --> URI Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Router Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Output Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Security Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Input Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:08:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:08:57 --> Language Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Session Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:08:57 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Session routines successfully run
+DEBUG - 2012-07-22 19:08:57 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Model Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> Model Class Initialized
+DEBUG - 2012-07-22 19:08:57 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 19:08:57 --> Final output sent to browser
+DEBUG - 2012-07-22 19:08:57 --> Total execution time: 0.0302
+ERROR - 2012-07-22 19:08:58 --> Severity: Notice  --> Undefined variable: key1 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 19:08:58 --> Severity: Notice  --> Undefined variable: key2 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 19:08:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:08:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:09:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+DEBUG - 2012-07-22 19:10:20 --> Config Class Initialized
+DEBUG - 2012-07-22 19:10:20 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:10:20 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:10:20 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:10:20 --> URI Class Initialized
+DEBUG - 2012-07-22 19:10:20 --> Router Class Initialized
+DEBUG - 2012-07-22 19:10:20 --> Output Class Initialized
+DEBUG - 2012-07-22 19:10:20 --> Security Class Initialized
+DEBUG - 2012-07-22 19:10:20 --> Input Class Initialized
+DEBUG - 2012-07-22 19:10:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:10:20 --> Language Class Initialized
+DEBUG - 2012-07-22 19:10:20 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:10:20 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:10:20 --> Session Class Initialized
+DEBUG - 2012-07-22 19:10:20 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:10:20 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:10:20 --> A session cookie was not found.
+DEBUG - 2012-07-22 19:10:20 --> Session routines successfully run
+DEBUG - 2012-07-22 19:10:20 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Config Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Hooks Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 19:10:29 --> URI Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Router Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Output Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Security Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Input Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> XSS Filtering completed
+DEBUG - 2012-07-22 19:10:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-07-22 19:10:29 --> Language Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Loader Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Database Driver Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Session Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Helper loaded: string_helper
+DEBUG - 2012-07-22 19:10:29 --> Encrypt Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Session routines successfully run
+DEBUG - 2012-07-22 19:10:29 --> Controller Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Model Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> Model Class Initialized
+DEBUG - 2012-07-22 19:10:29 --> File loaded: application/views/playroom.php
+DEBUG - 2012-07-22 19:10:29 --> Final output sent to browser
+DEBUG - 2012-07-22 19:10:29 --> Total execution time: 0.0299
+ERROR - 2012-07-22 19:10:30 --> Severity: Notice  --> Undefined variable: key1 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 19:10:30 --> Severity: Notice  --> Undefined variable: key2 /home/pirtaja/the3B/application/controllers/server.php 521
+ERROR - 2012-07-22 19:10:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:10:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:11:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:12:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:13:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:14:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:15:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:16:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:17:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:18:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:19:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:20:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:21:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:22:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:23:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:24:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:25:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:26:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:27:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:28:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:29:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:30:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:31:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:32:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:33:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:34:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:35:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:36:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:37:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:38:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:39:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:40:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:48 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:49 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:50 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:51 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:52 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:53 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:54 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:55 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:56 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:57 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:58 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:41:59 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:00 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:01 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:02 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:03 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:04 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:05 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:06 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:07 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:08 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:09 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:10 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:11 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:12 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:13 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:14 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:15 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:16 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:17 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:18 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:19 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:20 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:21 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:22 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:23 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:24 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:25 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:26 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:27 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:28 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:29 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:30 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:31 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:32 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:33 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:34 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:35 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:36 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:37 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:38 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:39 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:40 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:41 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:42 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:43 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:44 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:45 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:46 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+ERROR - 2012-07-22 19:42:47 --> Severity: Warning  --> socket_select(): 56 is not a valid Socket resource /home/pirtaja/the3B/application/controllers/server.php 32
+DEBUG - 2012-07-22 22:04:43 --> Config Class Initialized
+DEBUG - 2012-07-22 22:04:43 --> Hooks Class Initialized
+DEBUG - 2012-07-22 22:04:43 --> Utf8 Class Initialized
+DEBUG - 2012-07-22 22:04:43 --> UTF-8 Support Enabled
+DEBUG - 2012-07-22 22:04:43 --> URI Class Initialized
+DEBUG - 2012-07-22 22:04:43 --> Router Class Initialized
+ERROR - 2012-07-22 22:04:43 --> 404 Page Not Found --> favicon.ico

@@ -263,18 +263,20 @@ function makeRoom(obj){
 		obj.find('input[name=name]').focus();
 		return;
 	}
-	$.ajax({type:"POST",url:"/roomlist/doMakeRoom/",data:data}).done(function(data){
-		switch(data){//data is room number
-			case '-1': 	alert("방 이름을 입력해 주세요.");
-				obj.find('input[name=name]').focus();
-				break;
-			case '0':
-				alert('방 정보가 잘못 되었습니다.');
-				break;
-			default:
-				location.href="/game/index/"+data+'/';
-		}
+
+	$.ajax({type:"POST",url:"/server/isServerOn/",data:data}).done(function(data){
+		alert(data);
 	});
+
+	/*$.ajax({type:"POST",url:"/roomlist/doMakeRoom/",data:data}).done(function(data){
+		alert(data);
+		switch(data){//data is room number
+			case '-2':	alert("서버를 점검중입니다. 운영자에게 문의 해 주세요."); break;
+			case '-1': 	alert("방 이름을 입력해 주세요.");obj.find('input[name=name]').focus();break;
+			case '0':	alert('방 정보가 잘못 되었습니다.');	break;
+			//default:	location.href="/game/index/"+data+'/';
+		}
+	});*/
 }
 /******************************************************************/
 function loadUserStatus(){ // not yet implementation 

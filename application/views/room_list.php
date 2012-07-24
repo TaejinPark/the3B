@@ -164,7 +164,7 @@
 				</div>
 				<div class="width80">
 					<label for="roomname">방 이름</label>
-					<input type="text" id="roomname" name="name" value="" maxlength="50" data-mini="true" />
+					<input type="text" id="roomname" name="name" value="test_0724_" maxlength="50" data-mini="true" />
 				</div>
 				<div>
 					<label for="maxuser">참가자</label>

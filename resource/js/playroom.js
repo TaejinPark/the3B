@@ -8,21 +8,23 @@ $("div[data-role='page']").live( "pageshow", function( event )
 });
 
 var play = false;
-
+var contentHeight = 0 ;
 function resizeContent()
 {
-	var contentHeight ;
+	var header_obj = $("div[data-role='header']") ;
+	var footer_obj = $("div[data-role='footer']") ;
 	var browserWidth = document.documentElement.clientWidth;
 	var browserHeight = document.documentElement.clientHeight;
-	var headerHeight = parseInt( $("div[data-role='header']").css( "height" ) );
-	var footerHeight = parseInt( $("div[data-role='footer']").height());
-	
-	if(navigator.userAgent.indexOf('iPhone') != -1 || navigator.userAgent.indexOf('iphone') != -1){
-		$("#content").css("height" , browserHeight - headerHeight - footerHeight +60);
-	}
-	else
+    var headerHeight = parseInt( header_obj.height())+parseInt(header_obj.css("padding-bottom"))+parseInt(header_obj.css("padding-top"))+parseInt(header_obj.css("border-top-width"))+parseInt(header_obj.css("border-bottom-width"));
+    var footerHeight = parseInt(footer_obj.height())+parseInt(footer_obj.css("padding-bottom"))+parseInt(footer_obj.css("padding-top"))+parseInt($("#footer").css("border-bottom-width"))+parseInt(footer_obj.css("border-top-width"));
+    
+    // set content size as browswer heigt - fixed header height
+    if(navigator.userAgent.indexOf('iPhone') != -1 || navigator.userAgent.indexOf('iphone') != -1)
+		$("#content").css("height" , browserHeight - headerHeight - footerHeight + 65); // if browser is iphone , content height becomes more higher than PC browser
+	else // normal browser
 		$("#content").css("height" , browserHeight - headerHeight - footerHeight);
 	contentHeight = $("#content").height();
+	
 	$("#chat").css("height" , contentHeight);
 	$("#gamedisplay").css("height" , browserHeight);
 	
@@ -155,17 +157,17 @@ function process(msg){
 	} catch (ex){ log(ex); }
 	switch(data.cmd){
 		case "JOIN": 
-			chatAppend(data.data.Nickname+"님이 참가 하셨습니다."); 
+			chatAppend('['+data.data.Nickname+"] 님이 참가 하셨습니다."); 
 			userAppend(data.data.UserID,data.data.Nickname); break;
 		
 		case "USERLIST": 
 			makeUserList(data.data); break;
 		
 		case "CHAT": 
-			chatAppend(data.data.Nickname+": "+data.data.Message); break;
+			chatAppend(data.data.Nickname+": "+data.data.Message);break;
 		
 		case "KICK": 
-			chatAppend($('.user_'+data.data.UserID+' span').text()+"님이 강퇴 강하셨습니다.");
+			chatAppend('['+data.data.Nickname+"] 님이 강퇴 당하셨습니다.");
 			$('.user_'+data.data.UserID).remove(); break;
 		
 		case "CHANGE_SETTING": 
@@ -177,22 +179,26 @@ function process(msg){
 			break;
 		
 		case "CHANGE_OWNER": 
-			owner = data.data.UserID; chatAppend("방장이 변경되었습니다. 방장:"+data.data.Nickname);
+			owner = data.data.UserID; chatAppend('['+data.data.Nickname+'] 님이 방장이 셨습니다.');
 			sendCmd="USERLIST"; send("USERLIST",{});
 			break;
 		
 		case "READY": 
-			chatAppend(data.data.Nickname+"님이 준비가 완료되었습니다."); break;
+			chatAppend('['+data.data.Nickname+"] 님이 준비가 완료되었습니다."); break;
 		
 		case "UNREADY": 
-			chatAppend(data.data.Nickname+"님이 준비를 취소 하였습니다."); break;
+			chatAppend('['+data.data.Nickname+"] 님이 준비를 취소 하였습니다."); break;
 		
 		case "START": 
-			chatAppend("게임이 곧 시작됩니다. 준비하세요!"); setTimeout(startBingo,4000); break;
+			chatAppend("게임이 곧 시작됩니다. 준비하세요!"); 
+			setTimeout(startBingo,4000); 
+			break;
 		
 		case "QUIT": 
 			if(nickname==data.data.Nickname) location.href="/roomlist/";
-			chatAppend($('.user_'+data.data.UserID+' span').text()+"님이 방에서 나갔습니다.");
+			
+			//chatAppend($('.user_'+data.data.Nickname+' span').text()+"님이 방에서 나갔습니다.");
+			chatAppend('['+data.data.Nickname+"] 님이 방에서 나갔습니다.");
 			$('.nick_'+data.data.Nickname).parent().remove(); break;
 		
 		case "BINGO_START": 
@@ -229,8 +235,12 @@ function process(msg){
 			switch(sendCmd){
 				case "LOGIN": sendJoin(); break;
 				case "JOIN": initJoin(); chatAppend("방에 접속하였습니다."); sendUserList(); break;
-				case "READY": $("#play_button a").text("준비취소"); break;
-				case "UNREADY": $("#play_button a").text("준비"); break;
+				case "READY": 	$("#ready_button").css('display','none'); 
+								$("#already_button").css('display','block'); 
+								break;
+				case "UNREADY": $("#ready_button").css('display','block'); 
+								$("#already_button").css('display','none'); 
+								break;
 			}
 			break;
 	}
@@ -239,6 +249,8 @@ function process(msg){
 function chatAppend(msg){
 	var obj = $("#chat");
 	obj.append("<br />"+msg);
+	var scroll_position  = $("#chat").scrollTop();
+	$("#chat").scrollTop(scroll_position+20);
 }
 
 function message(msg){

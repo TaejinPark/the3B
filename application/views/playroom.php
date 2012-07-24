@@ -289,7 +289,8 @@ $opt = $room->getGameOption();
 					<a type="button">종료</a>
 				</div>
 				<div id="play_button">
-					<a type="button"><?php echo ($member->getUserID()==$room->getOwner()?'시작':'준비');?></a>
+					<?php echo ($member->getUserID()==$room->getOwner()?'<a type="button" id="start_button">시작</a>':'<a type="button" id="ready_button">준비</a>');?>	
+					<a type="button" id="already_button">준비취소</a>
 				</div>
 			</div>
 		</div>

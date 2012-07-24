@@ -24,7 +24,7 @@ body {overflow-y: hidden;}
 
 #content			{margin:0px; padding:0px;}
 
-#chat					{margin:10px 20px 10px 10px;}
+#chat					{margin:0px 20px; overflow: auto;}
 
 #participant_list		{margin:0px; padding:10px 0px; display:none;}
 
@@ -54,6 +54,8 @@ body {overflow-y: hidden;}
 #participant_button		{float:left;}
 #chat_list_button		{float:left;}
 
+#already_button			{display: none;}
+
 #gamedisplay			{display:none;}
 
 /* bingo css */
@@ -68,17 +70,23 @@ body {overflow-y: hidden;}
 #remaintime				{text-align: center;}
 
 
+
+/*dice css*/
+#dice_result {display: none ;}
+
+
+
+
+/*debug*/
+
 #debug { position: absolute; right: 0; top: 30px; border: 1px solid #000; 
 	font-size: 11px; font-family: Dotum,sans-serif; 
 	width: 200px; height: 100px; display:block;}
 #debug div { width: 398px; height: 100px; border: 1px solid #000; color: #000; text-shadow: none; overflow: auto; }
 #debug input { width: 390px; border: 1px solid #666; }
-
 #okSelect { display: none; }
 #turn { display: none; }
 #messageWindow { width: 100%; height: 30px; text-align:center; font-size:15px; }
-#gameResult span { width: 100px; }
-#gameResult { width: 100%; height: auto; min-height: 100px; }
 
-/*dice css*/
-#dice_result {display: none ;}
+#gameResult span { width: 100px; }
+#gameResult { width: 100%; height: auto; min-height: 100px; display: none; }

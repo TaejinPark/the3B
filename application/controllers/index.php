@@ -1,24 +1,15 @@
-<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-
+<?php 
+if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 include_once(APPPATH.'models/member.php');
-
 class Index extends CI_Controller {
 
-	function __construct() {
-		parent::__construct();
-	}
+	function __construct() {parent::__construct();}
 
-	function index() {
-		//load MainPage
-		$this->load->view('index');
-	}
+	function index() {$this->load->view('index');}// load index.php file (main page)
 
-	function doLogin(){
+	function doLogin(){ // do login process
 		$data = $this->session->userdata('member');
-		if($data){
-			echo 'existslogin';
-			return;
-		}
+		if($data){echo 'existslogin';return;}
 
 		$id = $this->input->post('userID');
 		$password = $this->input->post('password');
@@ -31,7 +22,7 @@ class Index extends CI_Controller {
 			return;
 		}
 
-		//session
+		//session check and registration
 		$this->MemberDAO->updateSessionID($member->getUserID(),$this->session->userdata('session_id'));
 		$member->setSessionID($this->session->userdata('session_id'));
 		$this->session->set_userdata('member',$member);
@@ -71,23 +62,17 @@ class Index extends CI_Controller {
 		else echo 'true';
 	}
 
-	function isExistNickname(){
+	function isExistNickname(){ // nick name check
 		$nickname = $this->input->post('nickname');
-
 		$this->load->model('MemberDAO');
 		$member = $this->MemberDAO->getUserByNickname($nickname);
-
 		if($member->getUserID()) echo 'false';
 		else echo 'true';
 	}
 
-	function doGuestLogin(){
+	function doGuestLogin(){ // do login as a guest
 		$data = $this->session->userdata('member');
-		if($data){
-			echo 'existslogin';
-			return;
-		}
-
+		if($data){echo 'existslogin';return;}
 		$member = new Member();
 		$member->setUserID('__Guest'.strtoupper(substr(md5(rand()),0,6)));
 		$member->setNickname($member->getUserID());
@@ -95,5 +80,4 @@ class Index extends CI_Controller {
 		echo 'true';
 	}
 }
-
 ?>

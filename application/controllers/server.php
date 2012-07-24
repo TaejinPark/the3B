@@ -23,6 +23,19 @@ class Server extends CI_Controller {
 		$this->load->database();
 	}
 
+	function isServerOn(){
+		$this->load->library('The3b_Utils');
+		echo 1 ; 
+		return ;
+
+		//$result = $this->Utils->isServerOn();
+
+		if($result)
+			echo 1 ;
+		else
+			echo 0 ;
+	}
+
 	function start(){
 		$this->master = $this->WebSocket(__SERVER__,__PORT__);
 		$this->sockets = array($this->master);

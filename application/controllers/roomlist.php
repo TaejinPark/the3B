@@ -40,6 +40,7 @@ class RoomList extends CI_Controller {
 	}
 
 	function doMakeRoom(){
+		// check that server is working
 		/*
 		$this->input->post(value) is "data" by submit:post from T3B.js .
 		data{name, maxuser,private,password,roomtype,gametype,gameoption_0~3}.
