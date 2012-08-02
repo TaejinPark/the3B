@@ -22,6 +22,12 @@ $opt = $room->getGameOption();
 			var owner = "<?php echo $room->getOwner();?>";
 			var sid = "<?php echo $member->getSessionID();?>";
 			$(document).ready(function(){
+				$.ajax({type:"POST",url:"/server/isServerOn/"}).done(function(data){//check server is working				
+					if(!parseInt(data)){
+						alert("서버를 점검중입니다. 운영자에게 문의 해 주세요. 메인화면으로 이동 합니다.");
+						location.href="/";
+					}
+				});
 				init();
 				$('#debug input').keypress(function(e){
 					if(e.keyCode==13) sendDebug();

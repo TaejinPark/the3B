@@ -116,9 +116,9 @@ function init(){
   try{
     socket = new WebSocket(host);
     log('WebSocket - status '+socket.readyState);
-    socket.onopen    = connected;
-    socket.onmessage = function(msg){ log("Received: "+msg.data); process(msg.data); };
-    socket.onclose   = function(msg){ log("Disconnected - status "+this.readyState); };
+    socket.onopen	= function(msg){ log("Welcome - status "+this.readyState);sendLoginInfo(sid,userid);}
+    socket.onmessage= function(msg){ log("Received: "+msg.data); process(msg.data); };
+    socket.onclose	= function(msg){ log("Disconnected - status "+this.readyState); };
   }
   catch(ex){ log(ex); }
 }
@@ -143,11 +143,6 @@ function log(msg){ if(debug) $("#debug div").append("<br>"+msg); }
 function trim(str) { return str.replace(/^\s\s*/, '').replace(/\s\s*$/, ''); }
 
 String.prototype.trim = function() { return this.replace(/^\s\s*/, '').replace(/\s\s*$/, ''); }
-
-function connected(msg){
-	log("Welcome - status "+this.readyState);
-	sendLoginInfo(sid,userid);
-}
 
 function process(msg){
 	if(msg.substr(0,1)!="{") msg = msg.substr(1);
@@ -316,6 +311,8 @@ function sendChat(){
 	sendCmd = "CHAT";
 	var data = {};
 	data.Message = $("#msg").val();
+	if(data.Message == "" | !data.Message)
+		return ;
 	$("#msg").val("");
 	send("CHAT",data);
 }

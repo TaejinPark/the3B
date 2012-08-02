@@ -1,3 +1,6 @@
+<?php
+header("Pragma: no-cache");
+?>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -14,7 +17,14 @@
 		var currentStart = 0; // current searching room index
 		$(document).ready(function(){
 			viewRoomListInit();
-			loadRoomList(0);// initialy view max 15 rooms 
+			$.ajax({type:"POST",url:"/server/isServerOn/"}).done(function(data){//check server is working				
+				if(!parseInt(data)){
+					alert("서버 점검중입니다. 운영자에게 문의 해 주세요. 메인화면으로 이동 합니다.");
+					location.href="/";
+				}
+				else
+					loadRoomList(0);// initialy view max 15 rooms 
+			});
 			$('select[name=find_room_by_type]').change(function(){currentStart=0;loadRoomList(0);}); // fillter room list by gametype of rooms
 			$('span.reload').click(function(){currentStart=0;loadRoomList(0);}); // refresh room list
 			$('#makeroombutton').click(function(){makeRoom($(this).parent().parent()); return false;}); // go menu about making room
@@ -164,7 +174,7 @@
 				</div>
 				<div class="width80">
 					<label for="roomname">방 이름</label>
-					<input type="text" id="roomname" name="name" value="test_0724_" maxlength="50" data-mini="true" />
+					<input type="text" id="roomname" name="name" value="test_0801_" maxlength="50" data-mini="true" />
 				</div>
 				<div>
 					<label for="maxuser">참가자</label>

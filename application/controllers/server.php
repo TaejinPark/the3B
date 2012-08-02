@@ -24,12 +24,8 @@ class Server extends CI_Controller {
 	}
 
 	function isServerOn(){
-		$this->load->library('The3b_Utils');
-		echo 1 ; 
-		return ;
-
-		//$result = $this->Utils->isServerOn();
-
+		$this->load->library('utils');
+		$result = $this->utils->isServerOn();
 		if($result)
 			echo 1 ;
 		else
@@ -37,6 +33,7 @@ class Server extends CI_Controller {
 	}
 
 	function start(){
+		$this->db->empty_table('room_user'); // delete users in room data
 		$this->master = $this->WebSocket(__SERVER__,__PORT__);
 		$this->sockets = array($this->master);
 

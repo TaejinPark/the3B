@@ -18,6 +18,12 @@
 			$('#login form').submit(function(){doLogin($(this));return false;});// do login process
 			$('#join form').submit(function(){doJoin($(this));return false;});// do join process
 			$("#content").click(function(){view_clear();});// clear login and join form
+			$.ajax({type:"POST",url:"/server/isServerOn/"}).done(function(data){// check server is working
+				if(!parseInt(data)){
+					$('#header div').css('display','hidden');
+					$('#header div').text('서버 점검중');
+				}
+			});
 		});
 		</script>
 	</head>

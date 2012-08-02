@@ -5,29 +5,45 @@ $(window).resize(function() {
 	viewRoomListInit();
 	formPosition();
 	resizeContent();
-	
 });
 
 $("div[data-role='page']").live( "pageshow", function( event )
 {
 	viewRoomListInit();
-    resizeContent();
-    formPosition();
+	resizeContent();
+	formPosition();
+
 });
 
 function resizeContent()
 {
-	var header_obj = $("div[data-role='header']") ;
-	var footer_obj = $("div[data-role='footer']") ;
-	var browserHeight = document.documentElement.clientHeight;
-    var headerHeight = parseInt( header_obj.height())+parseInt(header_obj.css("padding-bottom"))+parseInt(header_obj.css("padding-top"))+parseInt(header_obj.css("border-top-width"))+parseInt(header_obj.css("border-bottom-width"));
-    var footerHeight = parseInt(footer_obj.height())+parseInt(footer_obj.css("padding-bottom"))+parseInt(footer_obj.css("padding-top"))+parseInt($("#footer").css("border-bottom-width"))+parseInt(footer_obj.css("border-top-width"));
-    
-    // set content size as browswer heigt - fixed header height
-    if(navigator.userAgent.indexOf('iPhone') != -1 || navigator.userAgent.indexOf('iphone') != -1)
-		$("#content").css("height" , browserHeight - headerHeight + 60); // if browser is iphone , content height becomes more higher than PC browser
-	else // normal browser
-		$("#content").css("height" , browserHeight - headerHeight );
+	var header_obj = $("div[data-role='header']") ; // get object header
+	var footer_obj = $("div[data-role='footer']") ; // get object footer
+	var browserHeight = document.documentElement.clientHeight; // get browser height
+	
+	// get header height
+	var headerHeight=	parseInt( header_obj.height()) +
+						parseInt(header_obj.css("padding-bottom")) +
+						parseInt(header_obj.css("padding-top")) +
+						parseInt(header_obj.css("border-top-width")) +
+						parseInt(header_obj.css("border-bottom-width"));
+	// get footer height
+	var footerHeight=	parseInt(footer_obj.height()) +
+						parseInt(footer_obj.css("padding-bottom")) +
+						parseInt(footer_obj.css("padding-top")) +
+						parseInt($("#footer").css("border-bottom-width")) +
+						parseInt(footer_obj.css("border-top-width"));
+
+	var contentHeight = browserHeight - headerHeight - footerHeight ;
+	// set content size as browser's height minus fixed header and footer height.
+	if(navigator.userAgent.indexOf('iPhone') != -1 || navigator.userAgent.indexOf('iphone') != -1){
+		// if os is iphone , content height becomes more higher than PC browser. because 
+		$("div[data-role='content']").css("height" , contentHeight + 60); 
+	}
+	else{
+		// normal browser
+		$("div[data-role='content']").css("height" , contentHeight);
+	}
 }
 
 // url : index
@@ -263,21 +279,15 @@ function makeRoom(obj){
 		obj.find('input[name=name]').focus();
 		return;
 	}
-
-	$.ajax({type:"POST",url:"/server/isServerOn/",data:data}).done(function(data){
-		alert(data);
-	});
-
-	/*$.ajax({type:"POST",url:"/roomlist/doMakeRoom/",data:data}).done(function(data){
-		alert(data);
+	$.ajax({type:"POST",url:"/roomlist/doMakeRoom/",data:data}).done(function(data){
 		switch(data){//data is room number
-			case '-2':	alert("서버를 점검중입니다. 운영자에게 문의 해 주세요."); break;
 			case '-1': 	alert("방 이름을 입력해 주세요.");obj.find('input[name=name]').focus();break;
 			case '0':	alert('방 정보가 잘못 되었습니다.');	break;
-			//default:	location.href="/game/index/"+data+'/';
+			default:	location.href="/game/index/"+data+'/';
 		}
-	});*/
+	});
 }
+ 
 /******************************************************************/
 function loadUserStatus(){ // not yet implementation 
 	$.ajax({url:"/roomlist/getUserInfo/"}).done(function(data){
